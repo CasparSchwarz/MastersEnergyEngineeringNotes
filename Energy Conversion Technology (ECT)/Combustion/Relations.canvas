@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Energy Conversion Technology (ECT)/Combustion/Firing Systems/Dust or burner firing.md","id":"2ac3b74fe721397a","x":-540,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"Energy Conversion Technology (ECT)/Combustion/Firing Systems/Fluidised-bed combustion.md","id":"148c0967450ea5bb","x":-120,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"Energy Conversion Technology (ECT)/Combustion/Firing Systems/Fixed-bed or grate furnace.md","id":"821458dd673f2876","x":300,"y":-60,"width":400,"height":400},
+		{"type":"file","file":"Energy Conversion Technology (ECT)/Combustion/Combustion.md","id":"22b2db7065b38231","x":-120,"y":-800,"width":400,"height":460}
+	],
+	"edges":[
+		{"id":"63220d02fbed8ec9","fromNode":"2ac3b74fe721397a","fromSide":"top","toNode":"22b2db7065b38231","toSide":"bottom"},
+		{"id":"0f7fd7c34dc474ef","fromNode":"148c0967450ea5bb","fromSide":"top","toNode":"22b2db7065b38231","toSide":"bottom"},
+		{"id":"e40a9686f0327cf1","fromNode":"821458dd673f2876","fromSide":"top","toNode":"22b2db7065b38231","toSide":"bottom"}
+	]
+}
