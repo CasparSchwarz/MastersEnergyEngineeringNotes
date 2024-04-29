@@ -79,7 +79,41 @@ Die Gleichgewichtsspannung ändert sich jedoch mit der Ionenkonzentration, sodas
 $$
 \Delta G=\Delta G_S+RT\cdot(\sum ln[{a_i}^{j_i}]_{ende}-\sum ln[{a_i}^{j_i}]_{start})
 $$
+## Widerstandsspannung (Ohm'scher Verlust)
+$U_{Widerstand}$ beschreibt Ohm'sche Verluste in Polen, Stromsammlern, Gittern und Elektrolyt. Die Verluste verhalten sich wie folgt:
+- Direkt und linear proportional zu Lade- und Entladestrom
+- Direkter Spannungsabfall bei Beginn eines Stromflusses
+- Beim Entladen negativ, beim Aufladen positiv
+- Widerstand des Elektrolyten der größte Beitrag
+- Widerstand des Elektrolyten sinkt mit steigender Temperatur
 
+## Reaktionsspannung
+$U_{Reaktion}$ beschreibt den Spannungsabfall durch die elektrochemischen (Butler-Volmer-Gleichung [[Elektrochemie#Butler-Volmer Gleichung]]) und chemischen Reaktionen bei Stromfluss.
+- Wird bedingt durch den eigentlichen Lade-/Entladeprozess an beiden Elektroden
+- Führt beim Laden der Batterie zu einer Erhöhung der Batteriespannung gegenüber der Gleichgewichtsspannung und beim Entladen umgekehrt
+
+Zu jedem Zeitpunkt müssen anodische und kathodische Reaktion mit gleicher Rate $i_0$ ablaufen. Im Gleichgewichtszustand sind die Reaktionsraten gleich und **nicht Null**.
+- Anodische Reaktion führt zur Entladung (Oxidation); Entzug von Elektronen
+- Kathodische Reaktion führt zur Ladung (Reduktion); Zufuhr von Elektronen
+
+Für kleine und große Ströme kann die Butler-Volmer-Gleichung vereinfacht werden:
+$$
+\begin{align}
+Kleine\ Ströme:\ \Delta U &=\frac{RT}{F}\cdot \frac{I}{A\cdot i_0}
+\newline
+Große\ Ströme:\ \Delta U&=\frac{RT}{\alpha\cdot F}\cdot ln\left(\left|\frac{ I}{A\cdot i_0}\right|\right)
+\end{align}
+$$
+Bei $\alpha=0,5$ laufen anodische und kathodische Reaktionen gleichschnell ab:
+$$
+\begin{align}
+\Delta U&=\frac{1}{K}\cdot sinh^{-1}\left( \frac{I}{I_0} \right)
+\newline
+Mit \ K&=\frac{0,5\cdot n\cdot F}{RT}
+\end{align}
+$$
+## Diffusionsspannung
+$U_{Diffusion} beschreibt die aus dem Konzentrationsgradienten der Reaktanten resultierende Überspannung.
 ## Energie
 Die Ruhespannung multipliziert mit der Kapazität definiert die maximal aus der Batterie entnehmbare Energiemenge. Die Kapazität hängt linear mit der Menge der vohandenen Elektrodenmaterialien zusammen. Dabei wird die Batteriezelle nie bis 0 V entladen.
 
@@ -99,4 +133,17 @@ Bei der Entladung gibt es verschiedene Entladeregime:
 Bei der Ladung werden ebenfalls verschiedene Methoden verwendet:
 ![[Pasted image 20240422115430.png]]
 
-
+# Reversible und irreversible Wärme
+Die sogenannte kaliometrische Spannung wird berechnet aus der Gleichgewichtsspannung und der reversiblen Wärme:
+$$
+\begin{align}
+Q_{rev}&=T\cdot \Delta S=\Delta H-\Delta G
+\newline
+U_{cal}&=U_0-\frac{Q_{rev}}{n\cdot F}
+\end{align}
+$$
+Die Änderung der thermischen Energie ist die Summe aus reversiblen Wärme und Joule'scher Wärme:
+$$
+\frac{dQ_{thermal}}{dt}=\frac{dQ_{Joule}}{dt}+\frac{dQ_{rev}}{dt}=(U-U_{cal})\cdot I
+$$
+Wird der Entladeprozess im Gleichgewicht gehalten nimmt die Temperatur ab. Da dies der facto nicht möglich ist und die Batterie bei Überspannung betrieben werden muss, erwärmt sich die Batterie über Ohm'sche Spannungsabfälle.

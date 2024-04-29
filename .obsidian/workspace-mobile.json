@@ -15,7 +15,7 @@
               "state": {
                 "file": "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -132,5 +132,8 @@
     }
   },
   "active": "a6a78f2d316c3b1e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chemische Energieumwandlung 2 (CE2)/Elektrochemie.md",
+    "Batteriespeichersystemtechnik (BSS)/Grundlagen.md"
+  ]
 }
