@@ -170,3 +170,13 @@ $$
 Die Gasungsreaktion, bei der Wasserstoff und Sauerstoff entstehen, läuft immer ab, wenn die Zellspannung die Wasser-Zersetzungsspannung von 1,23 V überschreitet (siehe [[Elektrochemie#Elektrolyseur]]). Dabei entsteht an der positiven Elektrode Sauerstoff und an der negativen Elektrode Wasserstoff. Bei allen kommerziellen Batterien ist die Gasungsrate bei Raumtemperatur und Leerlaufspannung sehr gering. In Batterien mit wässrigem Elektrolyten muss nach einiger Zeit entionisiertes Wasser nachgefüllt werden, da durch den Gasungsprozess der Wasserspiegel sinkt.
 
 # Ragone Diagramm
+Das Ragone Diagramm zeigt die spezifische Leistung über der spezifischen Energie:
+![[SmartSelect_20240501_093920_Drive.jpg]]
+Dabei ist zu kennen, dass niemals eine hohe spezifische Leistung und eine hohe spezifische Energie realisiert werden können.
+
+# Metall-Luft Batterien
+In Metall-Luft Batterien reagiert Metall mit Sauerstoff aus der Luft. Die Oxidation setzt dabei Elektronen frei, welche in Form von elektrischen Strom nutzbar sind. In dieser Form von Batterie wird nur eine anstatt zwei Halbzellen benötigt. Zu möglichen Metall-Luft Systemen gehören:
+- Zink-Luft
+- Lithium-Luft
+- Aluminium-Luft
+
