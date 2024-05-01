@@ -88,7 +88,7 @@ $U_{Widerstand}$ beschreibt Ohm'sche Verluste in Polen, Stromsammlern, Gittern u
 - Widerstand des Elektrolyten sinkt mit steigender Temperatur
 
 ## Reaktionsspannung
-$U_{Reaktion}$ beschreibt den Spannungsabfall durch die elektrochemischen (Butler-Volmer-Gleichung [[Elektrochemie#Butler-Volmer Gleichung]]) und chemischen Reaktionen bei Stromfluss.
+$U_{Reaktion}$ beschreibt den Spannungsabfall durch die elektrochemischen (Butler-Volmer-Gleichung [[Elektrochemie#Butler-Volmer Gleichung]]) und chemischen Reaktionen bei Stromfluss. Sie ist dabei proportional zur inneren Oberfläche und logarithmisch abhängig vom Batteriestrom.
 - Wird bedingt durch den eigentlichen Lade-/Entladeprozess an beiden Elektroden
 - Führt beim Laden der Batterie zu einer Erhöhung der Batteriespannung gegenüber der Gleichgewichtsspannung und beim Entladen umgekehrt
 
@@ -113,7 +113,14 @@ Mit \ K&=\frac{0,5\cdot n\cdot F}{RT}
 \end{align}
 $$
 ## Diffusionsspannung
-$U_{Diffusion} beschreibt die aus dem Konzentrationsgradienten der Reaktanten resultierende Überspannung.
+$U_{Diffusion}$ beschreibt die aus dem Konzentrationsgradienten der Reaktanten resultierende Überspannung.
+- wegen langsamen Austausch mit Elektrolytreservoir
+- Kristallwachstum oder Abnahme der Porosität führt zu beschleunigter Abnahme der Reaktanten
+- Abbau von $U_{Diffusion}$ dauert Zeit -> nach Wartezeit weitere Entladung der Batterie möglich
+$$
+(U-U_0)_{conc}=-\frac{RT}{n\cdot F}\cdot ln\left(\frac{c}{c_0}\right)
+$$
+Durch den elektrochemischen Prozess entstehen Ladungsträgergradienten, da der äußere Strom die Reaktionsrate bestimmt und somit Ungleichgewichte und Konzentrationsgradienten entstehen. Die Reaktionsgeschwindigkeit hängt von der Temperatur ab (siehe [[Reaktionskinetik]])
 ## Energie
 Die Ruhespannung multipliziert mit der Kapazität definiert die maximal aus der Batterie entnehmbare Energiemenge. Die Kapazität hängt linear mit der Menge der vohandenen Elektrodenmaterialien zusammen. Dabei wird die Batteriezelle nie bis 0 V entladen.
 
