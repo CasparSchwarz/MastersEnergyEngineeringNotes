@@ -154,3 +154,19 @@ $$
 \frac{dQ_{thermal}}{dt}=\frac{dQ_{Joule}}{dt}+\frac{dQ_{rev}}{dt}=(U-U_{cal})\cdot I
 $$
 Wird der Entladeprozess im Gleichgewicht gehalten nimmt die Temperatur ab. Da dies der facto nicht möglich ist und die Batterie bei Überspannung betrieben werden muss, erwärmt sich die Batterie über Ohm'sche Spannungsabfälle.
+
+# Energiedichten
+Elektrochemische Speicher sind massenbehaftete Speichersysteme. Dabei kann ein Atom oder Molekül eine maximale, diskrete Zahl von $n$ Elektronen speichern. Dadurch lassen sich theoretische maximale Energiedichten bestimmen, welchen sich asymptotisch genähert werden kann.
+
+Praktische Energiedichten sind erheblich geringer (ca. 1/3 der theoretischen Energiedichte ist realisierbar), weil Trägermaterialien, Elektrolyte, Separatoren, Stromsammlern und Gehäuse benötigt werden.
+
+Es gilt: Je höher das Potential, desto aggresiver die Materialien -> Sicherheitsrisiko, Lebensdauerproblem
+
+$$
+Speicherbare\ Energie:\ n\cdot F\cdot U_0
+$$
+
+# Wässrige Elektrolyten
+Die Gasungsreaktion, bei der Wasserstoff und Sauerstoff entstehen, läuft immer ab, wenn die Zellspannung die Wasser-Zersetzungsspannung von 1,23 V überschreitet (siehe [[Elektrochemie#Elektrolyseur]]). Dabei entsteht an der positiven Elektrode Sauerstoff und an der negativen Elektrode Wasserstoff. Bei allen kommerziellen Batterien ist die Gasungsrate bei Raumtemperatur und Leerlaufspannung sehr gering. In Batterien mit wässrigem Elektrolyten muss nach einiger Zeit entionisiertes Wasser nachgefüllt werden, da durch den Gasungsprozess der Wasserspiegel sinkt.
+
+# Ragone Diagramm
