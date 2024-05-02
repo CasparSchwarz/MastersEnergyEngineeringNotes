@@ -20,13 +20,55 @@ Atome und Moleküle können Strahlung im technisch relevanten Bereich des sichtb
 $$
 E_Q=g\cdot c_0\cdot \eta_Q
 $$
-# Bohr'sches Atommodell
+## Bohr'sches Atommodell
 Das Atommodell nach Bohr beruht auf folgenden Annahmen:
 - System besteht aus Atomkern und Elektronen
 - Elektronen befinden sich auf festen Umlaufbahnen
 - Beim Übergang zwischen den Schalen muss Energie aufgenommen oder abgegeben werden
 -> Elektromagnetische Strahlung kann emittiert oder absorbiert werden
 -> Strahlung, die im sichtbaren oder ultravioletten Bereich liegt, ist ausreichend energiereich um Elektronen-Übergänge hervorzurufen
+
+Die Energie des Übergangs von einem Elektron in eine andere Schale kann berechnet werden:
+$$
+\Delta E=Z^2Rh\left(\frac{1}{n²_2}-\frac{1}{n^2_1}\right)
+$$
+## Molekülstrahlung
+Moleküle können Strhalung aufnehmen oder abgaben indem sie ihren **Oszilationszustand** oder **Rotationszustand** und damit ihr Dipolmoment ändern:
+![[Pasted image 20240502090045.png]]
+Ein Molekül hat dann ein **Dipolmoment**, wenn der Schwerpunkt der positiven Ladungen (Atomkerne) und der negativen Ladungen (Elektronen) nicht zusammenfällt. Unpolare Moleküle ($O_2,N_2$) haben keins.
+
+### Oszillationszustand
+Wenn sich zwei Atomkerne eines Moleküls aus ihrem Gleichgewichtszustand aneinander annähern, wirkt die Coulombkraft abstoßend. Wenn sie sich voneinander weg bewegen, wirken die Bindungskräfte anziehend.
+-> Für kleine Auslenkungen sind die Kräfte proportional zur Auslenkung und das System kann analog zu einem Feder-Masse-System als **harmonischer Oszillator** mit der Eigenfrequenz $\nu$ betrachtet werden.
+
+Dabei ist der Oszillationszustand gequantelt und die angenommenen Energieniveaus äquidistant angeordnet:
+$$
+Schrödinger-Gleichung:\ E_{Osz,n}=h\cdot\nu \left(n+\frac12\right)
+$$
+![[Pasted image 20240502090601.png]]
+
+Bei realen Molekülen gilt die Annahme äquidistanter Energieniveaus nur bei kleinen Abständen vom Gleichgewichtszustand.
+
+## Rotationszustand
+Während bei den Oszillationsübergängen jedes $\Delta n$ möglich ist, sind bei der Rotation nur bestimmte Übergänge möglich.
+Regel:
+- 2-Atomige Moleküle: $\Delta l=\pm1$
+- 3-Atomige Moleküle: $\Delta l=\pm1$ oder $\Delta l = 0$
+
+$$
+\begin{align}
+E_{Rot,l}&=\frac{h^2}{8\pi^2J}(l+1)\cdot l
+\newline\newline
+\Delta E_{Rot}&=E_{Rot}(l)-E_{Rot}(l-1)
+\end{align}
+$$
+
+Das Absorptionsband wird dementsprechend in 3 Bänder unterteilt:
+- P-Zweig: $\Delta l=-1$
+- Q-Zweig: $\Delta l=1$
+- R-Zweig: $\Delta l=0$
+
+
 ## Absorption
 Die Absorption wird durch den Absorptionskoeffizienten beschrieben:
 $$
