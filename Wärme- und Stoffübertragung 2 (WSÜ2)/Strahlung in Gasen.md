@@ -12,6 +12,20 @@ E_{Quant}=f\cdot h
 $$
 Bei Betrachtung eines Volumenelements kommt in Abhängigkeit der Strahlungszahl $\eta=\frac 1\lambda$  nur noch ein Teil der einfallenden Intensität am Ende des Kontrollvolumens an.
 ![[Pasted image 20240501173026.png]]
+
+Warum sind die Spektrallinien keien diskreten Linien, sondern erstrecken sich über einen gewissen Wellenlängenbereich?
+1. Natürliche Linienverbreiterung
+	- Unsicherheit in den diskreten Werten der Energielevel
+	- Heisenbergsche Undschärferelation
+2. Doppler Verbreiterung
+	- Bewegung der Moleküle bei der Emission verursacht Doppler-Effekt
+3. Stoßverbreiterung
+	- Bei gesteigertem Druck und Temperatur häufen sich Kollisionen der Moleküle und Atome
+	- Energieniveaus werden gestört
+4. Stark Verbreiterung
+	- Wirken elektrische Felder auf die Atome oder Moleküle werden die Energieniveaus deutlich beeinflusst
+
+![[Pasted image 20240502091933.png]]
 ## Quantenphysik
 Atome und Moleküle können Strahlung im technisch relevanten Bereich des sichtbaren Lichts und der Infrarotstrahlung durch zwei Mechanismen aufnehmen oder abgeben:
 1. Änderung des Energiezustands der Elektronen

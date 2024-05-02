@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b0e231b13aa1d131",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md"
               }
             }
           }
@@ -149,12 +148,14 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+    "Pasted image 20240502091933.png",
     "Pasted image 20240502090601.png",
     "Pasted image 20240502090045.png",
     "Pasted image 20240501173912.png",
     "Pasted image 20240501173026.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/WSÜ2.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
     "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
     "Digital Career Day Energie.md"
   ]
