@@ -8,3 +8,4 @@ Das Fach Alternative Energietechniken beschäftigt sich mit dem  Einsatz  erneue
 
 # Übersicht
 [[Energiespeicher]]
+[[Biomasse]]
