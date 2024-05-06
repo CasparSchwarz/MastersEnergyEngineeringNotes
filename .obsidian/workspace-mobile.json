@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50966aaa018ce8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md"
           }
         }
       }
@@ -133,9 +145,14 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+    "Energiesystemtechnik (EST)/EST.md",
+    "Alternative Energietechniken (AET)/AET.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)",
     "SmartSelect_20240506_093354_Drive.jpg",
     "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "SmartSelect_20240501_093920_Drive.jpg",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
     "Chemische Energieumwandlung 2 (CE2)/Elektrochemie.md"
