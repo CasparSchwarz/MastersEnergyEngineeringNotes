@@ -21,3 +21,14 @@ Li-Io Batterien werden nach Anodenmaterial und Elektrolyt unterschieden:
 Lithium-Ionen sind Lithium Atome, denen ein Elektron fehlt und somit positiv geladen sind. Die Lithium-Atome geben dabei an der Anode Elektronen ab und die Ionen wandern durch das Elektrolyt zu der Kathode.
 
 Die Anode besteht dabei im Regelfall aus Graphit, wobei auf ein Lithium-Atom 6 Grpahit Atome kommen. Somit existiert in einer Lithium-Ionen Batterie niemals metallisches Lithium, da die einzelnen Atome nicht mit einander zu einem Metall verbunden sind.
+
+Während des Ladens wird das Lithium aus dem Kathodenmaterial herausgelöst. Dabei kann nur maximal 70 % des Lithiums herausgelöst werden, da das Kathodenmaterial sonst instabil wird.
+$$
+\begin{align}
+Laden&:\ LiNi_xMn_yCo_zO_2\rightarrow Li_{1-w}Ni_xMn_yCo_zO_2+w\ Li^++w\ e^-
+\newline\newline
+Entladen&:\ LiNi_xMn_yCo_zO_2\leftarrow Li_{1-w}Ni_xMn_yCo_zO_2+w\ Li^++w\ e^-
+\newline\newline
+Mit&:\ (0\leq w\leq 0,7\ /\ x+y+z=1)
+\end{align}
+$$
