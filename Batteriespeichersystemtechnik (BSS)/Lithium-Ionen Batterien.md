@@ -32,3 +32,17 @@ Entladen&:\ LiNi_xMn_yCo_zO_2\leftarrow Li_{1-w}Ni_xMn_yCo_zO_2+w\ Li^++w\ e^-
 Mit&:\ (0\leq w\leq 0,7\ /\ x+y+z=1)
 \end{align}
 $$
+![[SmartSelect_20240506_093354_Drive.jpg]]
+# Verwendete Materialien
+## Elektrolyten
+## Anoden & Kathoden
+## Alterung
+An der Fläche zwischen Graphit und Elektrolyt reagieren beide Stoffe miteinander und es entsteht eine Passivschicht (Solid Electrolyte Interface). In dieser Passivschicht werden Ionen gefangen und deren Durchtritt erschwert. Umso mehr Ionen gefangen werden, desto geringer wird die Kapazität und umso größer die Schicht desto schlechter die Leistungsfähigkeit.
+
+Bei vollständiger Ladung und Entladung der Batterie, verändert das Graphit das Volumen so stark, dass die Passivschicht reißt und somit einen neuen Kontakt zwischen Graphit und Elektrolyt herstellt. Dadurch wird das Wachstum der Passivschicht erhöht.
+
+Best use:
+- Flache Ladezyklen (Nur wenige 10 % laden)
+- Tiefer Ladezustand (geringeres Potenzial) besser als hohes Potenzial
+- Immer Aufladen wenn die Chance besteht -> Ladzyklen flach halten
+- Zeit bei maximalem Ladezustand gering halten (Bei Auto direkt nach Volladen losfahren)
