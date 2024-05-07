@@ -66,3 +66,13 @@ Best use:
 - Tiefer Ladezustand (geringeres Potenzial) besser als hohes Potenzial
 - Immer Aufladen wenn die Chance besteht -> Ladzyklen flach halten
 - Zeit bei maximalem Ladezustand gering halten (Bei Auto direkt nach Volladen losfahren)
+
+# Anwendungsbereiche
+## Lithium-Metall
+- Flüssig: Nur für Knopfzellen
+- Polymer / Festkörper: erlangt mehr Aufmerksamkeit
+
+## Litium-Ionen
+- Flüssig: Einsatz in EV & HEV (Höchster Marktanteil)
+- Polymer: Betrieb bei höheren Temperaturen und geringerer Leistung
+
