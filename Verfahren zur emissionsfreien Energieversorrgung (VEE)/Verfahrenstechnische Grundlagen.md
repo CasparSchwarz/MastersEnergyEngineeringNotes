@@ -51,4 +51,17 @@ $$
 \nu_{Rück}&=k_{Rpck}\cdot x_C^c\cdot x_D^d
 \end{align}
 $$
-Das chemische Gleichgewicht wird über die Gleichgewichtskonstande Beschrieben, wobei sich $K_C$ auf den
+Das chemische Gleichgewicht wird über die Gleichgewichtskonstande Beschrieben, wobei sich $K_C$ auf die Stoffmengenanteile und $K_p$ auf die Partialdrücke bezieht.
+
+Das chemische Gleichgewicht befindet sich immer dort, wo die Änderung der Gibbs'schen freien Enthalpie 0 ist:
+$$
+\begin{align}
+\left(\frac{\partial G}{\partial Z}\right)_{T,p}&=\sum^N_{i=0}\nu_i\mu_i=0 
+\newline\newline
+Mit:\ \mu_i&=\mu_i^0+R\cdot T\cdot ln\left(\frac{p_i}{p^0}\right)
+\newline\newline
+\rightarrow\sum^N_{i=1}\nu_i\mu_i^0+RT\cdot ln(K_p)&=0
+\newline\newline
+K_p&=exp\left(-\frac{\sum\nu_i\mu_i^0}{RT}\right)
+\end{align}
+$$
