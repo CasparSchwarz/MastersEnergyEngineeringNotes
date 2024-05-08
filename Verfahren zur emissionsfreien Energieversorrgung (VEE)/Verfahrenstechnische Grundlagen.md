@@ -65,3 +65,6 @@ Mit:\ \mu_i&=\mu_i^0+R\cdot T\cdot ln\left(\frac{p_i}{p^0}\right)
 K_p&=exp\left(-\frac{\sum\nu_i\mu_i^0}{RT}\right)
 \end{align}
 $$
+
+Das **Prinzip von Le Chatelier** (Prinzip des kleinsten Zwanges):
+Ein System im Gleichgewichtszustand "versucht", von außen einwirkende "Zwänge" durch eine Anpassung der Zustandsgrößen zu kompensieren und den "Zwang" zu verkleinern. "Zwänge" sind Temperatur, Druck, Stoffkonzentrationen.
