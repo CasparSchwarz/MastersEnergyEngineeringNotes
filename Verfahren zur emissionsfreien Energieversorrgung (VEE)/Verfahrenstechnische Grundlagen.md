@@ -68,6 +68,7 @@ K_p&=exp\left(-\frac{\sum\nu_i\mu_i^0}{RT}\right)
 \end{align}
 $$
 
+![[Pasted image 20240508151554.png]]
 Das **Prinzip von Le Chatelier** (Prinzip des kleinsten Zwanges):
 Ein System im Gleichgewichtszustand "versucht", von außen einwirkende "Zwänge" durch eine Anpassung der Zustandsgrößen zu kompensieren und den "Zwang" zu verkleinern. "Zwänge" sind Temperatur, Druck, Stoffkonzentrationen.
 ## Reaktionsgeschwindigkeit
