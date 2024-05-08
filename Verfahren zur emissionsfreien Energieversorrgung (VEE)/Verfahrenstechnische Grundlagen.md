@@ -68,3 +68,8 @@ $$
 
 Das **Prinzip von Le Chatelier** (Prinzip des kleinsten Zwanges):
 Ein System im Gleichgewichtszustand "versucht", von außen einwirkende "Zwänge" durch eine Anpassung der Zustandsgrößen zu kompensieren und den "Zwang" zu verkleinern. "Zwänge" sind Temperatur, Druck, Stoffkonzentrationen.
+## Reaktionsgeschwindigkeit
+Die Reaktionsgeschwindigkeit r ist definiert als die durch die Reaktion bedingte Änderung der Molzahl einer Komponente i mit der Zeit, bezogen auf den stöchiometrischen Koeffizienten $\nu_i$ (siehe [[Reaktionskinetik]]):
+$$
+r = \frac{1}{\nu_i}\frac{dn_i}{dt}
+$$
