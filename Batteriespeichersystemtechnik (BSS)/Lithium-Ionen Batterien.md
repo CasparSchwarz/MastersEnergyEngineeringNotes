@@ -57,6 +57,7 @@ Sicherer sind Polymmerelektrolyte, die aus einer Membran bestehen. Diese haben j
 | Silizium $Li_{22}Si_6    | 3,7 V    | hohe Energiedichte, in der Forschung |
 
 ## Alterung
+### Solid Electrolyte Interface
 An der Fläche zwischen Graphit und Elektrolyt reagieren beide Stoffe miteinander und es entsteht eine Passivschicht (Solid Electrolyte Interface). In dieser Passivschicht werden Ionen gefangen und deren Durchtritt erschwert. Umso mehr Ionen gefangen werden, desto geringer wird die Kapazität und umso größer die Schicht desto schlechter die Leistungsfähigkeit.
 
 Bei vollständiger Ladung und Entladung der Batterie, verändert das Graphit das Volumen so stark, dass die Passivschicht reißt und somit einen neuen Kontakt zwischen Graphit und Elektrolyt herstellt. Dadurch wird das Wachstum der Passivschicht erhöht.
@@ -66,3 +67,22 @@ Best use:
 - Tiefer Ladezustand (geringeres Potenzial) besser als hohes Potenzial
 - Immer Aufladen wenn die Chance besteht -> Ladzyklen flach halten
 - Zeit bei maximalem Ladezustand gering halten (Bei Auto direkt nach Volladen losfahren)
+
+### Li-Plating
+Bei Lithium-Plating flockt metallisches Lithium an der Anode aus, wenn das Potenzial der Anode unterhalb des Potenzials von metallischem Lithium (0 V) liegt. Hauptsächlich geschieht dies bei:
+- niedrigen Temperaturen und
+- hohen Stromstärken
+# Anwendungsbereiche
+## Lithium-Metall
+- Flüssig: Nur für Knopfzellen
+- Polymer / Festkörper: erlangt mehr Aufmerksamkeit
+
+Nachteil:
+- Formierung von Dendriten beim Laden
+- Hochreaktiv -> gefährlich
+
+## Litium-Ionen
+- Flüssig: Einsatz in EV & HEV (Höchster Marktanteil)
+- Polymer: Betrieb bei höheren Temperaturen und geringerer Leistung
+	- Hohe Temperaturen
+	- Schlechte Leitfähigkeit
