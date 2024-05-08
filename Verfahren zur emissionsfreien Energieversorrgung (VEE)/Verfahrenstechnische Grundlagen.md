@@ -59,6 +59,8 @@ $$
 \left(\frac{\partial G}{\partial Z}\right)_{T,p}&=\sum^N_{i=0}\nu_i\mu_i=0 
 \newline\newline
 Mit:\ \mu_i&=\mu_i^0+R\cdot T\cdot ln\left(\frac{p_i}{p^0}\right)
+\newline
+\mu_i&=g_i=h_i-T\cdot s_i
 \newline\newline
 \rightarrow\sum^N_{i=1}\nu_i\mu_i^0+RT\cdot ln(K_p)&=0
 \newline\newline
