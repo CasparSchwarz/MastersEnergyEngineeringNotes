@@ -73,3 +73,15 @@ Die Reaktionsgeschwindigkeit r ist definiert als die durch die Reaktion bedingte
 $$
 r = \frac{1}{\nu_i}\frac{dn_i}{dt}
 $$
+Die Funktion $f_1$ wird als Geschwindigkeits-Faktor bezeichnet:
+$$
+f_1:=k=k_0\cdot exp\left(-\frac{E_A}{RT}\right)
+$$
+Die Funkion $f_2$ erfasst die Abhängigkeit er Reaktionsgeschwindigkeit von den Konzentrationen der Reaktanden und wird durch einen Potenzansatz beschrieben:
+$$
+\begin{align}
+(-\nu_1)A_1+(-\nu_2)A_2&\rightarrow\nu_3A_3+\nu_4A_4
+\newline\newline
+f_2&=c_{A_1}^{n_1}\cdot c_{A_2}^{n_2}
+\end{align}
+$$
