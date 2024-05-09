@@ -29,5 +29,11 @@ $$
 (4)\ in\ (3)\ \rightarrow\dot m_{B,konv}''&=-\dot m_{B,diff}
 \newline\newline
 \xi_B\cdot \rho\cdot v&=-\dot j_{B,g}''
+\newline\newline
+\dot m_A''&=\rho v=\dot m_{ges}''=\dot m''
+\newline\newline
+\dot m''&=\xi_{A,0}\dot m''+\dot j_{A,0}''
+\newline\newline
+\rightarrow \dot m''&=\frac{1}{1-\xi_{A,0}}\cdot\dot j_A''
 \end{align}
 $$
