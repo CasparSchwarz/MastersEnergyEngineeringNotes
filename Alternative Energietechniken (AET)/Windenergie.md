@@ -107,3 +107,30 @@ Leistungsbeiwert\ c_P(x)&=\frac{P_{Turb}}{P_0}=\frac{1+x}{2}(1-x^2)
 Mit\ x&=\frac {v_2}{v_1}
 \end{align}
 $$
+Dabei ist zu erkennen, dass $c_P$ maximal bei $x=\frac 1 3$ wird und einen Wert von $c_P=59,3 \%$ erreicht.
+
+Die Schnelllaufzahl beschreibt das Verhältnis aus Umfangsgeschwindigkeit des Rotors zur Windgeschwindigkeit:
+$$
+\lambda=\frac u v
+$$
+# Betriebsverhalten
+Damit eine WKA elektrische Leistung erzeugen kann, muss der Wind eine bestimmte Einschaltgeschwindigkeit überschreiten. Unterhalb der Einschaltgeschwindigkeit sind die Reibungsverluste für den Betrieb zu groß.
+
+Zwischen der Einschaltgeschwindigkeit $v_e$ und der Nenngeschwindigkeit $v_N$ wird die jeweilt maximale Leistung entzogen. Ab Windgeschwindigkeiten über $v_N$ wird nur noch die Nennleistung bereitgestellt.
+
+Wird die Ausschaltgeschwindigkeit $v_A$ erreicht, muss die WKA abgeschaltet werden, da sonst die Rotorgeschwindigkeiten und wirkenden Kräfte zu hoch für die WKA sind.
+
+# Regelung
+**Stallregelung**
+- Begrenzung der entommenen Leistung durch Strömungsabrriss
+- Passiv: Rotorprofil sorgt für Strömungsabriss ab bestimmer Windgeschwindigkeit
+- Aktiv: Drehbare Rotorblätter werden in ihrem Anstellwinkel verändert sodass es zum Strömungsabriss kommt
+
+**Pitchregelung**
+- Bei Überschreiten der Nennleistung werden die Rotorblätter leicht aus dem Wind gedreht
+- Begrenzung der Leistung auf Nennleistung
+- Zum Abschalten werden die Rotorblätter in Fahnenposition gestellt
+
+# Antriebsstrang
+Siehe [[Antriebsstrang]]
+
