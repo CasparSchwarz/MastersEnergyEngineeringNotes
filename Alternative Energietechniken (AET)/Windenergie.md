@@ -134,3 +134,53 @@ Wird die Ausschaltgeschwindigkeit $v_A$ erreicht, muss die WKA abgeschaltet werd
 # Antriebsstrang
 Siehe [[Antriebsstrang]]
 
+Es existieren WKA mit und ohne Getriebe. In WKA mit Getriebe wird die Rotordrehzahl erst auf höhere Drehzahlen umgesetzt und anschließend dem Generator zugeführt. In WKA ohne Getriebe sitzt der Rotor auf der Generatorwelle.
+
+Als Generator können Synchron- und Asynchrongeneratoren genutzt werden.
+Synchrongenerator:
+- Vorteil: Höchste Regelbarkeit durch entkopplung der Antriebsseite von der Netzseite
+- Nachteil:
+	- Hohe Verluste im Umrichter
+	- Höhere Kosten für Umrichter und Synchrongenerator
+
+Asynchrongenerator:
+- Vorteile:
+	- Umrichter für ca. ein Drittel der Nennleistung ausgelegt
+	- Geringere Verluste
+- Nachteil: Aufwand der Regelung
+
+# Windparks
+siehe [[Windparkplanung]]
+
+- Zusammenschluss mehrer WKA zu einem Windpark erzeugt Synergie-Effekte:
+	- Schaffung von Infrastruktur zum Bau
+	- Gemeinsame elektrische Anbindung ans Stromnetz
+	- Geringerer logistischer Aufwand bei der Errichtung
+- Aerodynamische Abschattung vermindert Ertrag der einzelnen WKA
+
+Offshore ggü. Onshore:
+- Vorteile
+	- Höherer Windgeschwindigkeit
+	- Weniger Turbulenz
+	- Höheres Platzangebot als an Land
+	- Höhere Akzeptanz
+	- Großes Ausbaupotenzial
+- Nachteile
+	- Große Entfernung zur Küste
+	- Aufwändige Fundamente
+	- Rauere Umweltbedingungen
+	- Zugänglichkeit und Logistik
+	- Finanzierbarkeit großer Windparks
+	- Schutz von Flora und Fauna
+
+Gegen Ende der Laufzeit einer WKA kann **Repowering** durchgeführt werden, wobei alte Anlagen durch modernere und effizientere Anlagen ersetzt werden. Somit können diese WKA noch weit über die Lebensdauer hinaus betrieben werden. Ebenso hat Repowering eine hohe Akzeptanz in der Bevölkerung, da weniger Anlagen installiert werden, die Leistung jedoch steigt.
+
+# Umweltauswirkungen
+Siehe [[Windparkplanung#Behördliche Auflagen]]
+- Veränderung des Landschaftsbilds
+- Schattenwurf
+- Schallemissionen
+- Flächenverbrauch
+- Störungen von Funk und Fernsehen, Radar
+- Vogel-/Fledermausschlag
+
