@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9fa112b3fc5a052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternative Energietechniken (AET)/Windenergie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+            "file": "Alternative Energietechniken (AET)/Windenergie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+            "file": "Alternative Energietechniken (AET)/Windenergie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md"
+            "file": "Alternative Energietechniken (AET)/Windenergie.md"
           }
         }
       }
@@ -143,9 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93d1aa3b933928fb",
+  "active": "a9fa112b3fc5a052",
   "lastOpenFiles": [
+    "SmartSelect_20240510_083608_Drive.jpg",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
+    "Alternative Energietechniken (AET)/Windenergie.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
