@@ -72,6 +72,20 @@ Best use:
 Bei Lithium-Plating flockt metallisches Lithium an der Anode aus, wenn das Potenzial der Anode unterhalb des Potenzials von metallischem Lithium (0 V) liegt. Hauptsächlich geschieht dies bei:
 - niedrigen Temperaturen und
 - hohen Stromstärken
+
+## Solid-State Elektrolyte
+Festkörperbatterien benutzen als Elektrolyt etwa Kunststoffe (Polymere) oder Keramiken. Der Hauptunterschied zu Li-Io-Batterien mit flüssigem Elektrolyt ist, dass **kein Graphit** als Anode verwendet wird sondern **metallisches Lithium**.
+
+**Probleme**:
+- Sicherheit: Metallisches Lithium ist sehr reaktiv
+- Lebensdauer
+	- Zyklisierung von metallischem Lithium ist nicht 100 % reversibel
+	- ca. 4-facher Überschuss an Lithium notwendig
+	- Dendritenbildung
+	- Zyklenzahlen bei flüssigem Elektrolyt weniger als 100 Zyklen
+- Sehr schlechte spezifische Leitfähigkeit (Elektrolyt muss sehr dünn sein)
+- Bisher nur für 50 °C - 60 °C
+
 # Anwendungsbereiche
 ## Lithium-Metall
 - Flüssig: Nur für Knopfzellen
