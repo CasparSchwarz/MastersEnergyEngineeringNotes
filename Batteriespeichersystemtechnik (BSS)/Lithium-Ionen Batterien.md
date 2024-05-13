@@ -49,12 +49,12 @@ Sicherer sind Polymmerelektrolyte, die aus einer Membran bestehen. Diese haben j
 | $LiCo_xNi_yMn_2Al_wO_2$         | Große Variabilität in Mischmaterialien          |                                                  |
 | $LiFePO_4$                      | Günstiges und sicheres Ausgangsmaterial         |                                                  |
 
-| Anodenmaterial           | Spannung | Eigenschaften                        |
-| ------------------------ | -------- | ------------------------------------ |
-| Hard Carbon $LiC_6$      | 3,7 V    | Geringe Vollzyklenzahl               |
-| Graphit $LiC_6$          | 3,7 V    | Teuer, hohe Vollzyklenzahl           |
-| Titanat $Li_4Ti_5O_{12}$ | 2,2 V    | sicher, geringere Energiedichte      |
-| Silizium $Li_{22}Si_6    | 3,7 V    | hohe Energiedichte, in der Forschung |
+| Anodenmaterial           | Spannung | Eigenschaften                                                                           |
+| ------------------------ | -------- | --------------------------------------------------------------------------------------- |
+| Hard Carbon $LiC_6$      | 3,7 V    | Geringe Vollzyklenzahl                                                                  |
+| Graphit $LiC_6$          | 3,7 V    | Teuer, hohe Vollzyklenzahl                                                              |
+| Titanat $Li_4Ti_5O_{12}$ | 2,2 V    | sicher (kaum Volumenänderung), geringere Energiedichte, hohe Leistung, hohe Lebensdauer |
+| Silizium $Li_{22}Si_6$   | 3,7 V    | hohe Energiedichte, in der Forschung                                                    |
 
 ## Alterung
 ### Solid Electrolyte Interface
@@ -100,3 +100,23 @@ Nachteil:
 - Polymer: Betrieb bei höheren Temperaturen und geringerer Leistung
 	- Hohe Temperaturen
 	- Schlechte Leitfähigkeit
+
+# Gehäusetypen
+![[SmartSelect_20240513_092921_Drive.jpg]]
+Zylindrische Zelle
+- 18 mm - 45 mm Durchmesser
+- 65 mm - 80 mm Länge
+- Begrenzt in der dichtesten Packung
+- Luftraum wirkt Wärmeisolierend (höhere Sicherheit)
+- Zylindrische Form nimmt Drücke deutlich besser auf als andere Zellenformen
+
+Pouch-bag Zelle
+- Lassen sich dichter Packen als zylindrische Zellen
+- Nur Folie, kein festes Gehäuse
+- Sehr gute Kühlungseigenschaften (große Overfläche)
+
+Prismatische Zelle
+- Festes Gehäuse
+- Hohe volumetrische Energiedichte
+- Mussen mit Druck beaufschlagt werden, damit sich die Zelle nicht so stark verformt
+- Brauchen Schichten zwischen den Zellen zur Wärmeisolation
