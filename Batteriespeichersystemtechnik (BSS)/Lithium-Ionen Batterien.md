@@ -120,3 +120,9 @@ Prismatische Zelle
 - Hohe volumetrische Energiedichte
 - Mussen mit Druck beaufschlagt werden, damit sich die Zelle nicht so stark verformt
 - Brauchen Schichten zwischen den Zellen zur Wärmeisolation
+
+# Hochleistungs- und Hochenergiebatterien
+![[SmartSelect_20240513_094143_Drive.jpg]]
+Bei hohen Leistungen werden mehr Schichten verwendet, wodurch die Menge an Passivmaterialien zunimmt. Somit kann weniger Energie in Aktivmaterialien gespeichert werden.
+
+**Beachte**: Bei hohen Entladeströmen erwärmt sich die Batterie -> Erhöhte Kapazität aufgrund der Temperaturänderung
