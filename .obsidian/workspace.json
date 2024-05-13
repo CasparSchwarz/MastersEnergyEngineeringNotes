@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240509191356.png",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Pasted image 20240508151554.png",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Alternative Energietechniken (AET)/Biomasse.md",
     "Pasted image 20240503144304.png",
     "Alternative Energietechniken (AET)/AET.md",
     "Alternative Energietechniken (AET)/Energiespeicher.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
     "Pasted image 20240502091933.png",
     "Pasted image 20240502090601.png",

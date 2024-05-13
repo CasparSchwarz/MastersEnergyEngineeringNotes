@@ -30,10 +30,52 @@ $$
 \newline\newline
 \xi_B\cdot \rho\cdot v&=-\dot j_{B,g}''
 \newline\newline
-\dot m_A''&=\rho v=\dot m_{ges}''=\dot m''
+\dot m_{A,0}''&=\rho v=\dot m_{ges}''=\dot m''
 \newline\newline
-\dot m''&=\xi_{A,0}\dot m''+\dot j_{A,0}''
+\dot m''&=\xi_{A,0}\dot m''+\dot j_{A,0}''\ (7)
 \newline\newline
 \rightarrow \dot m''&=\frac{1}{1-\xi_{A,0}}\cdot\dot j_A''
+\end{align}
+$$
+# Differentialer Stofftransport
+$$
+\begin{align}
+Von\ oben&:
+\newline\newline
+\dot m''&=\frac{1}{1-\xi_A}\cdot j_A''
+\newline\newline
+Fick'sches\ Gesetz:\dot j_A''&=-\rho D\frac{\partial\xi_A}{\partial x}
+\newline\newline
+\dot m_A''&=-\frac{1}{1-\xi_A}\rho D\frac{\partial\xi_A}{\partial x}
+\newline\newline
+An\ der\ Oberfläche:\dot m''&=\dot m''_{A,0}=\frac{1}{1-\xi_{A,0}}\cdot\rho D\cdot \left(\frac{\partial \xi_{A,0}}{\partial x}\right)_{x=0}\ (11)
+\newline\newline
+Mit\ Gleichung\ (7):\dot m_A''&=-\rho D\frac{\partial\xi_A}{\partial x}-\frac{\xi_A}{1-\xi_{A,0}}\cdot\rho D\left(\frac{\partial \xi_{A,0}}{\partial x}\right)_{x=0}
+\newline\newline
+\frac{\partial\dot m_A''}{\partial x}&=0
+\newline\newline
+0&=-\rho D\left[ \frac{\partial^2\xi_A}{\partial x^2} + \frac{\xi_A}{1-\xi_{A,0}}\cdot\left(\frac{\partial \xi_{A,0}}{\partial x}\right)_{x=0}\cdot \frac{\partial\xi_A}{\partial x} \right]
+\end{align}
+$$Damit die Gleichung übersichtlicher wird, werden dimensionslose Größen eingeführt:
+$$
+\begin{align}
+\phi=\frac x L\ und\ \theta=\frac{\xi_A}{\xi_{A,0}}
+\end{align}
+$$
+Bei $\phi=1$ wird $\theta=0$ und bei $\phi=0$ wird $\theta=1$.
+
+$$
+\begin{align}
+DGL\ des\ differnetiellen\ Stofftransports:0&=\frac{\partial\theta}{\partial\phi}-\Psi\frac{\partial\theta}{\partial\phi}
+\newline\newline
+Mit\ \Psi&=-\frac{\xi_{A,0}}{1-\xi_{A,0}}\left(\frac{\partial\theta_A}{\partial\phi}\right)_0
+\end{align}
+$$
+Diese Differentialgleichung kann über Substitution von $\frac{\partial\theta}{\partial\phi}$ gelöst werden. Daraus folgt:
+$$
+\begin{align}
+\xi_A(x)&=\xi_{A,0}\cdot\frac{e^{\Psi\phi}-e^\Psi}{1-e^\Psi}
+\newline\newline
+Auswertung\ bei\ x=0:\dot m''&=\frac{\rho D}{L}ln\left( \frac{1}{1-\xi_{A,0}} \right)
 \end{align}
 $$

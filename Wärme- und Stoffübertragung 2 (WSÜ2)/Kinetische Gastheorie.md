@@ -1,0 +1,1 @@
+In der kinetischen Gastheorie wird die Durchmischung zweier Gase beschrieben.
