@@ -126,3 +126,4 @@ Prismatische Zelle
 Bei hohen Leistungen werden mehr Schichten verwendet, wodurch die Menge an Passivmaterialien zunimmt. Somit kann weniger Energie in Aktivmaterialien gespeichert werden.
 
 **Beachte**: Bei hohen Entladeströmen erwärmt sich die Batterie -> Erhöhte Kapazität aufgrund der Temperaturänderung
+**Aber**: Bei niedrigen Temperaturen und hohen Strömen fällt die Spannung anfangs sehr stark ab -> System denkt, dass die Batterie leer ist, da die Spannung so stark abgefallen ist
