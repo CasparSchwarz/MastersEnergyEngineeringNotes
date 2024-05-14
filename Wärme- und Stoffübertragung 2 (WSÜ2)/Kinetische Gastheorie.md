@@ -1,5 +1,29 @@
-In der kinetischen Gastheorie wird die Durchmischung zweier Gase beschrieben.
+In der kinetischen Gastheorie wird die Durchmischung zweier Gase beschrieben. Im Allgemeinen wird in der kinetischen Gastheorie das Verhalten idealer Gase ausschließlich über die Betrachtung der kinetischen Energie der Moleküle beschrieben.
+# Grundlagen
+## Ideale Gase
+Annahmen:
+- Energie eines Gases besteht ausschließlich aus der kinetischen Energie der Moleküle
+- Moleküle mit Masse $m$ und Durchmesser $D$ in kontinuierlicher und zufälliger Bewegung
+- Moleküle sehr klein im Verhältnis zur mittleren Weglänge
+- Elastische Stöße sind die einzige zwischenmolekulare Wechselwirkung
 
+Geschwindigkeit der Gasmoleküle:
+$$
+\begin{align}
+\bar w&=\left(\frac{8k_BN_AT}{\pi M}\right)^{0.5}
+\newline\newline
+Mit:\bar w&=\sqrt{w_x^2+w_y^2+w_z^2}
+\end{align}
+$$
+Da der Geschwindigkeitsbereich der Moleküle sehr groß ist und es durch Zusammenstöße zu einer ständigen Umverteilung kommt, wird ein Gas durch die Maxwell'sche Geschwindigkeitsverteilung beschrieben:
+$$
+p(w)=4\pi\left(\frac{M}{2\pi RT}\right)^{\frac 3 2}w^2e^{-\frac{Mw^2}{2RT}}
+$$
+## Reale Gase
+Lennard-Jones Potential $\phi$:
+$$
+\phi(r)=4\epsilon\left[ \left( \frac \sigma r \right)^{12}-\left(\frac \sigma r \right)^6 \right]
+$$
 # Diffusion in Gasen
 ## Gedankenexperiment:
 In einem abgeschlossenen Raum befinden sich die Moleküle A (links) und B (rechts). Diese sind zunächst getrennt voneinander, doch der Konzentrationsunterschied bewirkt Diffusionssträme der beiden Stoffe.
