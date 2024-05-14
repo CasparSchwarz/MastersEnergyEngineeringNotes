@@ -1,0 +1,3 @@
+- Tabellarisch mit Stichpunkten (max. 2 Seiten)
+- Persönliche Daten auf jeder Seite
+- Aktuell und Lückenlos

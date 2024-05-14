@@ -24,6 +24,13 @@ Lennard-Jones Potential $\phi$:
 $$
 \phi(r)=4\epsilon\left[ \left( \frac \sigma r \right)^{12}-\left(\frac \sigma r \right)^6 \right]
 $$
+Das Potential zeigt:
+- Abstoßung der Moleküle bei geringem Abstand
+	- Reale Gase sind bei hohen Drücken schwerer zu komprimieren als ideale Gase
+	- Realgasfaktor $Z>1$
+- Anziehung der Moleküle untereinander bei größerem Abstand
+	- Resultat: Kräfte, die eine Kompression bei mäßigem Druck begünstigen
+	- Realgasfaktor $Z<1$
 # Diffusion in Gasen
 ## Gedankenexperiment:
 In einem abgeschlossenen Raum befinden sich die Moleküle A (links) und B (rechts). Diese sind zunächst getrennt voneinander, doch der Konzentrationsunterschied bewirkt Diffusionssträme der beiden Stoffe.
@@ -44,4 +51,19 @@ Taylorentwicklung\ (linearisiert):
 Aus\ Vergleich\ mit\ Fick'schem\ Gesetz:D&=2\eta\cdot\bar w\cdot l
 
 \end{align}
+$$
+## Berechnung von Diffusionskoeffizienten
+Der Diffusionskoeffizient für binäre Systeme:
+$$
+D=2\eta\cdot\bar w\cdot l
+$$Nach der kinetischen Gastheorie gilt:
+$$
+l = \frac{\bar w}{z}=\frac {Geschwindigkeit}{Stoßhäufigkeit}=\frac{k_BT}{\sqrt{2}\pi d_k^2 p}
+$$
+Daraus folgt somit:
+$$
+D=\frac{\left( \frac{k_b}{d^2} \right)^{1.5}}{d^2}\left( \frac{N_A}{M} \right)^{0.5}\frac{T^{1.5}}{p}
+$$Da diese Formel weiterhin auf der kinetischen Gastheorie basiert und dementsprechend stark vereinfacht ist, gibt es die **Chapman-Enskog** Formel:
+$$
+D_{AB}=1,8583\cdot10^{-7}\frac{T^{1,5}}{p\Omega_D^{AB}(T)}\sqrt{\frac{1}{M_A}+\frac{1}{M_B}}
 $$
