@@ -1,3 +1,13 @@
 - Tabellarisch mit Stichpunkten (max. 2 Seiten)
 - Persönliche Daten auf jeder Seite
 - Aktuell und Lückenlos
+- Kategorisierung (Studium, Praktika, Kenntnisse)
+	- Persönliche Daten
+	- Studium, Ausbildung, Schule und Studium
+	- Praktische Erfahrungen
+	- Auslandserfahrungen
+	- Engagement
+	- Zusatzqualifikationen
+- Matchin ist wichtig
+	- Was wird gefordert?
+	- Muss ich das wirklich angeben?
