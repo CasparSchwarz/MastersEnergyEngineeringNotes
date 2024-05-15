@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+                "file": "Alternative Energietechniken (AET)/Windenergie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d10084b1ffa97a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md"
           }
         }
       }
@@ -156,19 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9fa112b3fc5a052",
+  "active": "0d10084b1ffa97a2",
   "lastOpenFiles": [
+    "Alternative Energietechniken (AET)/Windenergie.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+    "Windenergie/Windphysik.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "SmartSelect_20240513_094143_Drive.jpg",
     "SmartSelect_20240513_092921_Drive.jpg",
     "SmartSelect_20240513_092630_Drive.jpg",
-    "Alternative Energietechniken (AET)/Windenergie.md",
     "Windenergie/Bau und Betrieb.md",
     "Windenergie/Windparkplanung.md",
     "SmartSelect_20240510_083608_Drive.jpg",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "SmartSelect_20240508_083614_Drive.jpg",
     "Energiesystemtechnik (EST)/EST.md",
     "Alternative Energietechniken (AET)/AET.md",
