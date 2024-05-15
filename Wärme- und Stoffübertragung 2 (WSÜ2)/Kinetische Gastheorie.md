@@ -75,3 +75,8 @@ Für eine schwach konzentrierte Komponente $\alpha$ gilt:
 $$
 D_{\alpha m}=\left( \sum^n_{\beta=1;\beta\neq\alpha}\frac{\psi_\beta}{D_{\alpha\beta}} \right)^{-1}
 $$
+# Diffusion in Flüssigkeiten
+Nach Einstein:
+$$
+D=\frac{k_BT}{6\pi\eta r}
+$$
