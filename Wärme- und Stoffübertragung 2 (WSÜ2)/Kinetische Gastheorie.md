@@ -67,3 +67,11 @@ $$Da diese Formel weiterhin auf der kinetischen Gastheorie basiert und dementspr
 $$
 D_{AB}=1,8583\cdot10^{-7}\frac{T^{1,5}}{p\Omega_D^{AB}(T)}\sqrt{\frac{1}{M_A}+\frac{1}{M_B}}
 $$
+Für Mehrstoffgemische muss ein anderer Ansatz gewählt werden. Dabei wird nur eine Komponente betrachtet und der Rest des Mehrstoffgemischs als einziges homogenes Gemisch. Dafür wird die Formel nach Stefan-Maxwell verwendet:
+$$
+\frac{\partial\psi_\alpha}{\partial z}=\sum^n_{\beta=1}\frac{c_\alpha c_\beta}{c^2D_{\alpha\beta}}\left( \frac{j_\alpha''}{\rho_\alpha} - \frac{j_\beta''}{\rho_\beta} \right)
+$$
+Für eine schwach konzentrierte Komponente $\alpha$ gilt:
+$$
+D_{\alpha m}=\left( \sum^n_{\beta=1;\beta\neq\alpha}\frac{\psi_\beta}{D_{\alpha\beta}} \right)^{-1}
+$$
