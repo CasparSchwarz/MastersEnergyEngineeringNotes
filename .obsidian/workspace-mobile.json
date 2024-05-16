@@ -20,37 +20,13 @@
             }
           },
           {
-            "id": "0d10084b1ffa97a2",
+            "id": "1fea27b97476b660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50966aaa018ce8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fa112b3fc5a052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md"
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md"
           }
         }
       }
@@ -168,23 +144,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d10084b1ffa97a2",
+  "active": "1fea27b97476b660",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+    "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
+    "Alternative Energietechniken (AET)/Windenergie.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
     "SmartSelect_20240515_092750_Drive.jpg",
     "SmartSelect_20240515_091412_Drive.jpg",
-    "Alternative Energietechniken (AET)/Windenergie.md",
     "Windenergie/Windphysik.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "SmartSelect_20240513_094143_Drive.jpg",
     "SmartSelect_20240513_092921_Drive.jpg",
     "SmartSelect_20240513_092630_Drive.jpg",
     "Windenergie/Bau und Betrieb.md",
     "Windenergie/Windparkplanung.md",
     "SmartSelect_20240510_083608_Drive.jpg",
-    "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "SmartSelect_20240508_083614_Drive.jpg",
     "Energiesystemtechnik (EST)/EST.md",
