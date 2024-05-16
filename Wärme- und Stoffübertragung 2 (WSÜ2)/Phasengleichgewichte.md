@@ -7,7 +7,8 @@ Im Allgemeinen werden drei verschiedene Gleichgewichte betrachtet:
 - Mechanisches Gleichgewicht
 - Chemisches Gleichgewicht
 
-# Das chemische Potential
+# Physikalische Grundlagen
+## Chemisches Potential
 Ein Potential bezeichnet die Fähigkeit eines konservativen Kraftfeldes Arbeit zu verrichten.
 
 Das chemische Potential $\mu / kj/mol$ ist eine Zustandsgröße und kennzeichnet die Neigung eines Stoffs:
@@ -78,4 +79,22 @@ Um die Fugazität weiterverwenden zu können, müssen Hilfsfunktionen definiert 
 - Aktivität $\alpha_i$; Verhäktnis von Figazität und Standardfugazität
 - Aktivitätskoeffizient $\gamma_i$: Verhältnis aus Aktivität und beliebigem Konzentrationsmaß
 
+Um die Fugazität zu beestimmen gibt es zwei Möglichkeiten:
+- Verwendung einer Zustandsgleichung
+- Verwendung einer Zustandsgleichung für die Gasphase bzw, eines Aktivitätskoeffizienten für die flüssige Phase
+$$
+\begin{align}
+\text{Für Gase: }f_i^D&=\psi_i^D\cdot\varphi_i^D\cdot p
+\newline\newline
+\text{Für Flüssigkeiten: }f_i^{Fl}&=\gamma_i\cdot K_i^{Fl}\cdot f_i^0
+\end{align}
+$$
+## Aktivität
+Bei idealen Flüssigkeiten oder Gasen werden alle Atome oder Moleküle als starre Kugeln angesehen:
+-> Es wirken keine anziehenden oder abstoßenden Kräfte
+-> Atome/Moleküle können beliebig ersetzt werden
+
+Die Aktivität beschreibt Wechselwirkungen zwischen den verschiedenen Molekülen.
+
 # Berechnung von Gleichgewichten
+Zuerst muss die Fugazit
