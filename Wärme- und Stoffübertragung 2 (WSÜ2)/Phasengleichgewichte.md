@@ -8,6 +8,7 @@ Im Allgemeinen werden drei verschiedene Gleichgewichte betrachtet:
 - Chemisches Gleichgewicht
 
 # Physikalische Grundlagen
+Bei Flüssigkeitsgemischen wird zwischen zeotropen und azeotropen Gemischen unterschieden, wobei sich ein azeotropes Gemisch in einem Punkt wie ein Reinstoff verhält.
 ## Chemisches Potential
 Ein Potential bezeichnet die Fähigkeit eines konservativen Kraftfeldes Arbeit zu verrichten.
 
@@ -77,7 +78,7 @@ $$
 Um die Fugazität weiterverwenden zu können, müssen Hilfsfunktionen definiert werden:
 - Fugazitätskoeffizient $\varphi_i$: Verhältnis Fugazität und Partialdruck für die Korrektur bei realem Verhalten
 - Aktivität $\alpha_i$; Verhäktnis von Figazität und Standardfugazität
-- Aktivitätskoeffizient $\gamma_i$: Verhältnis aus Aktivität und beliebigem Konzentrationsmaß
+- Aktivitätskoeffizient $\gamma_i$: Verhältnis aus Aktivität und beliebigem Konzentrationsmaß $\psi_i$
 
 Um die Fugazität zu beestimmen gibt es zwei Möglichkeiten:
 - Verwendung einer Zustandsgleichung
@@ -98,7 +99,26 @@ Die Aktivität beschreibt Wechselwirkungen zwischen den verschiedenen Molekülen
 
 # Berechnung von Gleichgewichten
 Um Gleichgewichte zu berechnen, wird die Fugazität benötigt, für welche wiederum die Aktivität benötigt wird.
+
+Im Allgemeinen gilt:
+$$
+\psi^{fl}_i\cdot\gamma^{fl}_i\cdot p_{i,sat}=\psi_i^D\cdot p
+$$
+
+Ein geeignetes Modell muss gewählt werden, je nachdem ob das realen Gas durch ideale Modelle beschrieben werden kann:
+- ideale Gase
+	- Keine Interaktion außer elastische Stöße
+	- Moleküle sind Punktteilchen
+	- meist bei niedrigen Drücken anwendbar
+- ideale Flüssigkeiten
+	- Keine innere Reibung
+	- Inkompressibel
+	- Keine Oberflächenspannung
 ## Raoult'sches Gesetz
 Das Raoult'sche Gesetz betrachtet eine Standarrdfugazität und vernachlässigt die Aktivität. Somit ist das Gesetz unabhängig vom Lösungsmittel definiert, was einen Fehler im Vergleich mit realen System herbeiführt.
+
+Somit ist das Raoult'sche Gesetz nur für **ideale Gase** zu verwenden. Ebenso ist das Raoultsche Gesetz zu verwenden, wenn der Partialdruck einer Flüssigkeit in der Gasphase bestimmt werden soll.
 ## Henry-Koeffizient
 Um eine genauere Bestimmung des Gleichgewichts zu erreichen, wird der Henry-Koeffizient zur bestimmung der Standardfugazität verwendet. Der Henrry-Koeffizient beschreibt somit die Löslichkeit über einen einffachen linearen Zusammenhang zwischen dem Partialdruck in der Gasphase und der Stoffmengenkonzentration in der Flüssigphase. $H_{ij}$ ist für Stoffpaarungen tabelliert tund stark temperaturabhängig.
+
+Das Herny'sche Gesetz wird verwendet, wenn die Konzentration einer Gasförmigen Komponente in einer Flüssigkeit bestimmt werden soll.
