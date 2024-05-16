@@ -80,3 +80,38 @@ Nach Einstein:
 $$
 D=\frac{k_BT}{6\pi\eta r}
 $$
+# Berechnung von Wärmeleitfähigkeit
+## Für einatomige Gase
+$$
+\begin{align}
+\lambda_A&=\frac{0,083228}{\sigma^2_A\Omega_\lambda}\sqrt{\frac{T}{M_A}}
+\newline\newline
+\eta_A&=(2,96693\cdot10^{-6})\frac{\sqrt{M_AT}}{\sigma^2_A\Omega_\eta}
+\newline\newline
+\text{Mit }&\Omega_\lambda\text{ und }\Omega_\eta\text{ als Kollisionsintegralen für Wärmeleitfähigkeit und Viskosität}
+\end{align}
+$$
+## Für Mehratomige Gase
+Für mehratomige Gase muss die Wärmeleitfähigkeit korrigiert werden:
+$$
+\begin{align}
+\lambda_A&=\left( \frac{9\gamma-5}{5\gamma} \right)\eta_Ac_p
+\end{align}
+$$
+Mit:
+- $\gamma=\frac{c_p}{c_v}$
+- $\gamma=\frac 5 3$ für einatomige Gase
+- $\gamma = \frac 7 5$ für zweiatomige Gase
+- $\gamma = 1$ für komplexe Moleküle
+
+## Für Mehrstoffgemische
+Für Mehrstoffgemische wird ein gewichteter Wert für die Viskosität und die Wärmeleitfähigkeit genommen.
+$$
+\begin{align}
+\text{Viskosität nach Wilke: }\eta_m&=\sum^n_i\frac{\psi_i\eta_i}{\sum^n_j\psi_j\phi_{ij}}
+\newline\newline
+\text{Analog für Wärmeleitfähigkeit nach Maxons und Saxena: }\lambda_m&=\sum^n_i\frac{\psi_i\lambda_i}{\sum^n_j\psi_j\phi_{ij}}
+\newline\newline
+\text{Mit: }\phi_{ij}=\frac{\left[ 1+(\eta_i/\eta_j)^{0.5}(M_i/M_j)^{0.25} \right]^2}{2\sqrt{2}\cdot[1+(M_i/M_j)]^{0.5}}
+\end{align}
+$$
