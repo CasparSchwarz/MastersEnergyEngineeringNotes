@@ -97,4 +97,8 @@ Bei idealen Flüssigkeiten oder Gasen werden alle Atome oder Moleküle als starr
 Die Aktivität beschreibt Wechselwirkungen zwischen den verschiedenen Molekülen.
 
 # Berechnung von Gleichgewichten
-Zuerst muss die Fugazit
+Um Gleichgewichte zu berechnen, wird die Fugazität benötigt, für welche wiederum die Aktivität benötigt wird.
+## Raoult'sches Gesetz
+Das Raoult'sche Gesetz betrachtet eine Standarrdfugazität und vernachlässigt die Aktivität. Somit ist das Gesetz unabhängig vom Lösungsmittel definiert, was einen Fehler im Vergleich mit realen System herbeiführt.
+## Henry-Koeffizient
+Um eine genauere Bestimmung des Gleichgewichts zu erreichen, wird der Henry-Koeffizient zur bestimmung der Standardfugazität verwendet. Der Henrry-Koeffizient beschreibt somit die Löslichkeit über einen einffachen linearen Zusammenhang zwischen dem Partialdruck in der Gasphase und der Stoffmengenkonzentration in der Flüssigphase. $H_{ij}$ ist für Stoffpaarungen tabelliert tund stark temperaturabhängig.
