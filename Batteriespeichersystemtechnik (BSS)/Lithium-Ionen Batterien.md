@@ -130,3 +130,6 @@ Bei hohen Leistungen werden mehr Schichten verwendet, wodurch die Menge an Passi
 # Batteriesicherheit
 Die Batteriespannung muss immer im Bereich des normalen Betriebs zwischen ca. 2,5 V und 4,5 V betrieben werden:
 ![[Pasted image 20240527084712.png]]
+## Thermal runaway
+Durch Überladung kann es zu einem thermal runaway kommen. Dabei initiiert der Temperaturanstieg durch Überladung oder eine externe Wärmequelle eine **exotherme Reaktion**, welche sich selbst immer weiter beschleunigt. Dadurch Zerfällt die Aktivmasse und es kann zum Brand kommen.
+
