@@ -229,3 +229,7 @@ Für die Lebensdauerbeschreibung ist die Wöhlerkurve von großer Bedeutung. Sie
 ![[Pasted image 20240527100830.png]]
 
 In den Tests ist zu beachten, dass es sehr schwierig ist, alle Zellen einer Batterie in allen Betriebspunkten zu testen. Das führt dazu, dass statistische insignifikante Ergebnisse durch unzureichende Stichprobengrößen erzeugt werden.
+
+Temperatur hat einen signifikanten Einfluss auf die Alterung von Batterien. Ebenso auch der SOC und der DOD.
+
+Bei der Entladung hat die Entladestromstärke keinen Einfluss auf die Alterung der Batterie.
