@@ -169,3 +169,63 @@ Der Preis einer Batteriezelle setzt sich wie folgt zusammen:
 | Lithium   | 35 g                           | 9,2 kg                  |
 | Aluminium | 144 g                          | 37,9 kg                 |
 | Kupfer    | 281 g                          | 73,9 kg                 |
+# Alterungsprozesse
+Die Alterung von Batterien wird vom Ladezustand und den äußeren Bedingungen bestimmt. Dabei muss immer zwischen Nutzbarkeit und Langlebigkeit abgewägt werden:
+- Bei niedrigem SOC kann die Lebensdauer deutlich erhöht werden (Faktor 2 bis 3)
+- Bei niedrigem SOC ist die Nutzbarkeit gering
+- Bei hohem SOC sinkt die Lebensdauer deutlich (wenn bspw. Laptop immer vollgeladen)
+- Bei hohem SOC wird die höchste Nutzbarkeit bereitgestellt
+
+- Lösungsmittel Co-Interkalation / Abblättern von Graphit / Cracking
+	- -> Kapazitätsverlust
+	- Beschleunigt durch Überladen
+- Elektrolyt Zersetzung
+	- -> Kapazitätverlust, Leistungsverlust
+	- Beschleunigt durch hohe Temperatur und hoher Ladezustand
+- SEI Wachstum
+	- -> Erhöhung der Impedanz und Leistungsverlust
+	- Beschleunigt durch: hohe Stromraten, hohen Zyklentiefen
+- Verringerung der aktiven Oberfläche
+	- -> Erhöhung der Impedanz und Leistungsverlust
+	- Beschleunigt durhc hohe Temperatur und hoher Ladezustand
+- Abscheidung von metallischem Lithium
+	- -> Kapazitätsverlust, Leistungsverlust
+	- Beschleunigt durch niedrige Temperaut, hohe Stromraten, schlechtes Zelldesign
+- Kontaktverlsut der Aktivmassenpartikel wegen Volumenänderung
+	- -> Kapazitätsverlust
+	- Beschleunigt durch hohe Stromraten, hohe Zyklentiefe
+- Korrosion des Ableiters
+	- -> Leistungsverlust und Erhöhung der Impedanz
+	- Beschleunigt durch niedriger SOC, Tiefentladung
+
+## Alterung an der Anode
+- Abblättern von Graphit, Cracking
+- Zersetzung des Elektrolyten
+- SEI Wachstum
+- SEI Kovnertierung/ Stabilisierung/ Wachstum
+- SEI Auflösung / Ablagerung
+- Positive / Negative Wechselwirkung
+- Ablagerung von metallischem Lithium (Plating)
+- Dendritenbildung
+- Bildung neuer Oberfläche zur SEI-Bildung -> beschleunigte Alterung
+
+## Alterung an der Kathode
+- Mikro-Cracking
+- Gasung
+- Elektrolytzersetzung
+- Ausbildung einer Oberflächenschicht
+- Ablagerung neuer Phasen
+- Kontaktverlust zu leitenden Partikeln
+- Korrosion des Ableiters
+- Oxidation der leitenden Partikel
+- Zersetzung des Binders
+
+# Lebensdauertests
+Es gibt zwei grundsätzliche Arten von Alterungstests:
+- Kalendarische Alterung (vor allem Standzeiten)
+- Zyklentests (Betrieb des Speichers)
+
+Für die Lebensdauerbeschreibung ist die Wöhlerkurve von großer Bedeutung. Sie gibt die Anzahl an Zyklen an, die bei einer Entladetiefe erreicht werden können. Die rote Kurve ist dabei das Produkt aus Zyklen und Entladetiefe und zeigt somit die effektiv entnommene Energie an.
+![[Pasted image 20240527100830.png]]
+
+In den Tests ist zu beachten, dass es sehr schwierig ist, alle Zellen einer Batterie in allen Betriebspunkten zu testen. Das führt dazu, dass statistische insignifikante Ergebnisse durch unzureichende Stichprobengrößen erzeugt werden.
