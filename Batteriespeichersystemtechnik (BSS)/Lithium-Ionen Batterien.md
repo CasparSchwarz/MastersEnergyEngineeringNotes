@@ -127,3 +127,6 @@ Bei hohen Leistungen werden mehr Schichten verwendet, wodurch die Menge an Passi
 
 **Beachte**: Bei hohen Entladeströmen erwärmt sich die Batterie -> Erhöhte Kapazität aufgrund der Temperaturänderung
 **Aber**: Bei niedrigen Temperaturen und hohen Strömen fällt die Spannung anfangs sehr stark ab -> System denkt, dass die Batterie leer ist, da die Spannung so stark abgefallen ist
+# Batteriesicherheit
+Die Batteriespannung muss immer im Bereich des normalen Betriebs zwischen ca. 2,5 V und 4,5 V betrieben werden:
+![[Pasted image 20240527084712.png]]
