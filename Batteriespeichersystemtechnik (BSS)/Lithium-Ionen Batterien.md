@@ -230,6 +230,8 @@ Für die Lebensdauerbeschreibung ist die Wöhlerkurve von großer Bedeutung. Sie
 
 In den Tests ist zu beachten, dass es sehr schwierig ist, alle Zellen einer Batterie in allen Betriebspunkten zu testen. Das führt dazu, dass statistische insignifikante Ergebnisse durch unzureichende Stichprobengrößen erzeugt werden.
 
-Temperatur hat einen signifikanten Einfluss auf die Alterung von Batterien. Ebenso auch der SOC und der DOD.
+Temperatur hat einen signifikanten Einfluss auf die Alterung von Batterien. Ebenso auch der SOC und der DOD. Jedoch ist die geringe Zyklentiefe von geringem Einfluss auf die Alterung.
 
 Bei der Entladung hat die Entladestromstärke keinen Einfluss auf die Alterung der Batterie.
+
+Im realen Betrieb können über 4.000 äquivalente Vollzyklen erreicht werden. Bei kleinen Zyklentiefen deutlich mehr als 5.000
