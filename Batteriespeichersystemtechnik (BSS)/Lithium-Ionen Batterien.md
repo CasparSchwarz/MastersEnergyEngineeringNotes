@@ -130,6 +130,42 @@ Bei hohen Leistungen werden mehr Schichten verwendet, wodurch die Menge an Passi
 # Batteriesicherheit
 Die Batteriespannung muss immer im Bereich des normalen Betriebs zwischen ca. 2,5 V und 4,5 V betrieben werden:
 ![[Pasted image 20240527084712.png]]
+
+Erhöhung der passiven Sicherheit:
+- Verbesserte Überdruckventile bzw Sollbruchstelen
+- Verwendung von keramischen Separatoren
+- LiFePO4 als inhärent sicheres Material
+
+Aktive Sicherheit:
+- Spannugnsüberwachung jeder einzelnen Zelle
+- Genaues Lade- und Entlademanagement
+- Temperaturüberwachung und Kühlkonzepte
+
 ## Thermal runaway
 Durch Überladung kann es zu einem thermal runaway kommen. Dabei initiiert der Temperaturanstieg durch Überladung oder eine externe Wärmequelle eine **exotherme Reaktion**, welche sich selbst immer weiter beschleunigt. Dadurch Zerfällt die Aktivmasse und es kann zum Brand kommen.
+# Lade- und Entladekurven
+Eine typische Lade- und Entladekurve sieht wie folgt aus:
+![[Pasted image 20240527090617.png]]
+## Lithium Plating
+Bei tiefen Temperaturen, hohen Strömen und bei Überladung.
+Beispiel:
+- Kleine Diffusionskoeffizienten
+- Hohe Konzentrationen in äußeren Partikel Schalen
+- Tiefes lokales Potential
+- Lithium Plating
 
+![[Pasted image 20240527091407.png]]
+## Batteriemanagement
+Bei neuen Batterien haben alle Zellen einen einheitlichen SOC. Mit der Zeit können die Zellen jedoch ungleich altern, sodass einzelne Zellen in einen thermal runaway geraten können, obwohl andere Zelle noch nicht ihren maximalen Ladungszustand erreicht haben. Dementsprechend wird ein Ladungsausgleich benötigt, um alle Zellen auf einen einheitlichen SOC zu bringen.
+# Rohmaterialbedarf und Verfügbarkeit
+Der Preis einer Batteriezelle setzt sich wie folgt zusammen:
+![[Pasted image 20240527092354.png]]
+
+|           | Batteriezelle<br>100 Ah/ 3,8 V | Batteriepack<br>100 kWh |
+| --------- | ------------------------------ | ----------------------- |
+| Nickel    | 325 g                          | 85,5 kg                 |
+| Mangan    | 37 g                           | 9,7 kg                  |
+| Kobalt    | 41 g                           | 11,1 kg                 |
+| Lithium   | 35 g                           | 9,2 kg                  |
+| Aluminium | 144 g                          | 37,9 kg                 |
+| Kupfer    | 281 g                          | 73,9 kg                 |
