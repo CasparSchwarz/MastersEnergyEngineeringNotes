@@ -85,3 +85,44 @@ Nachteil:
 - Niedrige Wirkungsgrade (Umwandlungsverluste)
 - Bei Wasserstoff niedrige volumetrische Speicherdichte
 
+# Herstellung von Wasserstoff
+Die zwei Hauptverfahren zur Herstellung von Wasserstoff sind die Dampfreformierung und die Elektrolyse. Dabei ist die Dampfreformierung ein thermochemisches und die Elektrolyse ein elektrochemisches Verfahren.
+
+1. Erzeugung aus Primärenergieträgern
+	- Erdgasreformierung
+	- Partielle Oxidation und Autotherme Reformierung von Öl
+	- Vergasung von Kohle, Biomasse und organischem Restabfall
+2. Erzeugung aus Sekundärenergieträgern
+	- Wasserelektrolyse
+	- Nebenprodukt chemischer Prozesse (bspw. Chlorherstellung)
+	- Methanolreformierung
+3. Zukunftsverfahren
+	- Soarthermische Methanreformierung
+	- Künstliche Photosynthese
+	- Weitere Bio-Chemische Verfahren
+4. Gewinnung von H2 als Primärenergieträger?
+	- Natürliche Bildung von H2 durch Reaktion von Tiefenwasser mit Metallen unter Absenz von Sauerstoff (bisher wurden nur vereinzelte Vorkommen nachgewiesen)
+
+## Thermochemische Verfahren
+Thermochemische Verfahren, wie die Dampfreformierung, gehören zu den konventionellen Verfahren. Dabei wird zumeist Erdgas in seine Bestandteile (Wasserstoff und Kohlenstoff) zerlegt. Die Methan Dampfreformierung trägt zu ca. 50 % zum produzierten Wasserstoff bei (2015).
+## Einteilung von Wasserstoff
+**grauer / blaucher Wasserstoff**:
+- Grau: Herstellung auf Basis fossiler Brennstoffe; Produkt CO2 wird vollständig in die Atmosphäre emittiert
+- Blau: Herstellung auf Basis fossiler Brennstoffe; Produkt CO2 wird abgeschieden und gespeichert
+
+**grüner Wasserstoff**:
+- Herstellung aus Wasser mithilfe von Elektrolyse; Unter Einsatz regenerativ erzeugtem Stroms entstehen keine CO2 Emissionen
+
+**türkiser Wasserstoff**:
+- Herstellung durch Pyrolyse von Methan; Unter Einsatz regenerativ erzeugter Hochtemperaturwärme sowie Abscheidung des festen Kohlenstoffs entstehen keine CO2 Emissionen
+
+**weißer Wasserstoff**:
+- Wenn H2 lediglich als Abfallprodukt anderer chemischer Verfahren entsteht
+- Auch natürlich vorkommener Wasserstoff bei Ausgasungen hydrothermaler Systeme
+
+**gelber Wasserstoff**:
+- Herstellung aus Wasser mithilfe Elektrolye
+- Unter Einsatz einer Mischung aus regenerativ erzeugtem Strom
+
+**roter (violetter) Wasserstoff**:
+- Elektrolytische Erzeugung von Wasserstoff mit Nutzung von Strom aus Kernenergie
