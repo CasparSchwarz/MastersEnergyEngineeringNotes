@@ -126,3 +126,4 @@ Thermochemische Verfahren, wie die Dampfreformierung, gehören zu den konvention
 
 **roter (violetter) Wasserstoff**:
 - Elektrolytische Erzeugung von Wasserstoff mit Nutzung von Strom aus Kernenergie
+
