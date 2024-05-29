@@ -105,6 +105,18 @@ Die zwei Hauptverfahren zur Herstellung von Wasserstoff sind die Dampfreformieru
 
 ## Thermochemische Verfahren
 Thermochemische Verfahren, wie die Dampfreformierung, gehören zu den konventionellen Verfahren. Dabei wird zumeist Erdgas in seine Bestandteile (Wasserstoff und Kohlenstoff) zerlegt. Die Methan Dampfreformierung trägt zu ca. 50 % zum produzierten Wasserstoff bei (2015).
+
+Die Dampfreformierung wird wie folgt beschrieben:
+$$
+CH_4+H_2O\rightarrow CO+3H_2
+$$
+Bisher ist es die günstigste Art um Wasserstoff herzustellen. Um das Gleichgewicht der Reaktion auf der Seite der Produkte zu haben, müssen hohe Temperaturen (850 °C) und geringe Drücke gewährleistet werden. Zusammen mit Katalysatoren (Eisen und Nickel) wird eine hoher Konversionsgrad gefördert.
+
+In Dampfreformierungsanlagen können Produktionskapazitäten zwischen 150 - 200.000 Nm^3/h H2 erreicht werden. Der energetische Wirkungsgrad liegt dabei bei 70 - 75 %.
+
+Wasserstoff kann ebenso durch partielle Oxidation hergestellt werden (POX). Dabei werden die Einsatzstoffe unter Suaerstoffmangel in CO und H2 konvertiert. Das CO wird in einem nachgeschalteten CO-Shift-Reaktion mit Wasserdampf zu CO2 und H2 umgewandelt.
+
+Die autotherme Reformierung kombiniert Dampfreformierung und partielle Oxidation, indem der Oxidator O2 und Wasserdampf gleichzeitig und in einem geeigneten Mischungsverhältnis mit dem Brennstoff dem Reaktor zugeführt werden. Die erforderliche Reaktionswärme wird im Reaktionsraum selbst erzeugt (autotherm). Für diesen Prozess benötigt reinen Sauerstoff verwendet, sodass keine Luft verwendet werden kann.
 ## Einteilung von Wasserstoff
 **grauer / blaucher Wasserstoff**:
 - Grau: Herstellung auf Basis fossiler Brennstoffe; Produkt CO2 wird vollständig in die Atmosphäre emittiert
