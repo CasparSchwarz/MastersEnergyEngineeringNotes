@@ -34,3 +34,8 @@ $$
 j_A''=-\rho D \left. \frac{\partial\xi_A}{\partial y} \right|_{y=0}=\rho D\frac{\xi_{A,0}-\xi_{A,\delta_\xi}}{\delta_\xi}
 $$
 Mit $j_A''=g\Delta\xi_A$ folgt somit für den Stoffübergangskoeffizienten: $g=\rho\frac{D}{\delta_\xi}$
+# Zweifilmtheorie
+Im Gegensatz zur bisherigen Anwendung der Filmtheorie muss die Filmtheorie auf zwei fluide Phasen erweitert werden.
+- Potentialdifferenz führt zu einem Stoffübergang von A über die Phasengrenze
+- In beiden Phasen bildet sich eine Konzentrationsgenzschicht aus, wobei gilt: Konzentrationsgrenzschicht << Strömungsgrenzschicht
+- Innerhalb der $\xi$-Grenzschicht erfolgt der Stofftransport von A ausschließlich diffusiv
