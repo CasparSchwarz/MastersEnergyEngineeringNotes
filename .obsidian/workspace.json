@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "2f5adb9cf5a68e1d",
   "lastOpenFiles": [
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Pasted image 20240603120628.png",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240603092441.png",
     "Pasted image 20240527100830.png",
     "Pasted image 20240527092354.png",
