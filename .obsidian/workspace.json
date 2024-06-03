@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "2f5adb9cf5a68e1d",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Pasted image 20240527100830.png",
     "Pasted image 20240527092354.png",
     "Pasted image 20240527091407.png",
@@ -169,7 +171,6 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240509191356.png",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Pasted image 20240508151554.png",
@@ -180,7 +181,6 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
     "Pasted image 20240502091933.png",
     "Pasted image 20240502090601.png",
-    "Pasted image 20240502090045.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/WSÜ2.md",
     "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
     "Digital Career Day Energie.md"
