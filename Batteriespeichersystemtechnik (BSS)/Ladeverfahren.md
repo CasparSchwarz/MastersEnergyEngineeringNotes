@@ -151,3 +151,38 @@ Induktion
 - Bidirektionales Laden
 	- Energie kann auch in das Netz zurückgespeist werden
 	- Nur als Erweiterung des Smart Laden sinnvoll
+
+Was können Elektrofahrzeuge für das Netz tun?
+- Fahrzeuge können positive und negative Regelleistung bereitstellen
+	- Durch gezieltes Ein- und Ausschalten des Ladevorgangs
+	- Durch Rückspeisung von Energie ins Netz
+- Umrichter können zusätzlich Systemdienstleistungen erbringen
+	- Bereitstellung von Blindleistung
+	- Phasensymmetrierung
+	- Flickerkompensation
+	- Oberwellenkompensation
+- Fahrzeuge können alle Speicheraufgaben im Netz auf der Zeitskala zwischen Millisekunden und einem Tag lösen
+- Derzeit wird abgechätzt, dass zwischen 100 und 300 €/Jahr pro Fahrzeug seitens des Netzes für die Bereitstellung von Regelleistung erwirtschaftet werden können
+
+# Hierarchisiertes Energiemanagementsystem
+1. Ebene: Energiemanagement, das die Interessen des Fahrzeugführers vertritt
+2. Ebene: Regelsystem, das eine Überlastung des lokalen Verteilnetzes vermeidet
+3. Ebene: Energiemanagement, das die Interessen des Übertragungsnetzes wahrnimmt
+
+Dabei sind alle weiteren ebene der vorigen Ebene nachgeschaltet. Erst, wenn die Anforderungen der dritten Eben von der ersten und zweiten Ebene erfüllt werden können, wird die Anforderung umgesetzt.
+## 1. Ebene
+- Managementsystem weiß, wann die Batterie wieder vollgeladen sein muss, um für die nächste Fahrt bereit zu stehen
+	1. Möglichkeit: Selbstlernende Algorithmen erkennen das typische Nutzungsprofil und arbeiten danach
+	2. Fahrzeugführer teilt dem Fahrzeug beim Verlassen mit, wann die nächste Fahrt ansteht und welche Distanz gefahren werden soll
+- Managementsystem erhält die Vorhersage der zu erwartenden Strompreise jeweils 24 h im voraus und wird im zur Verfügung stehenden Zeitraum bis zu nächsten Fahrt den Speicher zu geringstmöglichen Kosten aufladen
+- Managementsystem entscheidet bei einem spontanen Regelbedarf des Netzes, ob das Fahrzeug aktiv in die Regelung einsteigt
+
+## 2. Ebene
+- Rückspeisung könnte zu einer Erhöhung der Spannungslage im lokalen Verteilnetz und damit zu Störungen führen
+- Regelsystem des bidirektionalen Umrichters überwacht daher, das nur dann Leistung eingespeist wird, wenn die zulässigen Spannungsgrenzen nicht überschritten werden
+- System kann auch zur aktiven Stabilisierung des lokalen Verteilnetzes genutzt werden, in dem die Leistungsqualität stetig überwacht wird und im Rahmen der technichen Möglichkeiten die Leistungsqualität verbessert wird
+
+## 3. Ebene
+- Energiemanagement des Übertragungsnetzes erstellt Leistungsbedarfsprognose und tageszeitabhängige Preisprognose und übermittelt diese der 1. Ebene des Managementsystems
+- Ermittelt aktuellen positiven und negativen Regelleistungsbedarf und übermittelt den dezentralen Einheiten den Bedarf
+- Erste Ebene entscheidet über die Erfüllung der Nachfrage
