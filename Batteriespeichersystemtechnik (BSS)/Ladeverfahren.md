@@ -66,3 +66,88 @@ CC-Ladung mit anderen Kriterien
 	- Sehr hoher Ladestrom zu Beginn der Ladung (normalerweise keine reine U-Ladung)
 	- Teures Ladegerät
 
+## IU-Ladeverfahren
+- CCCV: constant current - constant voltage
+- Erste Phase: Ladung mit konstantem Strom (da Ladestrom durch Ladegerät begrenzt)
+- Ende der ersten Phase: Erreichen der Ladeschlussspannung
+- Zweite Phase: Ladung mit konstanter Spannung
+	- Ladestrom sinkt mit zunehmendem Ladezustand des Akkus selbsttätig ab
+	- Beendung der Ladung bei Unterschreiten eines minimalen Ladestroms
+
+-> Standardverfahren für Lithium-Ionen-Batterien
+![[Pasted image 20240603092441.png]]
+
+# Ladegeräte
+Ladegeräte können entweder 1-phasig (3,7 kW) oder 3-phasig ausgeführt werden. Beide Ladegeräte sind dabei entweder unidirektional oder bi-direktional. 3-phasige Leistungsanschlüsse laden dabei typischerweise mit 11 KW oder 22 kW. Wird ein Gleichstromladegerät genutzt, können Ladeleistungen von weit über 22 kW erreicht werden.
+## Optionen für Ladegeräte
+- Ladegerät integriert im Fahrzeug
+	- Vorteil
+		- Immer einsatzbereit
+		- Nur ein Ladegerät pro Fahrzeug notwendig
+	- Nachteil: Erhöhtes Fahrzeuggewicht
+- Ladegerät oder Teile des Ladegerätes außerhalb des Fahrzeugs
+	- Vorteil
+		- Reduziertes Fahrzeuggewicht
+		- Bei Schnellladung Möglichkeit zur Integration einer leistungsfähigen Kühlung
+	- Nachteil
+		- Kompatibilität ist notwendig
+		- Haltepunkte müssen nicht nur über Stromanschluss sondern auch über die Ladeelektronik verfügen
+
+# Ultraschnellladen
+- Vorteil: Fahrzeug kann nach kurzer Zeit wieder benutzt werden
+- Nachteil
+	- Hohe Ladeleistung notwendig
+	- Hohe Kosten für Ladegeräte
+	- Nur an zentralen Punkten und nicht an jedem Haus möglich
+	- Hohe Belastung der Batterie durch Erwärmung
+	- Erhöhte Kosten für Batteriepackdesign
+
+Unter Ultraladung werden Ladeleistungen von 350 kW bis 400 kW verstanden.
+
+Herausforderungen:
+- Leistungsorientiertes Design
+- Kühlsysteme
+- Erhöhte Batteriespannung
+- Risiko der beschleunigten Alterung durch Lithium Plating
+
+## Thermalmanagementprobleme
+- Effizienz der Batterie bei Laderaten von 5C während des Ladens wahrscheinlich zwischen 88 % und 93 %
+	- 7 bis 12 % Verlust bei 350 kW
+	- 25 bis 40 kW Wärmegeneration
+	- 3 bis 6 kWh Wärmegeneration für 300 km Ladung
+	- 50 bis 70 K Temperaturanstieg ohne Kühlung
+- Aktive Flüssigkühlung für 
+	- Kabel
+	- Batterie
+- Eventuell Abhilfe durch feste Elektrolyten (auf keramischer Basis)
+
+# Batteriewechselkonzepte
+- Erdordert hohe Standardisierung der Batterie über verschiedene Fahrzeuglinien und Hersteller hinweg
+- Batteriebesitz ist kaum möglich
+- Zahl der Wechselstationen und der vorrätigen Batterien muss auf die Peak-Belastung ausgelegt werden
+- Zahl der Batteriepacks muss bis zweimal größer sein als die Zahl der Fahrzeuge
+- Sinnvoll für spezielle Flotten
+
+-> nicht ökonomisch und ökologisch nicht sinnvoll für kleine und mittelgroße Autos
+# Kabel oder Induktion
+Stecker / Kabel
+- Effizient
+- Stecker noch teuer, aber günstiger als induktives Laden
+- Infomationsverbindung möglich oder Kühlmittel
+- Verrigelungsschutz
+
+Induktion
+- Langjährige Erfahrungen vorhanden
+- Möglichst viele Feldlinien notwendig
+- Wirkungsgrad muss maximiert werden
+# Ladestrategien
+- Ungesteuertes Laden
+- Zeitgesteuertes Laden
+	- Laden in Niederpreiszeiten
+	- Unmittelbar vor Fahrtaufnahme
+- Smart Laden
+	- Aufladen auf Basis aktueller Signale zum Strompreis oder technische Netzstabilität
+	- Außere Anforderungen werden "verrechnet" mit den Individualanforderungen des Fahrzeugnutzers
+- Bidirektionales Laden
+	- Energie kann auch in das Netz zurückgespeist werden
+	- Nur als Erweiterung des Smart Laden sinnvoll
