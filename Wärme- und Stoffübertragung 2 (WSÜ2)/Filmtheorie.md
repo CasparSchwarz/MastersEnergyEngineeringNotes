@@ -82,3 +82,28 @@ $$
 $$
 Dabei stellen $\beta_i$ die Stoffübergangskoeffizienten analog zu $g_i$ dar.
 # Rieselfilm
+Rieselfilme haben eine hohe technische Bedeutung in der Lebensmittelindustrie (Milch, Säfte), der Medizin oder in Wärmeübertragern. In der Stoffübertragung soll ein Stoffmengenstrom von einer Wand in den Rieselfilm übergehen.
+
+Durch die Annahmen
+- stationär
+- keine Bewegung in Wandnormalenrichtung
+- Konzentrationsgradient in y-Richtung deutlich größer als in x-Richtung
+
+$$
+\rho u\frac{\partial\xi}{\partial x}-D\frac{\partial}{\partial y}\left( \rho\frac{\partial\xi}{\partial y} \right)=0
+$$
+Die DGL wird unter folgenden Randbedingungen gelöst:
+- lineares Geschwindigkeitsprofil innerhalb der $\xi$-Grenzschicht
+- $\xi_A(x=0)=0$
+- $\xi_A(y=0)=\xi_{A,0}$
+- $\xi_A(y=\infty)=\xi_{A,\infty}=0$
+
+Mit $\Phi=y\left( \frac{g(\rho-\rho_g)\delta_{Film}}{9\cdot\eta D_{AB}x} \right)^{(1/3)}$
+$$
+j_A''=\frac 3 2 \cdot\frac{D_{AB}\rho}{\Gamma(4/3)}\cdot\left( \frac{g(\rho-\rho_g)\delta_{Film}}{9\cdot\eta D_{AB}L} \right)^{(1/3)}\cdot\xi_{A,0}
+$$
+Der Stoffübergang kann durch die Sherwood Zahl beschrieben werden:
+$$
+Sh=\frac{g\delta_{Film}}{\rho D_{AB}}=1,16\cdot\left( Re_{Film}\cdot Sc\cdot\frac{\delta_{Film}}{L} \right)
+$$
+Beachte: Die Berechnung der Sherwoord-Zahl gilt nur, wenn die Konzentrationsgrenzschicht kleiner als die Strömungsgrenzschicht ist ($Sh<1$).
