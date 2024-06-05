@@ -139,3 +139,8 @@ Die autotherme Reformierung kombiniert Dampfreformierung und partielle Oxidation
 **roter (violetter) Wasserstoff**:
 - Elektrolytische Erzeugung von Wasserstoff mit Nutzung von Strom aus Kernenergie
 
+# Speicherung von Wasserstoff
+## Druckspeicherung
+## Flüssigspeicherung
+## LOHC
+## Alternativen
