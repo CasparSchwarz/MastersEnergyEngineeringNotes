@@ -149,7 +149,41 @@ Wasserstoff lässt sich auf verschiedene weisen speichern:
 - Salzartige Metallhydride (330 °C)
 
 ## Druckspeicherung
-Um Wasserstoff unter hohem Druck oder flüssig zu speichern, muss dieser verdichtet werden.
+Um Wasserstoff unter hohem Druck oder flüssig zu speichern, muss dieser verdichtet werden. Dafür muss das richtige Verdichtungskonzept gewählt werden (Radialverdichter, Kolbenverdichter, Schraubenverdichter).
+![[SmartSelect_20240605_084241_Drive.jpg]]
+Um Wasserstoff auf 70 MPa zu komprimieren, wird ca. 12 % des Energiegehaltes des Wasserstoffs benötigt. Das Struckturgewicht eines Druckspeichers liegt zwischen 20 kg und 40 kg pro kg gespeichertem Wasserstoff.
+
+Bei der Speicherung von realen Gasen wird die gespeicherte Menge an Gas immer im Normzustand angegeben. Dabei ist die nutzbare Menge des gespeicherten Gases das Arbeitsgasvolumen (AGV) und somit die differenz zwischen dem maximalen Speichervolumen $V_{n,max}$ und dem Kissengasvolumen $V_{n,min}$.
+$$
+\begin{align}
+V_{n,AGV}&=V_{n,max}-V_{n,min}
+\newline\newline\text{Mit: }V_{n,max}&=V_{geo}\frac{p_{max}T_nZ_n}{p_nT_{max}Z_{max}}
+\newline\newline
+V_{n,min}&=V_{geo}\frac{p_{min}T_nZ_n}{p_nT_{min}Z_{min}}
+\end{align}
+$$
+Somit kann Wasserstoff in Kavernen oder Druckbehältern gespeichert werden.
+### Turboverdichter
+- Hohe Volumenströme
+- Niedriges Druckverhältnis
+- Sehr hohe Umfangsgeschwindigkeiten -> hohe Drehzahlen -> hohe Bauteilbeanspruchung
+- Mit höheren Umfangsgeschindigkeiten sinkt die Anzahl der benötigten Verdichterstufen
+
+### Wahl des richtigen Verdichters
+- Kompressor-Station muss Ex-geschützt ausgeführt sein
+- Je nach Anwendung muss der Verdichter ausgewählt werden
+	- schmierstofffrei oder ölgeflutet
+	- gekühlt oder ungekühlt
+	- Druckniveau
+	- Volumenstrom
+	- Lärmemission
+- Problem der Wasserstoffversprödung muss gelöst werden
+
 ## Flüssigspeicherung
+Bei Verflüssigung von Wasserstoff (-252,8 °C) kann dieser bei nur geringem Überdruck in Tanks gespeichert werden. Das Hauptproblem dabei ist die Wärmedämmung des Tanks, da der Kälteverlust bei der Speicherung signifikant ist. Der Energieaufwand zur Verflüssigung beträgt 30-40 % des Heizwerts des Wasserstoffs.
+
+Ein Problem bei der Verflüssigung ist der Joule-Thompson Effekt, der dafür sorgt, dass die Temperatur von Wasserstoff in den technische relevanten Bereichen bei Entspannung steigt.
 ## LOHC
+Liquid Organic Hydrogen Carrier sind flüssige Träger, die Wasserstoff aufnehmen können. Dabei kann reversibel Wasserstoff Be- und Entladen werden und der im Träger gelöste Wasserstoff einfach transportiert werden kann (2,05 kWh/kg).
 ## Alternativen
+Wasserstoff kann in Metallhydriden gespeichert werden. Diese sind salzartig aufgebaut und Wasserstoff-Moleküle werden auf der Oberfläche des Metalls zunächst adsorbiert und anschließend in das Metallgitter eingebunden. Es kann ca. 2 wt.-% Wasserstoff eingespeichert werden.
