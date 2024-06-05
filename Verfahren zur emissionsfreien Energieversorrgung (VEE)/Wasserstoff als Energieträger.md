@@ -140,7 +140,16 @@ Die autotherme Reformierung kombiniert Dampfreformierung und partielle Oxidation
 - Elektrolytische Erzeugung von Wasserstoff mit Nutzung von Strom aus Kernenergie
 
 # Speicherung von Wasserstoff
+Wasserstoff lässt sich auf verschiedene weisen speichern:
+- Flüssig (-253 °C)
+- Kryoadsorption (>-200 °C)
+- Zwischengitterplatz-Metallhydride (0-30 °C)
+- Druckwasserstoff (25 °C)
+- LOHC (80-320 °C); Anbindung von Wasserstoff an flüssigen Träger
+- Salzartige Metallhydride (330 °C)
+
 ## Druckspeicherung
+Um Wasserstoff unter hohem Druck oder flüssig zu speichern, muss dieser verdichtet werden.
 ## Flüssigspeicherung
 ## LOHC
 ## Alternativen
