@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435c367b7ae9860d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Herny",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md"
               }
             }
           }
@@ -161,26 +174,28 @@
   },
   "active": "2f5adb9cf5a68e1d",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+    "Pasted image 20240604132336.png",
+    "Pasted image 20240603120628.png",
+    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Pasted image 20240603092441.png",
     "Pasted image 20240527100830.png",
     "Pasted image 20240527092354.png",
     "Pasted image 20240527091407.png",
     "Pasted image 20240527090617.png",
     "Pasted image 20240527084712.png",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240509191356.png",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Pasted image 20240508151554.png",
     "Alternative Energietechniken (AET)/Biomasse.md",
-    "Pasted image 20240503144304.png",
     "Alternative Energietechniken (AET)/AET.md",
     "Alternative Energietechniken (AET)/Energiespeicher.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Strahlung in Gasen.md",
-    "Pasted image 20240502091933.png",
-    "Pasted image 20240502090601.png",
-    "Pasted image 20240502090045.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/WSÜ2.md",
     "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
     "Digital Career Day Energie.md"

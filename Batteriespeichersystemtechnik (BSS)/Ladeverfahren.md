@@ -1,0 +1,188 @@
+# Ladeverfahren und Kriterien für die Detektion der Vollladung
+## Lademanagement
+Die Geschwindigkeit der Aufladung wird wesentlich von der Ladestrategie bestimmt:
+- Dauer bis 80 % oder 100 % Aufladung
+- Dauer des Nachladens für 100 km Reichweite
+
+Ebenso sind Einflüsse auf die Lebensdauer zu beachten:
+- Temperatur, Stromstärke, Spannung
+- Überladen von Batterien kann zu schweren Unfällen sorgen
+
+Um Netzüberlasten zu Vermeiden kann intelligentes Laden verwendet werden:
+- koordiniertes Laden -> Leistungsspitzen und Netzüberlastungen vermeiden
+- Vehicle-to-grid zur Strommarktstabilisierung
+
+## Unterteilung des Ladevorgangs
+Hauptladung
+- Ladestrom fließt zum Großteil in die Hauptreaktionen
+- Effekte der Nebenreaktionen spielen keine wesentliche Rolle
+
+Nachladung
+- Haupt- und Nebenreaktionen konkurrieren
+- Ladegeschwindigkeit muss begrenzt werden
+- Bei einigen Ladeverfahren: Dauer oder Intensität der Nachladephase in Abhängigkeit von der Hauptladung
+
+Erhaltungsladung
+- Kompensation der Selbstentladung
+- Bei einigen Batterie-Technologien: Minimierung von Alterungseffekten
+
+## Konstantstromladeverfahren (CC-Ladung)
+- Ladeverfahren ist sehr einfach
+- Konstantstromverfahren mit ein oder zwei Stromstufen üblich
+- Abschaltkriterien zur Feststellung der Volladung bzw. der Beendung der Ladung wichtig:
+	- Maximalspannung oder Gradient
+	- Überschreitung der Maximaltemperatur oder des Temperaturgradienten
+
+CC-Ladung am Zeitlimit
+- Hauptladung mit konstantem Strom
+- Überladen bei Erreichen des Volladezustands
+	- Gesamter Ladestrom fließt in die Nebenreaktion
+	- Signifikante Erwärmung der Batterie
+	- Je nach Technologie: Zersetzung des Elektrolyten
+
+CC-Ladung mit anderen Kriterien
+- Realisierung kürzerer Ladezeiten durch höhere Ladeströme
+- Geeignetes Abschaltkriterium nötig, abhängig von
+	- Zelltyp
+	- Ladegeschwindigkeit
+
+## Abschaltkriterien bei CC-Ladung
+- $U_{abs}$: kritisch, da temperatur-, alters- und typabhängig
+- $-\Delta U$: häufig eingesetzt, kritisch bei hohen Temperaturen aufgrund von kleineren Spannungsmaxima
+- $U_{max}$: prinzipiell optimal, aber hoher Aufwand und Kosten von Messtechnik
+- $\frac{d^2U}{dt^2}=0$: Batterie noch nicht vollgeladen, daher Einsatz nur für Schnellstladung
+- $T_{abs}$: kritisch, kann nur als Sicherheitskriterium dienen
+- $\Delta T$: Abschalten nach einer Temperaturänderung seit Start des Ladevorgangs ist möglich, typischer Wert ca. 15 K
+- $\frac{dT}{dt}$: Steigung der Temperatur liegt im Bereich 1...6 K/min. Gute Ermittlung der Vollladung möglich
+- $\frac{d^2T}{dt^2}=0$: Temperatur liegt unter Umständen bei unerlaubt hohen Temperaturen, sodass Wendepunkt als Abschaltkriterium ungeeignet
+
+## Konstantspannungsverfahren (U-Ladung)
+- Ladung mit konstanter Spannung führt zu sinkendem Strom nach bestimmter Ladedauer
+- Mit zunehmendem Ladezustand
+	- Anstieg der Ruhespannung
+	- Anstieg des Innenwiderstands
+	- Kleiner werdende Spannungsdifferenz zwischen Ladegerät und Batterie
+- Nachteil
+	- Sehr hoher Ladestrom zu Beginn der Ladung (normalerweise keine reine U-Ladung)
+	- Teures Ladegerät
+
+## IU-Ladeverfahren
+- CCCV: constant current - constant voltage
+- Erste Phase: Ladung mit konstantem Strom (da Ladestrom durch Ladegerät begrenzt)
+- Ende der ersten Phase: Erreichen der Ladeschlussspannung
+- Zweite Phase: Ladung mit konstanter Spannung
+	- Ladestrom sinkt mit zunehmendem Ladezustand des Akkus selbsttätig ab
+	- Beendung der Ladung bei Unterschreiten eines minimalen Ladestroms
+
+-> Standardverfahren für Lithium-Ionen-Batterien
+![[Pasted image 20240603092441.png]]
+
+# Ladegeräte
+Ladegeräte können entweder 1-phasig (3,7 kW) oder 3-phasig ausgeführt werden. Beide Ladegeräte sind dabei entweder unidirektional oder bi-direktional. 3-phasige Leistungsanschlüsse laden dabei typischerweise mit 11 KW oder 22 kW. Wird ein Gleichstromladegerät genutzt, können Ladeleistungen von weit über 22 kW erreicht werden.
+## Optionen für Ladegeräte
+- Ladegerät integriert im Fahrzeug
+	- Vorteil
+		- Immer einsatzbereit
+		- Nur ein Ladegerät pro Fahrzeug notwendig
+	- Nachteil: Erhöhtes Fahrzeuggewicht
+- Ladegerät oder Teile des Ladegerätes außerhalb des Fahrzeugs
+	- Vorteil
+		- Reduziertes Fahrzeuggewicht
+		- Bei Schnellladung Möglichkeit zur Integration einer leistungsfähigen Kühlung
+	- Nachteil
+		- Kompatibilität ist notwendig
+		- Haltepunkte müssen nicht nur über Stromanschluss sondern auch über die Ladeelektronik verfügen
+
+# Ultraschnellladen
+- Vorteil: Fahrzeug kann nach kurzer Zeit wieder benutzt werden
+- Nachteil
+	- Hohe Ladeleistung notwendig
+	- Hohe Kosten für Ladegeräte
+	- Nur an zentralen Punkten und nicht an jedem Haus möglich
+	- Hohe Belastung der Batterie durch Erwärmung
+	- Erhöhte Kosten für Batteriepackdesign
+
+Unter Ultraladung werden Ladeleistungen von 350 kW bis 400 kW verstanden.
+
+Herausforderungen:
+- Leistungsorientiertes Design
+- Kühlsysteme
+- Erhöhte Batteriespannung
+- Risiko der beschleunigten Alterung durch Lithium Plating
+
+## Thermalmanagementprobleme
+- Effizienz der Batterie bei Laderaten von 5C während des Ladens wahrscheinlich zwischen 88 % und 93 %
+	- 7 bis 12 % Verlust bei 350 kW
+	- 25 bis 40 kW Wärmegeneration
+	- 3 bis 6 kWh Wärmegeneration für 300 km Ladung
+	- 50 bis 70 K Temperaturanstieg ohne Kühlung
+- Aktive Flüssigkühlung für 
+	- Kabel
+	- Batterie
+- Eventuell Abhilfe durch feste Elektrolyten (auf keramischer Basis)
+
+# Batteriewechselkonzepte
+- Erdordert hohe Standardisierung der Batterie über verschiedene Fahrzeuglinien und Hersteller hinweg
+- Batteriebesitz ist kaum möglich
+- Zahl der Wechselstationen und der vorrätigen Batterien muss auf die Peak-Belastung ausgelegt werden
+- Zahl der Batteriepacks muss bis zweimal größer sein als die Zahl der Fahrzeuge
+- Sinnvoll für spezielle Flotten
+
+-> nicht ökonomisch und ökologisch nicht sinnvoll für kleine und mittelgroße Autos
+# Kabel oder Induktion
+Stecker / Kabel
+- Effizient
+- Stecker noch teuer, aber günstiger als induktives Laden
+- Infomationsverbindung möglich oder Kühlmittel
+- Verrigelungsschutz
+
+Induktion
+- Langjährige Erfahrungen vorhanden
+- Möglichst viele Feldlinien notwendig
+- Wirkungsgrad muss maximiert werden
+# Ladestrategien
+- Ungesteuertes Laden
+- Zeitgesteuertes Laden
+	- Laden in Niederpreiszeiten
+	- Unmittelbar vor Fahrtaufnahme
+- Smart Laden
+	- Aufladen auf Basis aktueller Signale zum Strompreis oder technische Netzstabilität
+	- Außere Anforderungen werden "verrechnet" mit den Individualanforderungen des Fahrzeugnutzers
+- Bidirektionales Laden
+	- Energie kann auch in das Netz zurückgespeist werden
+	- Nur als Erweiterung des Smart Laden sinnvoll
+
+Was können Elektrofahrzeuge für das Netz tun?
+- Fahrzeuge können positive und negative Regelleistung bereitstellen
+	- Durch gezieltes Ein- und Ausschalten des Ladevorgangs
+	- Durch Rückspeisung von Energie ins Netz
+- Umrichter können zusätzlich Systemdienstleistungen erbringen
+	- Bereitstellung von Blindleistung
+	- Phasensymmetrierung
+	- Flickerkompensation
+	- Oberwellenkompensation
+- Fahrzeuge können alle Speicheraufgaben im Netz auf der Zeitskala zwischen Millisekunden und einem Tag lösen
+- Derzeit wird abgechätzt, dass zwischen 100 und 300 €/Jahr pro Fahrzeug seitens des Netzes für die Bereitstellung von Regelleistung erwirtschaftet werden können
+
+# Hierarchisiertes Energiemanagementsystem
+1. Ebene: Energiemanagement, das die Interessen des Fahrzeugführers vertritt
+2. Ebene: Regelsystem, das eine Überlastung des lokalen Verteilnetzes vermeidet
+3. Ebene: Energiemanagement, das die Interessen des Übertragungsnetzes wahrnimmt
+
+Dabei sind alle weiteren ebene der vorigen Ebene nachgeschaltet. Erst, wenn die Anforderungen der dritten Eben von der ersten und zweiten Ebene erfüllt werden können, wird die Anforderung umgesetzt.
+## 1. Ebene
+- Managementsystem weiß, wann die Batterie wieder vollgeladen sein muss, um für die nächste Fahrt bereit zu stehen
+	1. Möglichkeit: Selbstlernende Algorithmen erkennen das typische Nutzungsprofil und arbeiten danach
+	2. Fahrzeugführer teilt dem Fahrzeug beim Verlassen mit, wann die nächste Fahrt ansteht und welche Distanz gefahren werden soll
+- Managementsystem erhält die Vorhersage der zu erwartenden Strompreise jeweils 24 h im voraus und wird im zur Verfügung stehenden Zeitraum bis zu nächsten Fahrt den Speicher zu geringstmöglichen Kosten aufladen
+- Managementsystem entscheidet bei einem spontanen Regelbedarf des Netzes, ob das Fahrzeug aktiv in die Regelung einsteigt
+
+## 2. Ebene
+- Rückspeisung könnte zu einer Erhöhung der Spannungslage im lokalen Verteilnetz und damit zu Störungen führen
+- Regelsystem des bidirektionalen Umrichters überwacht daher, das nur dann Leistung eingespeist wird, wenn die zulässigen Spannungsgrenzen nicht überschritten werden
+- System kann auch zur aktiven Stabilisierung des lokalen Verteilnetzes genutzt werden, in dem die Leistungsqualität stetig überwacht wird und im Rahmen der technichen Möglichkeiten die Leistungsqualität verbessert wird
+
+## 3. Ebene
+- Energiemanagement des Übertragungsnetzes erstellt Leistungsbedarfsprognose und tageszeitabhängige Preisprognose und übermittelt diese der 1. Ebene des Managementsystems
+- Ermittelt aktuellen positiven und negativen Regelleistungsbedarf und übermittelt den dezentralen Einheiten den Bedarf
+- Erste Ebene entscheidet über die Erfüllung der Nachfrage

@@ -73,6 +73,16 @@ Bei Lithium-Plating flockt metallisches Lithium an der Anode aus, wenn das Poten
 - niedrigen Temperaturen und
 - hohen Stromstärken
 
+Li-Plating ist abhängig von:
+- Stromrate
+- Temperatur
+- Material
+- Internes Zellendesign
+- Ladestatus
+- State of Health
+
+Als Konsequenz sinkt die Kapazität rapide und es kann zu Kurzschlüssen kommen.
+
 ## Solid-State Elektrolyte
 Festkörperbatterien benutzen als Elektrolyt etwa Kunststoffe (Polymere) oder Keramiken. Der Hauptunterschied zu Li-Io-Batterien mit flüssigem Elektrolyt ist, dass **kein Graphit** als Anode verwendet wird sondern **metallisches Lithium**.
 
