@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Herny",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md"
               }
             }
           }
@@ -174,9 +173,12 @@
   },
   "active": "2f5adb9cf5a68e1d",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/BSS.md",
+    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
+    "SmartSelect_20240605_084241_Drive.jpg",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Pasted image 20240604132336.png",
     "Pasted image 20240603120628.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
@@ -191,7 +193,6 @@
     "Career Center Lebenslauf.md",
     "Pasted image 20240509191356.png",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
-    "Pasted image 20240508151554.png",
     "Alternative Energietechniken (AET)/Biomasse.md",
     "Alternative Energietechniken (AET)/AET.md",
     "Alternative Energietechniken (AET)/Energiespeicher.md",
