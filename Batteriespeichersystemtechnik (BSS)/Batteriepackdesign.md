@@ -135,3 +135,20 @@ Hochtemperatur Batterien:
 - + Gute Zyklenlebensdauer
 - - Jeweils nur ein Anbieter, thermisches Management aufwändig, hohe thermische Verluste
 
+Redox-flow-Batterien:
+- Demonstationsanlagen im Feld, auf dem Weg zur Kommerzialisierung
+- 2 bis 3 komerzielle Anbieter
+- Wirkungsgrad 70 bis 85 %
+- Nur eingeschränkt USV-fähig
+- + Energie und Leistung sind separat auslegbar, gute Zyklenlebensdauer
+- - Vanadium ist teuer
+
+Lithium-Ionen Batterien:
+- Bereits vielfältige Anwendung im Consumer Bereich
+- Hohe Energiedichte
+- Stationärer Einsatz bei kurzen Entladezeiten
+- Hohe Kosten, jedoch hohes Kostensenkungspotential
+- Wirkungsgrad 90 bis 95 %
+- + Sehr gute Zyklenlebensdauer
+- - Teuer, aufwändiges Management
+
