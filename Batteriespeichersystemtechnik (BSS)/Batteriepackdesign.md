@@ -166,3 +166,10 @@ Typische Bauformen von Batteriezellen sind
 | - Kühlung wegen des Oberflächen- / Volumenverhältnisses schwierig                  | - geringe Steifigkeit                                 | - Probleme mit internem Druck der Zellen                                   |
 |                                                                                    | - Zellverspannung benötigt                            | - Kühlung wegen Oberflache zu Volumen schwierig                            |
 |                                                                                    |                                                       | - Zellverspannung benötigt                                                 |
+Im Vergleich von verschiedenen Herstellern von E-Autos, kann gezeigt werden, wie hoch die Energiedichte
+- des Rohmaterials,
+- der Zelle
+- des Moduls und
+- des Packs ist.
+![[Pasted image 20240610152908.png]]
+![[Pasted image 20240610153029.png]]
