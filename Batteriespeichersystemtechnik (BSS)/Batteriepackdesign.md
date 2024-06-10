@@ -152,3 +152,17 @@ Lithium-Ionen Batterien:
 - + Sehr gute Zyklenlebensdauer
 - - Teuer, aufwändiges Management
 
+# Zellbauformen
+Typische Bauformen von Batteriezellen sind
+- prismatische Zellen
+- puch-bag Zellen
+- zylindrische Zellen
+
+| Zylindrische Zelle                                                                 | Pouch-Bag Zelle                                       | Prismatische Zelle                                                         |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------- |
+| + Große Erfahrung aus Vonsumer-Produkten: sehr hohe Energiedichte, niedriger Preis | + Hohe Packungsdichte                                 | + Robust, hohe Steifigkeit                                                 |
+| + Hohe intrinsische Sicherheit durch zellinterne Sicherheitsmechanismen            | + Einfache Kühlung bedingt durch große Oberfläche     | + Einfache Montage und Verkabelung                                         |
+| - Zellgehäuse relativ teuer                                                        | + Variabel hinsichtlich Zellverkabelung über die Pole | +/- Kombiniert Eigenschaften der zylindrischen, sowie der Pouch-Bag Zellen |
+| - Kühlung wegen des Oberflächen- / Volumenverhältnisses schwierig                  | - geringe Steifigkeit                                 | - Probleme mit internem Druck der Zellen                                   |
+|                                                                                    | - Zellverspannung benötigt                            | - Kühlung wegen Oberflache zu Volumen schwierig                            |
+|                                                                                    |                                                       | - Zellverspannung benötigt                                                 |
