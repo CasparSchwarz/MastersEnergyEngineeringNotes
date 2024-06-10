@@ -64,7 +64,7 @@ Realisierung
 - Sicherheit auf Systemebene
 - Crashsicherheit
 
-# Abschätzung der Batteriegröße
+## Abschätzung der Batteriegröße
 Wichtig für die Abschätzung der Batteriegröße sind Energie- und Leistungsdichte:
 - Energiedichte
 	- Energieinhalt pro kg
@@ -81,3 +81,11 @@ Die Batteriewahl ist stark abhängig von der erwarteten Nutzung der Batterie:
 	- Flotteneinsatz: regelmäßige Nutzung, Batteriegröße kann optimal auf Anwendung angepasst werden, verfügbare Zyklenzahl wird tatsächlich genutzt
 	- ÖPNV: ganztätige Nutzung, Batteriegröße und Ladeverfahren kann optimal auf Anwendung angepasst werden, verfügbare Zyklenzahl wird tatsächlich genutzt
 
+Die Wahl der Batterie wird mit Hilfe des Ragone Diagramms realisiert.
+## Modulare Batteriekonzepte
+- Modularität erlaubt kundenspezifische Auslegung der Reichweite und Anpassung der Reichweite an veränderten Lebensbedingungen
+- Hochleistungs- und Hochenergiebatterien können je nach Kundenwunsch kombiniert werden
+- Mischen von Batteriepacks (Alter, Hersteller, Leistung)
+- Teilasutausch der Batterie ist möglich
+
+## Auswahl der Zellchemie
