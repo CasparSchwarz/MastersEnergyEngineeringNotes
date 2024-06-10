@@ -89,3 +89,49 @@ Die Wahl der Batterie wird mit Hilfe des Ragone Diagramms realisiert.
 - Teilasutausch der Batterie ist möglich
 
 ## Auswahl der Zellchemie
+Faktoren für die Auswahl einer Zellchemie sind:
+- Energiedichte
+- Leistungsdichte
+- Lebensdauer
+- Thermisches Verhalten
+- Lademöglichkeiten
+- Kosten
+
+Für Batteriepacks gibt es verschiedene Arten von elektrochemischen Speichern:
+- Beli-Säure
+- NiCd/NiMH
+- Hochtemperatur (NaS, NaNiCl_2)
+- Lithium-Ionen
+- Redox-Flow
+
+**Verschiedene Batterietechnologien im Vergleich**:
+Blei-Säure Batterien:
+- Große Anzahl an Installationen weltweit, erprobte Technologie
+- Von zahllosen Herstellern kommerziell angeboten
+- 80 bis 90 % Wirkungsgrad
+- + Erfahrung, sichere Technologie, günstig
+- - Lebensdauer, Gewicht
+
+NiCd Batterien:
+- Kommerzielles Produkt, verschiedene Hersteller am Markt
+- Kosten 2-3 mal höher als Bleibatterien
+- 70 bis 80 % Wirkungsgrad
+- + Erfahrung, sichere Technologie, günstig
+- - Lebensdauer, Gewicht
+- - Umweltverträglichkeit Cadmium
+
+NiMH (Nickel-Metallhydrid) Batterien:
+- Einsatz vor allem in Hybridfahrzeugen
+- Wenige Hersteller am Markt
+- 70 bis 80 %
+- + Gute Lebensdauer, robust, höhere Energiedichte als NiCd
+- - Geringes Kostensenkungspotential, schlechtes Tief- und Hochtemperaturverhalten
+
+Hochtemperatur Batterien:
+- NaS: In Japan kommerziell genutzt als Netz-Energiespeicher
+- NaNiCl_2: überwiegend im mobilen Bereich
+- Jeweils nur ein Anbieter
+- 70 bis 85 % Wirkungsgrad
+- + Gute Zyklenlebensdauer
+- - Jeweils nur ein Anbieter, thermisches Management aufwändig, hohe thermische Verluste
+
