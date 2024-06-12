@@ -47,5 +47,11 @@ Es wird unterschieden zwischen
 	- Zufuhr von Wasserstoff und Dampf
 	- Hoher Druck erforderlich (1 - 10 MPa)
 
+Vergasung bei langsamem Vergasungsprozess:
+![[SmartSelect_20240612_094101_Drive.jpg]]
+Dieser Prozess eignet sich zur Müllvergasung in Müllverbrennungsanlagen, hat jedoch keine ökonomie gezeigt.
 
+Vergasung bei schnellem Vergasungsprozess
+![[SmartSelect_20240612_094241_Drive.jpg]]
+Hierbei muss der Brennstoff fein aufgemahlen werden, damit die Reaktionen (Trocknung, Pyrolyse, Verbrennung, Vergasung) der Reihe nach stattfinden können.
 # Synthesegasaufbereitung
