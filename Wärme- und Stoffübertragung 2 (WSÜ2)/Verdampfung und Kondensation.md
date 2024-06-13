@@ -1,4 +1,6 @@
 Unter Verdampfung und Kondensation werden jeweils der Phasenwechsel von flüssig zu gasförmig und gasförmig zu flüssig verstanden (siehe auch [[Verdampfung & Kondensation]]).
+
+Der Unterschied zwischen Verdunstung und Verdampfung ist, dass Verdunstung in Gegenwart anderer Gase geschieht und nicht isotherm sein muss. Verdampfung bezieht sich nur auf einen Reinstoff.
 # Thermodynamische Grundlagen
 ![[SmartSelect_20240612_184032_Drive.jpg]]
 Die verrichtete Arbeit berechnet sich wie folgt:
