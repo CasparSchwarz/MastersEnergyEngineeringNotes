@@ -87,3 +87,13 @@ p_{fl}&=p_{sat}+\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R} \\\\
 p_g&=p_{sat}+\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R}
 \end{align}
 $$
+## Bestimmung $T_g$ und $T_{fl}$
+Bei Vorgabe eines konstanten Drucks $p_0$ in der Dampfblase und der Flüssigkeit soll nun die zugehörige Temperatur bestimmt werden. Dafür kann mit der Clasius-Clapeyron-Gleichung ein Zusammenhang gefunden werden:
+$$
+\begin{align}
+T_{fl}-T_{sat}=\frac{T_{sat}M}{\rho_g\Delta h_{v,m}}\frac{2\sigma}{R}\\\\
+T_g-T_{sat}=\frac{T_{sat}M}{\rho_{fl}\Delta h_{v,m}}\frac{2\sigma}{R}
+\end{align}
+$$
+# Ursache für Blasenbildung
+In hochreinen Flüssigkeiten kann Blasenbildung unterdrückt werden. In der Realität gibt es jedoch sogenannte "aktive Zentren", an denen Verunreinigungen oder Vertiefungen für die Blasenbildung sorgen. Somit dehnt sich an diesen Stellen die Blase bei Wärmezufuhr aus bis zu groß genug ist und reist dann ab.
