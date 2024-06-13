@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "2f5adb9cf5a68e1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "435c367b7ae9860d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md"
               }
             }
           }
@@ -171,18 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f5adb9cf5a68e1d",
+  "active": "435c367b7ae9860d",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Pasted image 20240610153029.png",
     "Pasted image 20240610152908.png",
     "Pasted image 20240610084019.png",
     "Pasted image 20240610083601.png",
     "Batteriespeichersystemtechnik (BSS)/BSS.md",
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "SmartSelect_20240605_084241_Drive.jpg",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Pasted image 20240604132336.png",
     "Pasted image 20240603120628.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
@@ -190,7 +178,6 @@
     "Pasted image 20240603092441.png",
     "Pasted image 20240527100830.png",
     "Pasted image 20240527092354.png",
-    "Pasted image 20240527091407.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",

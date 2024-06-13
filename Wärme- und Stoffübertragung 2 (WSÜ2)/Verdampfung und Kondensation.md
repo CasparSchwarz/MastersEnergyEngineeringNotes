@@ -33,7 +33,7 @@ Somit kann der verschobene Sättigungsdampfdruck wie folgt bestimmt werden:
 $$
 p^*_{sat}=p_{sat}\cdot exp(v_{m,fl}\cdot\frac{\Delta p}{RT})
 $$
-## Van der Waals Gleichung
+# Van der Waals Gleichung
 Bisher ist das **ideale Gasgesetz** bekannt:
 - Keine Interaktion zwischen Molekülen
 - Moleküle nehmen kleinen Raum ein, Bahnlänge zwischen Stößen ist groß
@@ -64,3 +64,26 @@ Die Isothermen nach Van der Waals zeigen eine kubischen Verlauf und sorgen für 
 Von D bis C sind die Zustände physikalisch nicht möglich und dementsprechend instabil, da in dem Bereich ein höheres spezifisches Volumen mit einem höheren Druck korrelieren würde.
 
 Der metastabile Bereich zeigt den Bereich, in welchem durch Druckverminderung bei Flüssigkeiten der flüssige Aggregatzustand gehalten werden kann, ohne dass sich Gasblasen bilden. In der Realität ist die Kurve von A nach D nur sehr schwierig umzusetzen und in industriellen Prozessen geht die Flüssigkeit direkt in siedendes Verhalten über. Analog dazu ist auch der metastabile Bereich der Gasphase beschrieben.
+# Gekrümmte Phasengrenze
+Gekrümmte Phasengrenzen kommen häufig vor, beispielsweise an einer Dampfblase in einer Flüssigkeit. Dabei erzeugt die Oberflächenspannung einen Drucksprung an der Oberfläche, wodurch das chemische und mechnische Gleichgewicht verschoben werden.
+## Oberflächenspannung
+Die Oberflächenspannung kann über ein Kräftegleichgewicht an der Dampfblase bestimmt werden. Durch Gleichsetzen von Druckkraft und Oberflächenkraft wird die Young-Laplace-Gleichung hergeleitet:
+$$
+p_g-p_{fl}=\frac{2\sigma}{R}
+$$
+Aber! $p_g$ und $p_{fl}$ entsprechen nicht dem Sattdampfdruck.
+## Bestimmung $p_g$ und $p_{fl}$
+Über das chemische Gleichgewicht können die Drücke bestimmt werden:
+$$
+\begin{align}
+p_{fl}&=p_{sat}-\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R} \\\\
+p_g&=p_{sat}-\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R}
+\end{align}
+$$
+Für einen Flüssigkeitstropfen in Dampfatmosphäre ändert sich nur das Vorzeichen der Gleichung:
+$$
+\begin{align}
+p_{fl}&=p_{sat}+\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R} \\\\
+p_g&=p_{sat}+\frac{\rho_{fl}}{\rho_{fl}-\rho_g}\frac{2\sigma}{R}
+\end{align}
+$$
