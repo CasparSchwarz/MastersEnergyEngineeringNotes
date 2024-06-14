@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Alternative Energietechniken (AET)/Solarkollektoren.md",
     "Pasted image 20240614090910.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-    "Alternative Energietechniken (AET)/Solarkollektoren.md",
     "Pasted image 20240614090310.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
@@ -164,10 +166,7 @@
     "SmartSelect_20240605_084241_Drive.jpg",
     "Pasted image 20240604132336.png",
     "Pasted image 20240603120628.png",
-    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240603092441.png",
-    "Pasted image 20240527100830.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
