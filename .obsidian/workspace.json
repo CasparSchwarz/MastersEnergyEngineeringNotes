@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "435c367b7ae9860d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md"
+                "file": "Alternative Energietechniken (AET)/Solarkollektoren.md"
               }
             }
           }
@@ -159,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "435c367b7ae9860d",
+  "active": "4249e63d607ad167",
   "lastOpenFiles": [
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+    "Alternative Energietechniken (AET)/Solarkollektoren.md",
+    "Pasted image 20240614090310.png",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Pasted image 20240610153029.png",
     "Pasted image 20240610152908.png",
@@ -177,7 +167,6 @@
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240603092441.png",
     "Pasted image 20240527100830.png",
-    "Pasted image 20240527092354.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
