@@ -173,3 +173,20 @@ Im Vergleich von verschiedenen Herstellern von E-Autos, kann gezeigt werden, wie
 - des Packs ist.
 ![[Pasted image 20240610152908.png]]
 ![[Pasted image 20240610153029.png]]
+# Spannungslage und Verschaltungskonzept
+Die Spannung bestimmt die Anzahl seriell verschalteter Zellen. Typische Spannungslagen sind für
+- Mikrohybridfahrzeuge - 12 V
+- Mild-Hybridfahrzeuge - 150 V
+- Vollhybrid- & Elektrofahrzeuge - 400 V
+- Zum Ultra-Schnellladen: 800 V in Diskussion
+- In Bussen oder Straßenbahnen: 700 bis 80 V üblich (Oberleitungen)
+
+Dabei ist zu beachten, dass hohe DC-Batteriespannung einige Herausforderungen verursachen:
+- Hohe DC-Spannungen sind kritischer als AC-Spannungen
+- Elektrisches Fachpersonal ist nicht für DC-Systeme ausgebildet
+- Batterie weist ein Potential auf
+- Gefahr für Ersthelfer bei Unfällen
+- Hohe Zahl von in Serie geschalteten Zellen verringern die Zuverlässigkeit
+
+## Schaltungstopologien
+![[Pasted image 20240617075537.png]]
