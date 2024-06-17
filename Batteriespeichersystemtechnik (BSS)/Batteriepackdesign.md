@@ -283,3 +283,71 @@ Contra:
 - Komplexität / Kosten
 - Kritische Auswahl des Kältemittels
 
+# Topologie von Batteriemanagementsystem
+Das BMS ist relevant für die Langlebigkeit und Leistungsfähigkeit einer Batterie. Die Hauptaktoren im BMS sind
+- Hauptschütz (Trennt Batteriepack im Fehlerfall vom Antrieb)
+- Kühl / Heizsystem (Kühlanforderungen bei drohender Überhitzung, Heizanforderung zum Laden bei niedrigen Temperaturen)
+- Zellausgleichsystem (Gezielte Entladung einzelner Zellen, Vermeidung von Überladung einzelner Zellen)
+
+![[Pasted image 20240617091445.png]]
+Im BMS muss **Redundanz** gegeben sein:
+- Master-Slave Architektur
+- Master
+	- Verbindung der Packs
+	- Kommunikationsschnittstelle
+	- Vorladekreis
+	- Einhaltung der Grenzwerte
+	- Zulässige Last
+- Sicherheitkreis 2. Grenzwert
+- Messung redundant
+- A/D Wandlung redundant
+
+In einem modularen BMS wird eine Daisy Chain Topologie verwendet:
+- Aufspaltung des BMS in verschiedene Module
+	- Flexible
+	- Kurze Messleitungen
+	- Digital Bus
+- Modultypen
+	- Zellcontroller zur Messung von Spannung und Temperatur
+	- Master controller
+	- Master/HVI
+		- Schalten von Schaltern
+		- Strommessung
+		- Spannungsmessung der Packs
+
+## HV-I Board
+Das Hochspannungs- und Strommessboard:
+- Anbindung mittels SPI Bus
+![[Pasted image 20240617093317.png]]
+
+## Cellcontroller Board (Slave)
+![[Pasted image 20240617093352.png]]
+Balancing am Zellcontroller-Board
+- Ausgleich von Alterungseffekten
+- Aktiv oder passiv
+- Verschiedene Methoden des Balancing
+	- Automatisch
+	- Pulsweitenmoduliert
+	- Manuell
+
+## Überwachungselektronik
+Slave-BMS ICs für Zellüberwachung
+- Spannungsmessung
+- Temperaturmessung
+- Zellausgleichssystem
+
+Mehrere Slave ICs können kombiniert werden
+- Interface: TWI, CAN, RS485
+- Galvanische Trennung
+
+Spannungsversorgung aus den Zellen
+
+ICs messen Werte, bereiten diese auf und senden sie an das Master-BMS
+
+Isolationswächter
+- Überwacht Isolationswiderstand beider Batterieklemmen gegenüber Fahrzeugmasse
+
+Interlock Control
+- Zusätzliche Leitung, parallel zu HV-Leitung über alle Verbraucher
+- Kontrinuierliches Signal
+
