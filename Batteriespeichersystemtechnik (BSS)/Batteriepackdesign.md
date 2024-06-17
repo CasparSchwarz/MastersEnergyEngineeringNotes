@@ -6,7 +6,10 @@ Die Lebensdauer einer Batterie ist dabei von folgenden Faktoren abhängig:
 - Alterung abhängig von Betriebsbedingungen -> Lade- und Nutzungsmanagement
 - Elektronik -> Balancingsystem
 
-Entscheidend für den Erfolg eines Batteriespeichers sind die Kosten für den jeweiligen Speicher. 
+Entscheidend für den Erfolg eines Batteriespeichers sind die Kosten für den jeweiligen Speicher.
+
+Weiterführend:
+[[Managementstrategien von Batteriepacks]]
 # Sicherheit
 ![[Pasted image 20240610083601.png]]
 Um die Sicherheit eines Batteriepacks zu gewährleisten, müssen während der Entwicklung einige Schritte berücksichtigt werden:
@@ -350,4 +353,3 @@ Isolationswächter
 Interlock Control
 - Zusätzliche Leitung, parallel zu HV-Leitung über alle Verbraucher
 - Kontrinuierliches Signal
-

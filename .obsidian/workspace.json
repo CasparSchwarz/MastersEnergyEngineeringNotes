@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+    "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
     "Pasted image 20240617093352.png",
     "Pasted image 20240617093317.png",
     "Pasted image 20240617091445.png",
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Pasted image 20240617075537.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Alternative Energietechniken (AET)/Solarkollektoren.md",
@@ -167,7 +168,6 @@
     "Pasted image 20240610083601.png",
     "Batteriespeichersystemtechnik (BSS)/BSS.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
-    "SmartSelect_20240605_084241_Drive.jpg",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
