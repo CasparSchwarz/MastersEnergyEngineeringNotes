@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thermal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4249e63d607ad167",
+  "active": "a9d95aa9163e02f6",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Pasted image 20240617075537.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Alternative Energietechniken (AET)/Solarkollektoren.md",
     "Pasted image 20240614090910.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Pasted image 20240614090310.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Pasted image 20240610153029.png",
     "Pasted image 20240610152908.png",
     "Pasted image 20240610084019.png",
@@ -167,7 +167,6 @@
     "SmartSelect_20240605_084241_Drive.jpg",
     "Pasted image 20240604132336.png",
     "Pasted image 20240603120628.png",
-    "Pasted image 20240603092441.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",

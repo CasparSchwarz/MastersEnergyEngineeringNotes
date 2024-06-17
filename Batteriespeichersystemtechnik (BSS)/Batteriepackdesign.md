@@ -236,3 +236,50 @@ Vorladewiderstand:
 - Leistungsaufnahme zu Beginn des Vorladevorgangs: $P=U^2/R$
 - Die Leistungsaufnahme sinkt schnell - Daher ist der Gesamtleistungsbedarf viel geringer
 
+# Kühlung und Heizung
+Beim Laden und Entladen wird Wärme produziert, wodurch ein Kühlsystem meist notwendig ist:
+- Luftkühlung
+- Wasserkühlung
+- Kühlmittel
+
+Dabei sind Wärmeverteilung und Kühlmöglichkeit vom Zellenformat abhängig.
+## Aktive Luftkühlung
+Pro:
+- Gemeinsame Nutzung der Inennraumklimatisierung
+- Keine Gefahr von Kurzschlüssen durch Kühlmittel
+- Einfache Implementierung der Heizung
+- Geringes Gewicht
+
+Contra:
+- Gemeinsame Nutzung der Innenraumklimatiserung (Passagier vs. Batterie)
+- Großes Volumen
+- Luftanschluss zw. Fahrgastraum & Batterie
+- Kondensation muss berücksichtigt werden
+
+## Kühlmittel
+Pro:
+- Einfache Erhitzung
+- Luftdichte Verpackung möglich
+- Geringeres Volumen
+- Höhere Leistungsdichte möglich im Vergleich zur Luftkühlung
+
+Contra:
+- Leckage des Kühlsystems muss berücksichtigt werden
+- Höheres Gewicht
+- Komplexität / Kosten
+- Isolierung zw. Zellpotential und Kühlmittel
+
+## Kältemittel
+Pro:
+- Sehr homogene Temperaturverteilung innerhalb des Akkupacks möglich
+- Luftdichte Verpackung möglich
+- Geringes Volumen
+- Höhere Leistungsdichte möglich im Vergleich zur Luftkühlung
+
+Contra:
+- Nacherwärmung schwierig
+- Leckage des Kühlsystems sehr kritisch
+- Höheres Gewicht
+- Komplexität / Kosten
+- Kritische Auswahl des Kältemittels
+
