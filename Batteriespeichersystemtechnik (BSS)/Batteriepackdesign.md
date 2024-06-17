@@ -173,7 +173,7 @@ Im Vergleich von verschiedenen Herstellern von E-Autos, kann gezeigt werden, wie
 - des Packs ist.
 ![[Pasted image 20240610152908.png]]
 ![[Pasted image 20240610153029.png]]
-# Spannungslage und Verschaltungskonzept
+# Spannungslage
 Die Spannung bestimmt die Anzahl seriell verschalteter Zellen. Typische Spannungslagen sind für
 - Mikrohybridfahrzeuge - 12 V
 - Mild-Hybridfahrzeuge - 150 V
@@ -188,5 +188,51 @@ Dabei ist zu beachten, dass hohe DC-Batteriespannung einige Herausforderungen ve
 - Gefahr für Ersthelfer bei Unfällen
 - Hohe Zahl von in Serie geschalteten Zellen verringern die Zuverlässigkeit
 
-## Schaltungstopologien
+# Schaltungstopologien
 ![[Pasted image 20240617075537.png]]
+Vorteil modulare Einzelstränge:
+- Hohe Redundanz
+- Hohe Flexibilität bei Auswahl oder Alter der Zellen
+
+**Problem**: Bei der Verschaltung vieler Batteriezelle bestimmt die Zelle höchster Alterung die Gesamtalterung. Dementsprechend ist die Zelle höchster Alterung Kapazitätsbestimmend und Performance-bestimmend.
+
+**Frage**: Gibt es Möglichkeiten Zellen unterschiedlicher Lebensdauer vor Gebrauch zu bestimmen?
+- Ja, es ist Möglich über Impedanz- und Kapazitätsparameter
+- Relativ einfach zu messen
+- Parameter sind vrstl. unterschiedlich für jeden Zelltyp
+
+# Zellverbinder und Elektronische Verbindungen
+Es gibt verschiedene Methoden um Zellen miteinander zu verbinden:
+- Fügetechnik
+	- Löten
+	- Schweißen
+	- Klemmen
+	- Schrauben
+- Verbinder
+	- Material (Kupfer, Messing, Stahl)
+	- Querschnitt
+- Zusammenspiel von Schweißparametern und Kontaktblechen
+
+## Schraubverbindungen
+Für Schraubverbindungen werden Zellen mit entsprechenden Vorrichtungen (Gewinden) benätigt -> Zylindrische Zellen. Hauptsächliche Herausforderungen sind Übergangswiderstände, Korrosion und Zuverlässigkeit bei Vibrationsbelastungen.
+## Schweißverbindungen
+Schweißverbindungen können über verschiedene Methoden erreicht werden:
+- Ultraschall
+- Laster
+- Widerstand
+
+Dabei kann entweder eine direkte Verbindung der Stromsammler erzeugt werden (Pouch-Bag Zellen) oder die Verbinder geschweißt werden (Zylindrische Zellen). Jedoch ist die Lebensdauer der Kontakte kritisch und eventuell sind geschweißte Kontakte zwischen zwei verschiedenen Materialien erforderlich.
+## Bonding
+Draht Bonding kommt aus der Mirkoelektronik und beschreibt das Verbinden von zwei Materialien über einen Bonddraht, welcher über Ultraschall oder Laser an die zu verbindenden Materialien geschweißt wird. Vorteilhaft dabei ist die **integrierte Sicherheitsfunktion**, da der Bonddraht bei zu hohen Strömen (wie bei einem Kurzschluss) schmilzt und somit den Kontakt unterbricht.
+# Schützbox
+Die Schützbox ist das Element, das zwischen den Batteriezellen und der Umgebung sitzt und beinhaltet Sicherheitstechnik (Sicherungen, Schütze).
+
+Vorladewiderstand:
+- Abhängig von der Kapazität und der gewünschten Vorladezeit
+- Der Strom sinkt auf 1/e des Anfangswerts nach T=RC
+- Nach ca. 5T ist der Strom ausreichend zurückgegangen
+- Energie der Geladenen Kapazität: $E=(C\cdot U^2)/2$
+- Leistungsaufnahme am Vorladewiderstand: $P=E/T$
+- Leistungsaufnahme zu Beginn des Vorladevorgangs: $P=U^2/R$
+- Die Leistungsaufnahme sinkt schnell - Daher ist der Gesamtleistungsbedarf viel geringer
+
