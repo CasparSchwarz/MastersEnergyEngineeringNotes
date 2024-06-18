@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/BSS.md",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
     "Pasted image 20240617093352.png",
     "Pasted image 20240617093317.png",
@@ -166,7 +168,6 @@
     "Pasted image 20240610152908.png",
     "Pasted image 20240610084019.png",
     "Pasted image 20240610083601.png",
-    "Batteriespeichersystemtechnik (BSS)/BSS.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Career Center Lebenslauf.md",

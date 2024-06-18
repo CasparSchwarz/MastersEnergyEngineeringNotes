@@ -10,6 +10,7 @@ Entscheidend für den Erfolg eines Batteriespeichers sind die Kosten für den je
 
 Weiterführend:
 [[Managementstrategien von Batteriepacks]]
+[[Sicherheit von Batteriepacks]]
 # Sicherheit
 ![[Pasted image 20240610083601.png]]
 Um die Sicherheit eines Batteriepacks zu gewährleisten, müssen während der Entwicklung einige Schritte berücksichtigt werden:
@@ -353,3 +354,20 @@ Isolationswächter
 Interlock Control
 - Zusätzliche Leitung, parallel zu HV-Leitung über alle Verbraucher
 - Kontrinuierliches Signal
+
+# Strukturelle Aspekte
+Die Batterie eines Fahrzeugs muss verschiedenen mechanischen und elektrischen Anforderungen entsprechen:
+- Vibrationen im Fahrzeug
+- Abhängig von der Positionierung ist Wasserdichtheit notwendig
+- Leichter Zugang zu den Hochvoltsteckern ist notwendig
+- Abschirmung der Elektronik gegen elektromagnetische Strahlung
+- Entkopplung der Batterie vom Fahrzeugnetz muss aus Sicherheitsgründen möglich sein
+- Bei Metallgehäusen: Erdung des Gehäuses und aller Komponenten
+- Dichtigkeit
+- Berstschutz zur Absicherung gegen Explosion
+- Steifigkeit und Tragfähigkeit des Gehäuses
+- Feuerfestigkeit
+- Taubildung im Pack bei tiefen Temperaturen ist zu beachten
+- Isolation (Berührschutz, Isolationsabstände, Isolationswiders über 1 $M\Omega$)
+- Einhaltung von Kriechstrecken und Einsatz von Zukaufteilen, die den Richtlinien entsprechen
+- Beschilderung gemäß den Richtlinien
