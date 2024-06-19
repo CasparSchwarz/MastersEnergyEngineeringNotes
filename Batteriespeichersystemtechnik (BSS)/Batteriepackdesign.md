@@ -30,6 +30,8 @@ Um die Sicherheit eines Batteriepacks zu gewährleisten, müssen während der En
 	- Betrieb und Wartung
 
 ![[Pasted image 20240610084019.png]]
+
+Weiterführend siehe [[Sicherheit von Batteriepacks]]
 # Auslegung
 Elektrische Auslegung:
 - Berechnung von
