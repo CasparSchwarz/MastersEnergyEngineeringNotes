@@ -7,6 +7,24 @@ Zur Synthetisierung der Energieträger werden so gut wie immer Kohlenstoff und W
 - Alkohol-Synthese -> Methanol, Ethanol
 - Methanisierung -> SNG, Methan
 
+# Wirkungsgrade und Kenngrößen
+Gasausbeute:
+$$
+\xi=\frac{\dot V_{Gas}}{\dot m_{Fuel}}
+$$
+Kohlenstoffumsatz:
+$$
+U_C=\frac{\dot m_{C,Fuel}-\dot m_{C,Ash}}{\dot m_{C,Fuel}}
+$$
+Kohlenstoffvergasungsgrad:
+$$
+\xi_{C,Gas}=\frac{\dot m_{C,Gas}}{\dot m_{C,Fuel}}
+$$
+Kaltgaswirkungsgrad (typisch ca. 80 %):
+$$
+\eta_{Kaltgas}=\frac{\dot m_{Gas}\cdot H_{u,Gas}}{\dot m_B\cdot H_{u,B}}
+$$
+
 # Pyrolyse
 Pyrolyseprozesse sind fester Bestandteil der Verbrennung von Feststoffen (siehe [[Biomasse#Pyrolyse]]). Dabei erschließt sich die thermo-chemische Umwandlung von Feststoffen in folgende Schritte:
 1. Trocknung

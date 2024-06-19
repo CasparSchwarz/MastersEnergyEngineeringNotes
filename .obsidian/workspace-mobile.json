@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md"
           }
         }
       }
@@ -133,10 +133,11 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "SmartSelect_20240612_194516_Firefox.jpg",
     "SmartSelect_20240612_184032_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "SmartSelect_20240612_094241_Drive.jpg",
     "SmartSelect_20240612_094101_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
@@ -152,7 +153,6 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Pasted image 20240604132336.png",
     "Pasted image 20240603120628.png",
-    "Pasted image 20240603092441.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Einbindung Regenerativer Energiesysteme/Speicher.md",
     "Alternative Energietechniken (AET)/Windenergie.md",
