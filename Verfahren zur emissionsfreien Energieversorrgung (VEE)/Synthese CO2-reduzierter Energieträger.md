@@ -151,3 +151,23 @@ Nebenreaktion "Boudouard-Reaktion" (unerwünscht, da sich C im Reaktor ablagert)
 $$
 2CO \rightleftharpoons CO_2+C(s)
 $$
+## CO2-Wäsche
+Die CO2-Wäsche wird benötigt, um H2S und CO2 aus dem Synthesegas zu entfernen. Dabei wird ein entsprechendes Verfahren in Abhängigkeit vom CO2-Gehalt und den Anforderungen an das Reingas gewählt:
+- Bei hohen Partialdrücken -> Physikalische Absorptionsmittel
+- Bei niedrigen Partialdrücken -> Chemisch wirksame Waschmittel
+
+**Rectisol-Verfahren**
+- Lösungsmittel: Methanol
+- Beste Löslichkeit für CO2 bei -60 °C
+- Anwendungen für
+	- Methanolherstellung
+	- Wasserstoffherstellung aus Methan
+	- Ammoniakherstellung
+- Einstellung hoher Gas-Reinheiten möglich
+- Hoher Aufwand zur Kühlung erforderlich
+
+**Selexol-Verfahren**
+- Lösungsmittel: Dimethyl-Ether
+- 0 bis 40 °C
+- Teure Kühlinfrastruktur entfällt
+
