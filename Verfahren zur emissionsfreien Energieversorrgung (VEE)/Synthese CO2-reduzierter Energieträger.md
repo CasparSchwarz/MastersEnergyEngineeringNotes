@@ -73,3 +73,81 @@ Vergasung bei schnellem Vergasungsprozess
 ![[SmartSelect_20240612_094241_Drive.jpg]]
 Hierbei muss der Brennstoff fein aufgemahlen werden, damit die Reaktionen (Trocknung, Pyrolyse, Verbrennung, Vergasung) der Reihe nach stattfinden können.
 # Synthesegasaufbereitung
+In Rohsynthesegas sind verschiedene Verunreinigungen und Begleitstoffe enthalten, die entfernt werden müssen:
+- Schwefelverbindungen
+- Sickstoffverbindungen
+- Organische Verbindungen
+- Metallische Verbindungen
+
+Somit ist eine Nachbehandlung des Rohsynthesegases zwingend erforderlich. Umgesetzt wird die Synthesegasaufbereitung im Regelfall durch die gleichen Schritte:
+- Abkühlung
+- Entstaubung
+- Entschwefelung
+- CO2-Wäsche
+
+## Gaskühlung
+Da die Gasreinigungsverfahren nur bei niedrigen Temperaturen arbeiten, ist ein Kühlen des Roh-Synthesegases notwendig. Ein mögliches Gaskühlungsverfahren ist der **Wasserquench**:
+- Partielles Quenchen
+	- Abkühlung auf ca 800 °C durch Wassereindüsung
+	- Vorteil: Es bleibt genug sensible Wärme für Dampferzeugung
+	- Nachteil: Viele Anlagekomponenten
+- Vollständiges Quenchen
+	- Wasseindüsung bis Sättigungsdampfdruck
+	- Vorteil: Niedrige Kosten
+	- Nachteil: Keine sinnvolle Nutzung der sensiblen Wärme
+
+Weitere Möglichkeiten zur Gaskühlung sind der
+- Gasquench
+	- Kühlung auf ca. 800 - 900 °C
+	- ca. 50 % Synthesegasrückführung zur Rohgaskühlung
+	- Abwärmenutzung im Kraftwerk möglich
+- Strahlungswärmetauscher
+	- Strahlungskühler unterhalb des Vergasers
+	- Abkühlung auf ca. 800 °C
+	- Ascheaustrag aus Konvektionskühlern ist schwierig
+	- Bei niedrigen Temperaturen muss ein konvektiver Abhitzekessel nachgeschaltet werden
+
+## Entstaubung
+- Vollständige Entstaubung des Rohgases notwendig (Partikelgrößen kleine 0,1 µm)
+- Trockene Partikelabscheider
+	- Zyklonabscheider
+	- Kerzenfilter (bis 600 °C)
+- Nassabscheider
+	- Waschtürme
+	- Abström- und Strahlwäscher
+	- Venturiwäscher
+
+## Entschwefelung
+Bei unterstöchiometrischen Rreaktionsbedingungen entstehen im Vergasungsprozess hauptsächlich H2S und COS als Schwefelträger. Die Schwefelträger müssen entfernt werden aus folgenden Gründen:
+- Vermeidung von Korrosionsschäden an nachgeschalteten Anlagneteilen
+- Einhaltung von Emissionsgrenzwerten
+- Einhaltung der Spezifikation des Brenngases für Gasturbinen
+- Vermeidung der Veriftung des CO-Shift Katalysators
+
+Die Abscheidung von Schwefel kann an folgenden Stellen erfolgen:
+- **Direkt im Roh-Synthesegas**
+- **Nach der CO-Shift Reaktion** -> CO2 und SO2 werden gleichzeitig abgeschieden
+
+Die Acid Gas Removal (AGR) wird auf verschiedene Weisen umgesetzt:
+- Chemisch wirksam: Chemische Bindung an Lösungsmittel (Methyl-Diethanol-Amine)
+- Physikalisch wirksam: Bindung an Lösungsmittel physikalisch basiert (Selecol-Prozess)
+- Chemisch und physikalisch wirksam (Flexsorb-Prozess)
+- H2S-angereichertes Restgas aus AGR-Prozess wird in Schwefelrückgewinnungsanlage behandelt
+
+In einem nachgeschalteten Prozess muss das H2S in mehreren Stufen zu flüssigem Schwefel umgesetzt werden. Dafür wird der **Claus-Prozess** verwendet:
+$$
+3H_2S+\frac 32 O_2\rightarrow 3H_2O+3S\ \text{(exotherm)}
+$$
+## CO-Konvertierung (CO-Shift)
+Ziel:
+- H2/CO-Verhältnis im Snythesegas einstellen
+- oder Maximierung der H2-Ausbeute durch möglichst vollständige Umwandlung von CO in CO2 bei CO2-freien Kraftwerken
+
+Hauptreaktion (gewünscht):
+$$
+CO+H_2O\rightarrow CO_2+H_2
+$$
+Nebenreaktion "Boudouard-Reaktion" (unerwünscht):
+$$
+2CO\rightarrow CO_2+C(s)
+$$
