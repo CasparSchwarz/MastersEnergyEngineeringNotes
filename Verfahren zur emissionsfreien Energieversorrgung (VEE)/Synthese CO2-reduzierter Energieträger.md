@@ -136,7 +136,7 @@ Die Acid Gas Removal (AGR) wird auf verschiedene Weisen umgesetzt:
 
 In einem nachgeschalteten Prozess muss das H2S in mehreren Stufen zu flüssigem Schwefel umgesetzt werden. Dafür wird der **Claus-Prozess** verwendet:
 $$
-3H_2S+\frac 32 O_2\rightarrow 3H_2O+3S\ \text{(exotherm)}
+3H_2S+\frac 32 O_2\rightleftharpoons 3H_2O+3S\ \text{(exotherm)}
 $$
 ## CO-Konvertierung (CO-Shift)
 Ziel:
@@ -145,9 +145,9 @@ Ziel:
 
 Hauptreaktion (gewünscht):
 $$
-CO+H_2O\rightarrow CO_2+H_2
+CO+H_2O\rightleftharpoons CO_2+H_2
 $$
-Nebenreaktion "Boudouard-Reaktion" (unerwünscht):
+Nebenreaktion "Boudouard-Reaktion" (unerwünscht, da sich C im Reaktor ablagert):
 $$
-2CO\rightarrow CO_2+C(s)
+2CO \rightleftharpoons CO_2+C(s)
 $$
