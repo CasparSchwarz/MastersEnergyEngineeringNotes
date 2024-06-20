@@ -131,3 +131,39 @@ Das Filmsieden wird über Wärmeleitung und Wärmestrahlung beschrieben.
 $$
 \bar\alpha=\bar\alpha_L+\alpha_S\left( \frac 45+\frac 15\frac{1}{1+3(\bar\alpha_L/\alpha_S)} \right)
 $$
+# Kondensation
+Bei der Kondensation geht ein Stoff vom gasförmigen Aggregatzustand in den flüssigen über. Dabei gibt der Stoff Wärme ab. Bei der **Filmkondensation** entsteht an einer Wand ein flüssiger Kondensationsfilm, welcher Wärme an die Wand abgibt.
+
+## Filmkondensation
+impulsgleichung für die Grenzschicht:
+$$
+\rho u \frac{\partial u}{\partial x}+\rho v \frac{\partial u}{\partial y}=-\frac{\partial p}{\partial x}+\eta\frac{\partial^2 u}{\partial y^2}+\rho gx
+$$
+Die **Nusseltsche Annahme** besagt, dass Änderungen des Impulsstroms viel kleiner als die Reibungsglieder und Druck- und Massenkräfte sind. Dadurch fallen die konvektiven Terme auf der linken Seite von oben stehender Gleichung weg.
+
+Energieerhaltung:
+$$
+\rho u c_p\frac{\partial T}{\partial x}+\rho v c_p \frac{\partial T}{\partial y}=\lambda \frac{\partial^2 T}{\partial y^2}=0
+$$
+
+Über Strömungsmechanische Zusammenhänge lässt sich die Filmoberflächengeschwindigkeit in Abhängigkeit der Grenzschichtdicke bestimmen:
+$$
+u_\delta=\frac 12 \frac{\rho g}{\eta^2}\delta^2
+$$
+Mit der mittleren Filmgeschwindigkiet:
+$$
+u_m=\frac 1\delta \int_0^\delta udy=\frac13 \frac{\rho g}{\eta}\delta^2
+$$
+
+Im Film wird nur über Wärmeleitung Wärme übertragen:
+$$
+\begin{align}
+\text{Da: }\dot q_w''&=\alpha(T_S-T_W)=\frac \lambda\delta(T_S-T_W) \\
+\rightarrow Nu&=1=\frac{\alpha\cdot L}{\lambda}  \\\\
+\end{align}
+$$
+
+Lokaler Wärmeübergangskoeffizient:
+$$
+\bar\alpha=\frac 43\left[ \frac{g\rho^2\lambda^3\Delta h_{v,s}}{4\eta(T_S-T_W)\cdot L} \right]
+$$
