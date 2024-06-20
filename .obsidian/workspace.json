@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8231a33be6830e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wärmeübertrager & Dampferzeuger/Verdampfung & Kondensation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md"
               }
             }
           }
@@ -148,8 +160,11 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
+    "Wärmeübertrager & Dampferzeuger/Verdampfung & Kondensation.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+    "Wärme.md",
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240619124018.png",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Batteriespeichersystemtechnik (BSS)/BSS.md",
@@ -163,7 +178,6 @@
     "Pasted image 20240614090910.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Pasted image 20240614090310.png",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Pasted image 20240610153029.png",
     "Pasted image 20240610152908.png",

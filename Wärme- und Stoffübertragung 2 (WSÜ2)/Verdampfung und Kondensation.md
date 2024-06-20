@@ -99,3 +99,35 @@ T_g-T_{sat}=\frac{T_{sat}M}{\rho_{fl}\Delta h_{v,m}}\frac{2\sigma}{R}
 $$
 # Ursache für Blasenbildung
 In hochreinen Flüssigkeiten kann Blasenbildung unterdrückt werden. In der Realität gibt es jedoch sogenannte "aktive Zentren", an denen Verunreinigungen oder Vertiefungen für die Blasenbildung sorgen. Somit dehnt sich an diesen Stellen die Blase bei Wärmezufuhr aus bis zu groß genug ist und reist dann ab.
+# Behältersieden
+Behältersieden betrachtet den Siedeprozess einer ruhenden Flüssigkeit in einem Topf (siehe [[Verdampfung & Kondensation#Behältersieden]]). Dabei wird der Flüssigkeit permanent ein Wärmestrom beauftragt. Dabei wird der Siedevorgang in 3 verschiedene Regime eingeteilt:
+1. Stilles sieden
+2. Blasensieden
+3. Filmsieden
+
+![[Pasted image 20230731113423.png]]
+## Stilles Sieden
+Stilles Sieden kann durch freie Konvektion der Flüssigkeit beschrieben werden:
+$$
+Nu=f(Gr,Pr)
+$$
+## Blasensieden
+Beim Blasensieden kommt es durch periodisches Wachstum und Abreißen einzelner Blasen von der Wand zu einem sehr komplexen konvektiven Transportprozess.
+$$
+Nu=f(Pr,\dot q'',d_A)
+$$
+Wobei $d_A$ der Abreißdurchmesser der Blasen ist.
+## Maximale Wärmestromdichte (kritischer Punkt)
+Die kritische Wärmestromdichte ist hauptsächlich von der Verdampfungsenthalpie und dem Druck abhängig.
+$$
+\dot q''_{max}=K\Delta h_V \sqrt{\rho_g}(\sigma g(\rho_{fl}-\rho_g))^{1/4}
+$$
+Üblicherweise wird die kritische Wärmestromdichte über eine Abhängigkeit des Druckes berechnet.
+$$
+\frac{\dot q_{max}''}{\dot q_{max,0}''}=f(p^*=\frac{p}{p_{0}})
+$$
+## Filmsieden
+Das Filmsieden wird über Wärmeleitung und Wärmestrahlung beschrieben.
+$$
+\bar\alpha=\bar\alpha_L+\alpha_S\left( \frac 45+\frac 15\frac{1}{1+3(\bar\alpha_L/\alpha_S)} \right)
+$$
