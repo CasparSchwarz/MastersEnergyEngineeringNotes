@@ -23,8 +23,12 @@
             "id": "a8231a33be6830e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md"
+              }
             }
           }
         ]
