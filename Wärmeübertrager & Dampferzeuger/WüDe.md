@@ -44,4 +44,3 @@ Wärmeübertrager werden in ihrer Funktion unterschieden, wobei zwischen den fol
 ## Inhalte
 - [[Berechnung von Wärmeübertragern]]
 - [[Verdampfung & Kondensation]]
-- [[Wärme- & Stoffübertragende Apparate]]

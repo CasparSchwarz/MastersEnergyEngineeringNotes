@@ -76,3 +76,4 @@ Zur Einführung eines EnMS sind folgende, vorbereitende Schritte notwendig:
 [[Modellierung und Optimierung von Energiesystemen]]
 [[Energieeinsatz]]
 [[Technologien]]
+[[Strom- und Gasnetze]]

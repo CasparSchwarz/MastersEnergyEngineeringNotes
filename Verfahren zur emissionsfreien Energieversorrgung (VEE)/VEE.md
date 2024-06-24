@@ -24,3 +24,5 @@ Bei den Energierohstoffen wird zwischen Reserven und Ressourcen unterschieden:
 
 # Übersicht
 [[Verfahrenstechnische Grundlagen]]
+[[Wasserstoff als Energieträger]]
+[[Synthese CO2-reduzierter Energieträger]]

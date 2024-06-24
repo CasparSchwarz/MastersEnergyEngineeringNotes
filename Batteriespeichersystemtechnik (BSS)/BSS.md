@@ -6,3 +6,4 @@ Batteriespeichersystemtechnik beschäftigt sich mit dem chemischen Energiespeich
 [[Lithium-Ionen Batterien]]
 [[Ladeverfahren]]
 [[Batteriepackdesign]]
+[[Blei-Säure-Batterien]]
