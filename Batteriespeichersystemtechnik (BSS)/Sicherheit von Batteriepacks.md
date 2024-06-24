@@ -66,3 +66,19 @@ PTC-Widerstand (Positive Temperature Coefficient)
 - Verdampfender Elektrolyt entweicht in hohles VOlumen um den positiven Kontakt
 - Schweißverbindung zwischen konkavem Blech und positivem Kontakt reißt ab
 - Überdruck wird abgegeben, aber Zelle wird irreversibel zerstört
+
+# Sicherheit auf Packebene
+Bedingt durch Energiedichte und Zellchemie gibt es große Unterschiede im Bereich der Sicherheit für Batteriepacks, da unterschiedliche Gefahrenpotentiale bestehen. Zudem ist der Management- und Regelaufwand zwischen unterschiedlichen Batterietypen stark unterschiedlich. Hinzu kommt die Temperaturanfälligkeit von Batterien.
+
+Die **Sicherheitsanforderungen** ergeben sich aus
+- Normen
+	- Wie ist ein sicheres System aufzubauen?
+	- Haftungs- & Gewährleistungsfragen
+	- Stand der Technik
+- Betrieb
+	- Einsatzszenario
+	- Auswirkungen von Fehlern
+	- Eintrittsmoment des Fehlers
+
+Als systematische Entwicklung von Sicherheitsmanagement eignet sich das V-Modell (siehe [[Modellbasierte Entwicklung von Wärmepumpen#V-Modell nach VDI 2206]])
+
