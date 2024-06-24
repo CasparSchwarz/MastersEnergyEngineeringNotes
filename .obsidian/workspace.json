@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/BSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/BSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/BSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/BSS.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "4249e63d607ad167",
   "lastOpenFiles": [
+    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
+    "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
     "Pasted image 20240621092758.png",
     "Pasted image 20240621083457.png",
@@ -167,10 +170,8 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Wärmeübertrager & Dampferzeuger/Verdampfung & Kondensation.md",
     "Wärme.md",
-    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Pasted image 20240619124018.png",
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Batteriespeichersystemtechnik (BSS)/BSS.md",
     "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
     "Pasted image 20240617093352.png",

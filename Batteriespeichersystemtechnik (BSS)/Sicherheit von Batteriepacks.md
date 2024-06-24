@@ -82,3 +82,14 @@ Die **Sicherheitsanforderungen** ergeben sich aus
 
 Als systematische Entwicklung von Sicherheitsmanagement eignet sich das V-Modell (siehe [[Modellbasierte Entwicklung von Wärmepumpen#V-Modell nach VDI 2206]])
 
+## Thermische Ausbreigun (Thermal propagation)
+- Ein Einzelzellenversagen kann typischerweise ohne größere Zerstörungen behandelt werden
+- **Aber**: Die Ausbreitung eines thermischen Druchgehens von einer einzelnen Zelle auf zusätzliche Zellen im Modul oder in der Verpackung ist entscheident
+	- Die Gesamtmenge an brennbarem Material steigt mit der Anzahl der Zellen
+	- Die GEsamtmenge der von den Zellen produzierten Gase steigt und damit das Risiko eines Überdrucks bei Explosivstoffen
+- Neue Anforderungen an die Batterieüberwachungssysteme
+	- Warnung an die Insassen des Fahrzeugs 5 Minuten vor einer möglichen Ausbreitung eines Brandes in den Fahrerraum
+	- Sicherer Ausstieg aus dem Fahrzeug möglich
+
+## Crashsicherheit
+Für die Crashsicherheit von Batterien werden diese in der Mitte oder dem hinteren Bereich des Fahrzeugs eingebaut. Batterien können nur bedingt als Knautschzone verwendet werden, da im Unfall die Batterien bei Verformung zerstört werden.
