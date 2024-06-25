@@ -30,3 +30,71 @@ Durch die Reaktion korrodiert die positive Aktivmasse: Das Blei gibt Elektronen 
 Während des  Entladevorgangs werden Elektronen in das Blei gedrückt und es müssen Blei-Ionen aus dem Elektrolyt entnommen werden, um die Ladung im  Blei auszugleichen. Dafür wird der Bleisulfat-Kristall genutzt, welcher sich während des  Ladevorgangs wieder auflöst.
 ![[Pasted image 20240625091804.png]]
 Der chemische Prozessschritt ist der langsamster Schritt in der Reaktion in Blei-Batterien. Bei hoher Lade-Entlade-Frequenz wird nur der elektrochemische Prozessschritt genutzt.
+## Elektrolyt
+In Blei-Batterien nimmt die eSchwefelsäure an der Reaktion teil und bringt einige Nachteile  mit sich:
+- In unmittelbarer Elektroden Nähe muss ausreichend Säure vorhanden sein -> Mindestabstand der Elektroden notwendig und damit ergibt sich auch ein Mindest-Widerstand durch den Elektrolyten
+- Verbrauchund Freisetzung von Säure kann zu Säureschichtung führen
+- Da Schwefelsäure beim Entladen verbraucht wird, sinkt die Zellenspannung mit fortschreitender Entladung und steigt beim Laden
+- Mit sinkender Schwefelsäurekonzentration (in erster Nähe linear proportional zur Säuredichte) steigt der Gefrierpunkt der Säure von ca. -45 °C zu 0 °C
+
+![[Pasted image 20240625092545.png]]
+Die Gleichgewichtsspannung korreliert mit der Dichte des Elektrolyten. Somit kann über die Dichte auf den Ladezustand geschlossen werden.
+
+Der Gefrierpunkt von Schwefelsäure hängt stark von der Säurekonzentration ab.  Umso  höher die Konzentration, desto niedriger der Gefrierpunkt. Dementsprechend führen hohe Entladetiefen zu einem hohen Gefrierpunkt, sodass bei tiefen Außentemperaturen die Schwefelsäure  gefrieren kann. Als Folge dessen wird die Batterie  zerstört (Gehäuse platzt).
+## Aufbau eine Blei-Batterie
+![[Pasted image 20240625093621.png]]
+Die oben  gezeigten Gittertypen werden entweder mit Gitterplatten oder Röhrchenplatten realisiert. Dabei erreichen die Röhrchen deutlich höhere Zyklenzahlen. Grund dafür ist die höhere mechanische Beständigkeit der Röhrchen gegenüber Ausdehnung des Aktivmaterials.
+### Herstellung der Gitter
+- Gitter besteht aus Blei
+- Mögliche Legierungsbestandteile
+	- Kalzium
+	- Zinn
+	- Silber
+	- Antimon
+	- Schwefel
+	- Kupfer
+	- Arsen
+	- Tellur
+	- Selen
+- Mischung bestimmt:
+	- Einfachheit der Handhabung
+	- Spätere Eigenschaften (mechanische Stabilität, Korrosionsfähigkeit)
+
+Herstellungsverfahren:
+- Gravity Casting (Fall- oder Schwerkraftguss)
+- Druckgussverfahren
+- Gitter werden am Band hergestellt und mit Aktivmasse bestrichen
+
+### Herstellung der Paste
+Ausgangsmaterialien:
+- Bleistaub
+- Mennige erzeugt durch Weiteroxidation von Bleistaub
+
+Kugelmühle:
+- Bleikugeln in einem  rotierenden  Zylinder
+- Reibung erzeugt Wärme und feinen Staub
+- Staub oxidiert
+- Oxidation erzeugt weitere Wärme
+- 75 °C bis 90 °C
+- Staub verlässt die Trommel durch kleine Öffnungen
+- Staub wird gefiltert
+- Weiter Zermalen in kegelförmigen Trommeln
+
+Barton Mill
+- Geschmolzenes Blei wird in eine rotierende Trommel gegeben
+- Es entstehen Bleitropfen
+- Fallen in einen beheizten Container
+- Werden mit einem  Rührer in Bewegung gehalten
+
+Mischen der Paste
+- Bleistaub, Wasser und Schwefelsäure
+- Armierungsfasern
+- Wasser und Sulfatgehalt bestimmen Porosität
+- Teile des metallischen Bleis oxidieren
+
+Einbringung der aktiven Masse:
+- Curing process / Abbinde-, Reife-, und Trocknungsprozesse
+- Entzug der Feuchte < 3%
+
+## Formation der Platten
+Der erste Ladevorgang wird Formation genannt. Dabei werden  erstmalig Bleioxide und basische Sulfate gebildet. Heutzutage werden positive und negative Platten überwiegend gemeinsam formiert. Anschließend wird das Elektrolyt eingefüllt.
