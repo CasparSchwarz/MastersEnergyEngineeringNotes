@@ -111,3 +111,54 @@ Der erste Ladevorgang wird Formation genannt. Dabei werden  erstmalig Bleioxide 
 | OCSM-Batterie    | wie OPzS,  Gitterplatte mit Kupferkern                         |
 | GroE-Batterie    | Großoberflächenplatten ("Kühlerstruktur")                      |
 | Wickelzelle      | Wickelelektrode                                                |
+# Alterungsprozesse
+Unabhängig von der Technologie wird zwischen kalendarischer und zyklischer Alterung unterschieden.
+
+Kalendarische Alterung ist abhängig von
+- Ladespannung
+- Temperatur
+
+Zyklische Alterung ist abhängig von
+- Zyklenzahl DOD of cycle
+- Zyklentiefe
+- Stromstärke
+- Temperatur
+
+Die **Hauptalterungseffekte** bei Blei Batterien sind:
+## Erosion
+- Mechanischer Stress, Aktivmaterial löst sich
+	- Verringerung der entnehmbaren Kapazität
+	- Irreversibel
+
+## Sulfatierung
+- Entstehung von Sulfatkristallen bie Entlade-Reaktion
+	- Verringerung der entnehmbaren Kapazität
+	- In Teilen reversibler Effekt (Auflösung durch intensives Laden)
+	- Kleinere Kristalle haben größeren Einfluss auf Lade- und Entladereaktion
+
+Eone hohe Konzentration der Schwefelsäure ist vorteilhaft, da sich die Sulfatkristalle in der Säure lösen. Gleichzeitig ist eine hohe Konzentration der Säure von Nachteil, da große Kristalle nicht aufgelöst werden und weiter wachsen, wenn die Batterie nicht genutzt wird.
+
+Die sogennante Säureschichtung wird verursacht durch den Verbrauch und die Freisetzung konzentrierter Schwefelsäure während der Lade- und Entladeprozesse. Dadurch lagert sich Säure hoher dichte unten und Säure geringer Dichte oben an. Da eine geringe Säuredichte mit einem geringen Ruhepotential korreliert, kommt es zu einem Potentialgradienten entlang der vertikalen in der Batterie. Somit wird der **obere Teil stärker aufgeladen** und der **untere Teil stärker entladen**. Somit ist die Sulfatierung um unteren Bereich deutlich stärker als im oberen Bereich. Zudem sind die Sulfatkristalle durch ein gezieltes Aufladen nicht mehr aufzulösen. -> Durch Umwälzpumpe kann somit die Lebendauer um bis zu 100 % verlängert werden.
+## Korrosion
+Die Korrosionsrate ist abhängig von
+- Säuredichte
+- Elektrodenpotential
+- Temperatur
+- Gitter-Legierung
+
+-> Erhöhung des Innenwiderstandes
+-> Irreversibler Effekt
+
+Der Innenwiderstand steigt, da die Korrosionsprodukte den effektiv Nutzbaren Querschnitt des Aktivmaterials verringern.
+
+- Korrosionsrate als Funktion des Potentials der positiven Elektrode und der Säurekonzentration
+- Korrosionsrate ist maximal bei kleinen Säurekonzentrationen und damit bei geringen Ladezuständen
+- Korrosion beschleunigt sich mit steigender Temperatur (ca. 10 K verdoppeln die Korrosionsrate)
+
+Bei hohem Potential ist die Korrosionsrate am niedrigsten -> Bleibatterien bei hohen Ladezuständen lagern.
+## Wasserverlust
+Wasser wird bei einer Spannung über 1,23 V in Wasserstoff und Sauerstoff zersetzt. Bei Blei-Batterien ist dieser Effekt jedoch gering, da Blei ein schlechter Katalysator für die ELektrolyse von Wasser ist.
+
+Bei einigen Blei-Batterie Typen kann Wasser nachgefüllt werden -> Reversibler Betrieb
+
+Geht zu viel Wasser verloren, sinkt der Wasserspiegel unter die Elektroden und diese korridieren an Luft. Dies geschieht besonders bei Überladung, da dabei so viel Wasserstoff und Sauerstoff entstehen, sodass diese aus der Batterie austreten. Im schlimmste Fall, kann dabei genug Wasserstoff entstehen, um mit der Luft ein hinreichend zündfähiges Gemisch zu bilden.

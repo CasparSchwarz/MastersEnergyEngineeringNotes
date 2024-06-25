@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
+            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
+            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md"
+            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md"
           }
         }
       }
@@ -133,9 +133,9 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
     "Chemische Energieumwandlung 2 (CE2)/Reduktion von Schadstoffemissionen.md",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "SmartSelect_20240612_194516_Firefox.jpg",
