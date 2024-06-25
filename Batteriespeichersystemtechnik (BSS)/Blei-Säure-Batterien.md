@@ -98,3 +98,16 @@ Einbringung der aktiven Masse:
 
 ## Formation der Platten
 Der erste Ladevorgang wird Formation genannt. Dabei werden  erstmalig Bleioxide und basische Sulfate gebildet. Heutzutage werden positive und negative Platten überwiegend gemeinsam formiert. Anschließend wird das Elektrolyt eingefüllt.
+
+# Bezeichnungen und Elektrodentechnologien
+| Bezeichnung      | Elektrodentechnologie                                          |
+| ---------------- | -------------------------------------------------------------- |
+| Starter-Batterie | Gitterplatten                                                  |
+| Bloc-Batterie    | Gitter +Stabplatte                                             |
+| Solar-Batterie   | modifizierte Starterbatterie oder modifizierte  OPzS           |
+| OGi-Batterie     | Ortsfest, Gitterplattenbatterie                                |
+| OPzS-Batterie    | Ortsfest,  Panzerplatte (positive Elektrode), Spezialseparator |
+| OPzV-Batterie    | wie OPzS,  verschlossen (Gel)                                  |
+| OCSM-Batterie    | wie OPzS,  Gitterplatte mit Kupferkern                         |
+| GroE-Batterie    | Großoberflächenplatten ("Kühlerstruktur")                      |
+| Wickelzelle      | Wickelelektrode                                                |
