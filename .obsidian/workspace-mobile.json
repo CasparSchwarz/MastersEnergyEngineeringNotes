@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md"
           }
         }
       }
@@ -133,10 +133,12 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
-    "SmartSelect_20240626_084838_Drive.jpg",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
+    "SmartSelect_20240626_084838_Drive.jpg",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "Chemische Energieumwandlung 2 (CE2)/Reduktion von Schadstoffemissionen.md",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
@@ -158,7 +160,6 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Pasted image 20240604132336.png",
-    "Pasted image 20240603120628.png",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Einbindung Regenerativer Energiesysteme/Speicher.md",
     "Alternative Energietechniken (AET)/Windenergie.md",
@@ -168,7 +169,6 @@
     "Windenergie/Windphysik.md",
     "Windenergie/Bau und Betrieb.md",
     "Windenergie/Windparkplanung.md",
-    "Energiesystemtechnik (EST)/EST.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }

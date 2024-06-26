@@ -9,6 +9,7 @@ Zur Synthetisierung der Energieträger werden so gut wie immer Kohlenstoff und W
 
 Als spezielle synthetisierte Energieträger zählen Wasserstoff und Biofuels. Siehe dazu weiterführend:
 [[Synthesen mit Wasserstoff]]
+[[Biofuels]]
 # Wirkungsgrade und Kenngrößen
 Gasausbeute:
 $$
@@ -140,7 +141,17 @@ In einem nachgeschalteten Prozess muss das H2S in mehreren Stufen zu flüssigem 
 $$
 3H_2S+\frac 32 O_2\rightleftharpoons 3H_2O+3S\ \text{(exotherm)}
 $$
+
 ## CO-Konvertierung (CO-Shift)
+Auch genannt: Wassergas-Shift-Reaktion
+
+Zuerst Entschwefelung, Dann CO-Shift -> Sußgas-Shift oder Reingas-Shift
+- Wird verwendet, um Katalysatoren vor Schwefel zu schützen
+
+Entschwefelung und CO-Shift gleichzeigit -> Sauergas-Shift
+- Wird verwendet, wenn schwefelresistente Katalysatoren vorliegen
+- Sauergas, da schwefelhaltige Gase eine saure Lösung in Wasser bilden
+
 Ziel:
 - H2/CO-Verhältnis im Snythesegas einstellen
 - oder Maximierung der H2-Ausbeute durch möglichst vollständige Umwandlung von CO in CO2 bei CO2-freien Kraftwerken

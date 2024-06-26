@@ -38,7 +38,7 @@ Festbettreaktor:
 - Gas überströmt Katalysatorbett vertikal abwärts
 - Flüssige Rückführprodukte werden beigemischt
 
-Flüssigreaktor:
+Flugstromreaktor:
 - Katalysator in fein verteilter Form
 - Eindüsung Synthesegas von unten
 - gasförmige Produkte verlassen Reaktor kopfseitig
@@ -57,3 +57,30 @@ Wirbelschichtreaktor
 	- Weiterentwicklung des Synthol-Reaktors
 	- Geringerer Abrieb und geringere Strömungsverluste
 
+# Methanol-Snythese
+Verwendung:
+- Direkt als Kraftstoff oder Zusatz
+- Umwandlung in Dimethylether (DME)
+- Methanol to Gasoline - MTG: Umwandlung in Bezin
+- Chemisches Ausgangsmateiral für die Herstellung einer Reihe wichtiger Industriechemikalien
+
+$$
+\begin{align}
+CO_2+3H_2&\rightarrow CH_3OH+H_2O \\\\
+CO+2H_2&\rightarrow CH_3OH
+\end{align}
+$$
+Die Methanol-Synthese ist eine stark exotherme Reaktion. Es werden Katalysatorsysteme aus Kupfer, Zinkoxid, Aluminiumoxid und Magnesiumoxid verwendet.
+# Synthetisches Erdgas
+Unter synthetischem Erdgas wird Methan verstanden, welches über eine Reaktion von Wasserstoff mit CO oder CO2 hergestellt wurde.
+
+Methanisierungs Reaktionen (Sabatier-Prozess):
+$$
+\begin{align}
+CO+3H_2&\rightarrow CH_4+H_2O\\\\
+CO_2+4H_2&\rightarrow CH_4+2H_2O
+\end{align}
+$$
+- Stark exotherme Reaktionen
+- Katalysatorsysteme aus Nickel
+- Produkt kann nach Aufbereitung im Erdgasnetz eingespeist werden
