@@ -157,8 +157,24 @@ Der Innenwiderstand steigt, da die Korrosionsprodukte den effektiv Nutzbaren Que
 
 Bei hohem Potential ist die Korrosionsrate am niedrigsten -> Bleibatterien bei hohen Ladezuständen lagern.
 ## Wasserverlust
-Wasser wird bei einer Spannung über 1,23 V in Wasserstoff und Sauerstoff zersetzt. Bei Blei-Batterien ist dieser Effekt jedoch gering, da Blei ein schlechter Katalysator für die ELektrolyse von Wasser ist.
+Wasser wird bei einer Spannung über 1,23 V in Wasserstoff und Sauerstoff zersetzt. Bei Blei-Batterien ist dieser Effekt jedoch gering, da Blei ein schlechter Katalysator für die Elektrolyse von Wasser ist.
+
+$$
+\text{Hauptreaktion: }2H_2O\rightarrow 2H_2+O_2
+$$
 
 Bei einigen Blei-Batterie Typen kann Wasser nachgefüllt werden -> Reversibler Betrieb
 
 Geht zu viel Wasser verloren, sinkt der Wasserspiegel unter die Elektroden und diese korridieren an Luft. Dies geschieht besonders bei Überladung, da dabei so viel Wasserstoff und Sauerstoff entstehen, sodass diese aus der Batterie austreten. Im schlimmste Fall, kann dabei genug Wasserstoff entstehen, um mit der Luft ein hinreichend zündfähiges Gemisch zu bilden.
+
+Nachteile:
+- Der Ah-Wirkungsgrad wird durch die parasitären Ströme reduziert
+- Wasserstoff und Sauerstoff bilden ein explosives Gemisch, das die Zelle verletzt
+- Wasser geht durch die Nebenreaktionen verloren
+- Durch Korrosion wird das Gitter allmählich zu Bleioxiden und -sulfaten mit schlechter Leitfähigkeit
+
+Vorteile:
+- Bei starkem Überladen weicht die Reaktion auf die Nebenreaktionen aus, und sehr hohe Spannungen werden vermieden. Spannungsüberwachung der einzelnen Zellen in einer Reihenschaltung ist deshalb nicht notwendig
+- Ungleiche Ladezustände in Elektroden und Zellen werden ausgeglichen
+- In flüssigem Elektrolyten kann starke Gasentwicklung zur Durchmischung benutzt werden
+
