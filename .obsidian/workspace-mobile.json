@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md"
           }
         }
       }
@@ -133,7 +133,11 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "SmartSelect_20240626_084838_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
+    "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "Chemische Energieumwandlung 2 (CE2)/Reduktion von Schadstoffemissionen.md",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
@@ -164,10 +168,7 @@
     "Windenergie/Windphysik.md",
     "Windenergie/Bau und Betrieb.md",
     "Windenergie/Windparkplanung.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "Energiesystemtechnik (EST)/EST.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)",
-    "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
-    "Chemische Energieumwandlung 2 (CE2)/Elektrochemie.md"
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }

@@ -7,6 +7,8 @@ Zur Synthetisierung der Energieträger werden so gut wie immer Kohlenstoff und W
 - Alkohol-Synthese -> Methanol, Ethanol
 - Methanisierung -> SNG, Methan
 
+Als spezielle synthetisierte Energieträger zählen Wasserstoff und Biofuels. Siehe dazu weiterführend:
+[[Synthesen mit Wasserstoff]]
 # Wirkungsgrade und Kenngrößen
 Gasausbeute:
 $$
