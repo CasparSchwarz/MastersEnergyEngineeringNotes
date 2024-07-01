@@ -178,3 +178,7 @@ Vorteile:
 - Ungleiche Ladezustände in Elektroden und Zellen werden ausgeglichen
 - In flüssigem Elektrolyten kann starke Gasentwicklung zur Durchmischung benutzt werden
 
+# Ventilgeregelte Blei-Säure-Batterien
+Ventilgeregelte Blei-Säure-Batterien haben eine interne Gasrekombination. Dies ist bei geschlossenen Batterien mit einem flüssigen Elektrolyten notwendig, da bei Überladung Wasserstoff und Sauerstoff freigesetzt wird. Die Gasrekombination sorgt dafür, dass Wasserstoff und Sauerstoff wieder zu Wasser reagieren.
+
+In verschlossenen Batterien ist der Transport von Sauerstoff durch Poren eines Gels oder eines Vlies möglich, sodass der Sauerstoff von der Kathode zur Anode wandern. Die Effektivität liegt nahezu bei 100 %, weshalb nicht das gesamte Wasserstoff wieder zu Wasser reagieren kann. Somit steigt mit laufender Zeit der Druck innerhalb der Batterie, sodass überschüssiger Wasserstoff über ein Ventil abgelassen werden muss.
