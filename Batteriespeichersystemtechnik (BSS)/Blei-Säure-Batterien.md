@@ -182,3 +182,31 @@ Vorteile:
 Ventilgeregelte Blei-Säure-Batterien haben eine interne Gasrekombination. Dies ist bei geschlossenen Batterien mit einem flüssigen Elektrolyten notwendig, da bei Überladung Wasserstoff und Sauerstoff freigesetzt wird. Die Gasrekombination sorgt dafür, dass Wasserstoff und Sauerstoff wieder zu Wasser reagieren.
 
 In verschlossenen Batterien ist der Transport von Sauerstoff durch Poren eines Gels oder eines Vlies möglich, sodass der Sauerstoff von der Kathode zur Anode wandern. Die Effektivität liegt nahezu bei 100 %, weshalb nicht das gesamte Wasserstoff wieder zu Wasser reagieren kann. Somit steigt mit laufender Zeit der Druck innerhalb der Batterie, sodass überschüssiger Wasserstoff über ein Ventil abgelassen werden muss.
+
+Die wichtigsten Eigenschaften verschlossener Batterien:
+- Geringere Ausgasung
+- Höhere Säurekonzentration bei vollgeladener Batterie (höhere Ruhespannung und höhere Selbstentladung)
+- Lange Relaxationszeiten bis zum Erreichen der Gleichgewichtsspannung -> schwierige Ladezustandsbestimmung über Ruhespannung
+- Gute Transportfähigkeit der Zellen
+- Stärkere Erwärmung durch interne Gasrekombination
+- Zwei Technologien:
+	- **Vlies-Batterien**: Elektrolyt wird in einem zwischen den Elektroden liegenden Vlies gebunden, kann Lebensdauer durch Druck auf Aktivmassen verbessern
+	- **Gel-Batterien**: Der Elektrolyt wird durch Zugabe von SiO2 geliert
+- Teurer durch aufwändigere Prozesse und reinere Materialien
+
+## Thermal Runaway
+Verschlossene Batterien sind anfälliger für einen thermal Runaway. Grund dafür ist die geringere Wärmekapazität aufgrund der geringeren Wassermasse und die zusätzliche Wärmequelle der Gasrekombination.
+## Vergleich Vlies oder Gel
+| Gel                                                                                                                                                                                                                                                                              | Vlies                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vorteile:<br>- Günstiger Herstellungsprozess<br>- Notwendige Technologie für Wickelzellen<br>- Durch Vlies wird Druck auf die Aktiv-massen aufgebaut und der Kapazitätsverlust durch Kontaktverlust der Massen verringert<br>- Bessere Hochstromfestigkeit als bei Gel-Batterien | Vorteile:<br>- Gitter- und Röhrchenplatten Elektroden können in Gel-Batterien zum Einsatz kommen<br>- Hohe Bauformen möglich<br>- Gute Lebensdauerergebnisse mit Panzerplattenelektroden, gut Tiefentladefestigkeit |
+| Nachteile:<br>- Nur in Batterien mit Gitterplatten einsetzbar                                                                                                                                                                                                                    | Nachteile:<br>- Komplizierter Befüllungsprozess führt zu etwas höheren Kosten<br>- Begrenzte Hochstromfestigkeit                                                                                                    |
+# Auswahlkriterien Verschlossen oder Geschlossen
+| Verschlossene Batterien                 | Geschlossene Batterien                     |
+| --------------------------------------- | ------------------------------------------ |
+| Kein Batterieraum vorhanden             | Hohe Betriebstemperatur (dauerhaft >40 °C) |
+| Enger Einbau, z.B. Kleinanlage          | Sehr lange Lebensdauer gefordert           |
+| Wartung aufwändig und teuer             | Höchste Zuverlässigkeitsanforderungen      |
+| Zyklisierung im teilentladenen Zustand  | Fehlender oder anfälliger Überladeschutz   |
+| Auslaufender Elektrolyt wäre Gefährdung | Eingeschränkte Belüftungsmöglichkeiten     |
+# Ladeverfahren und dynamische Ladeakzeptanz
