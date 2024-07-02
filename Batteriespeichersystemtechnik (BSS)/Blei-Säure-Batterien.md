@@ -217,3 +217,5 @@ Der anfängliche Spannungsabfall ist darauf zurückzuführen, dass die Sulfation
 
 Ebenso spielt der Strom eine Rolle bei der Verfügbaren Kapazität, da diese je nach Temperatur und Stromstärke sinkt. Faustregel: Höherer Strom oder abnehmende Temperatur -> Geringere Kapazität
 ![[Pasted image 20240702170756.png]]
+# Recycling
+In Deutschland existiert ein ausgereiftes Recyclingsystem für Bleibatterien. Dabei werden die Bleibatterien zu einem sehr hohen Anteil weiderverwertet. In Europa werden mehr als 98 % der Industriebatterien recycliert. In Deutschland speziell besteht ein Pfandsystem, das eine hohe Rückführungsquote garantiert.
