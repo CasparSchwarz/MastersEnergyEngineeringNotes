@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md"
+                "file": "Alternative Energietechniken (AET)/Photovoltaik.md"
               }
             }
           }
@@ -161,6 +161,14 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Pasted image 20240702175557.png",
+    "Pasted image 20240702175330.png",
+    "Pasted image 20240702175311.png",
+    "Pasted image 20240702175238.png",
+    "Pasted image 20240702174950.png",
+    "Pasted image 20240702174718.png",
+    "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
+    "Alternative Energietechniken (AET)/Photovoltaik.md",
     "test.csv",
     "Pasted image 20240702170756.png",
     "Pasted image 20240702165947.png",
@@ -170,8 +178,6 @@
     "SmartSelect_20240626_084838_Drive.jpg",
     "Pasted image 20240625093621.png",
     "Pasted image 20240625092545.png",
-    "Pasted image 20240625091804.png",
-    "Pasted image 20240625090545.png",
     "Wärmeübertrager & Dampferzeuger/Verdampfung & Kondensation.md",
     "Windenergie/Windenergie.md",
     "Wärme.md",
@@ -185,17 +191,12 @@
     "Chemische Energieumwandlung 2 (CE2)/CE2.md",
     "Batteriespeichersystemtechnik (BSS)/BSS.md",
     "Alternative Energietechniken (AET)/AET.md",
-    "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
-    "Pasted image 20240621092758.png",
-    "Pasted image 20240621083457.png",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-    "Pasted image 20240619124018.png",
     "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
-    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
-    "Alternative Energietechniken (AET)/Solarkollektoren.md"
+    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md"
   ]
 }
