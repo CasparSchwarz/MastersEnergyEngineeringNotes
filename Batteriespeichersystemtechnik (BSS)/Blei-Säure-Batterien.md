@@ -211,3 +211,9 @@ Verschlossene Batterien sind anfälliger für einen thermal Runaway. Grund dafü
 | Wartung aufwändig und teuer             | Höchste Zuverlässigkeitsanforderungen      |
 | Zyklisierung im teilentladenen Zustand  | Fehlender oder anfälliger Überladeschutz   |
 | Auslaufender Elektrolyt wäre Gefährdung | Eingeschränkte Belüftungsmöglichkeiten     |
+# Elektrisches Verhalten
+![[Pasted image 20240702165947.png]]
+Der anfängliche Spannungsabfall ist darauf zurückzuführen, dass die Sulfationenkonzentration ein Maximum erreicht und der Diffusive Prozess des Auflösens der Sulfatkristalle erst Ablaufen muss, bevor die Spannung wieder steigen kann. Das Problem dabei ist, dass der Ladezustand der Batterie über die Spannung bestimmt wird und fälschlicherweise ein leerer Zustand zum Zeitpunkt des Spannungssacks registriert wird.
+
+Ebenso spielt der Strom eine Rolle bei der Verfügbaren Kapazität, da diese je nach Temperatur und Stromstärke sinkt. Faustregel: Höherer Strom oder abnehmende Temperatur -> Geringere Kapazität
+![[Pasted image 20240702170756.png]]
