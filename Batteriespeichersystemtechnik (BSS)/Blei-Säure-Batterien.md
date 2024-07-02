@@ -136,9 +136,11 @@ Die **Hauptalterungseffekte** bei Blei Batterien sind:
 	- In Teilen reversibler Effekt (Auflösung durch intensives Laden)
 	- Kleinere Kristalle haben größeren Einfluss auf Lade- und Entladereaktion
 
-Eone hohe Konzentration der Schwefelsäure ist vorteilhaft, da sich die Sulfatkristalle in der Säure lösen. Gleichzeitig ist eine hohe Konzentration der Säure von Nachteil, da große Kristalle nicht aufgelöst werden und weiter wachsen, wenn die Batterie nicht genutzt wird.
+Eine hohe Konzentration der Schwefelsäure ist vorteilhaft, da sich die Sulfatkristalle in der Säure lösen. Gleichzeitig ist eine hohe Konzentration der Säure von Nachteil, da große Kristalle nicht aufgelöst werden und weiter wachsen, wenn die Batterie nicht genutzt wird.
 
-Die sogennante Säureschichtung wird verursacht durch den Verbrauch und die Freisetzung konzentrierter Schwefelsäure während der Lade- und Entladeprozesse. Dadurch lagert sich Säure hoher dichte unten und Säure geringer Dichte oben an. Da eine geringe Säuredichte mit einem geringen Ruhepotential korreliert, kommt es zu einem Potentialgradienten entlang der vertikalen in der Batterie. Somit wird der **obere Teil stärker aufgeladen** und der **untere Teil stärker entladen**. Somit ist die Sulfatierung um unteren Bereich deutlich stärker als im oberen Bereich. Zudem sind die Sulfatkristalle durch ein gezieltes Aufladen nicht mehr aufzulösen. -> Durch Umwälzpumpe kann somit die Lebendauer um bis zu 100 % verlängert werden.
+Prinzipiell ist die Sulfatierung **reversibel** und kann durch bestimmte Ladeverfahren rückgängig gemacht werden.
+
+Die sogenante **Säureschichtung** wird verursacht durch den Verbrauch und die Freisetzung konzentrierter Schwefelsäure während der Lade- und Entladeprozesse. Dadurch lagert sich Säure hoher dichte unten und Säure geringer Dichte oben an. Da eine geringe Säuredichte mit einem geringen Ruhepotential korreliert, kommt es zu einem Potentialgradienten entlang der vertikalen in der Batterie. Somit wird der **obere Teil stärker aufgeladen** und der **untere Teil stärker entladen**. Somit ist die Sulfatierung um unteren Bereich deutlich stärker als im oberen Bereich. Zudem sind die Sulfatkristalle durch ein gezieltes Aufladen nicht mehr aufzulösen. -> Durch Umwälzpumpe kann somit die Lebendauer um bis zu 100 % verlängert werden.
 ## Korrosion
 Die Korrosionsrate ist abhängig von
 - Säuredichte
@@ -209,4 +211,3 @@ Verschlossene Batterien sind anfälliger für einen thermal Runaway. Grund dafü
 | Wartung aufwändig und teuer             | Höchste Zuverlässigkeitsanforderungen      |
 | Zyklisierung im teilentladenen Zustand  | Fehlender oder anfälliger Überladeschutz   |
 | Auslaufender Elektrolyt wäre Gefährdung | Eingeschränkte Belüftungsmöglichkeiten     |
-# Ladeverfahren und dynamische Ladeakzeptanz
