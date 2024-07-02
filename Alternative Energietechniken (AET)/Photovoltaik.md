@@ -83,3 +83,15 @@ Bei diesen Zellen absorbieren unterschiedliche Schichten unterschiedliche Wellen
 Hierbei wird Sonnenlicht auf einen Kollektor konzentriert, wodurch Wirkungsgrade von über 40 % erreicht werden. Dabei ist eine Kühlung der Zelle unbedingt notwendig, damit diese nicht unter der thermischen Belastung zerstört wird.
 ## Organische Zellen
 Organische Zellen bestehen aus Kohlenwasserstoffen und haben die Eigenschaft, durchsichtig zu sein. Zudem sind diese Zellen sehr dünn, sodass diese ebenfalls flexibel und leicht sind -> Dadurch quasi unzerbrechlich. Zudem ist der ökologische Fußabdruck klein.
+# Nachahltigkeit
+Die energetische Amortisationszeit wird wie folgt berechnet:
+$$
+\tau=\frac{KEA}{\bar P_{el}}
+$$
+Sie gibt an, ab welcher Zeit die Energie zur Produktion, Betrieb und Rückbau der PV-Zelle wieder erzeugt wurde.
+
+Typische Werte:
+- Norderuopa: ca. 2,5 Jahre
+- Südeuropa: ca. 1,5 Jahre
+
+Da die Lebensdauern typischerweise im Bereich von 20 bis 30 Jahren liegen, erzeugt eine PV-Anlage ca. 10 Mal mehr Energie als zu ihrer Herstellung benötigt wurde. Auf den Lebenszyklus betrachtet kommt man somit auf einen CO2 Footprint von ca. 32 g/kWh.
