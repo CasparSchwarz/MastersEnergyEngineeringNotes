@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Alternative Energietechniken (AET)/Photovoltaik.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
@@ -142,7 +144,6 @@
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "Chemische Energieumwandlung 2 (CE2)/Reduktion von Schadstoffemissionen.md",
     "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "SmartSelect_20240612_194516_Firefox.jpg",
     "SmartSelect_20240612_184032_Drive.jpg",
@@ -168,7 +169,6 @@
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Windenergie/Windphysik.md",
     "Windenergie/Bau und Betrieb.md",
-    "Windenergie/Windparkplanung.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }
