@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4249e63d607ad167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windenergie/Windenergie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a8231a33be6830e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Photovoltaik.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Photovoltaik.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md"
               }
             }
           }
@@ -161,6 +148,10 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Pasted image 20240703143749.png",
+    "Alternative Energietechniken (AET)/Photovoltaik.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
+    "SmartSelect_20240703_090928_Drive.jpg",
     "Pasted image 20240702175557.png",
     "Pasted image 20240702175330.png",
     "Pasted image 20240702175311.png",
@@ -168,7 +159,6 @@
     "Pasted image 20240702174950.png",
     "Pasted image 20240702174718.png",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
-    "Alternative Energietechniken (AET)/Photovoltaik.md",
     "test.csv",
     "Pasted image 20240702170756.png",
     "Pasted image 20240702165947.png",
@@ -176,8 +166,6 @@
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
     "SmartSelect_20240626_084838_Drive.jpg",
-    "Pasted image 20240625093621.png",
-    "Pasted image 20240625092545.png",
     "Wärmeübertrager & Dampferzeuger/Verdampfung & Kondensation.md",
     "Windenergie/Windenergie.md",
     "Wärme.md",
@@ -196,7 +184,6 @@
     "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-    "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md",
-    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md"
+    "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md"
   ]
 }
