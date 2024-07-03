@@ -21,7 +21,20 @@ Chemisch:
 
 Membranen:
 - Trennung
-- Keramische Systeme
+- Keramische Systeme (Perowskit)
+
+## Chemische und Physikalische Wäschen
+Chemische Waschmittel reagieren mit dem Abgas
+- Unter 60 °C
+- Austreibung des CO2 bei 120 °C
+- Herausforderungen: Korrosion, oxidative und thermische Degradation des Waschmittels
+
+Physikalische Waschmittel lösen das CO2 ohne Reaktion
+- Löslichkeit folgt dem Henry-Gesetz und ist somit eine FUnktion des Partialdrucks der Komponenten in der Gasphase
+- Durch Erhöhung des Partialdrucks kann die Speicherkapazität erhöht werden
+- Austreibung mithilfe von Druckwechsel Methoden
+ 
+![[SmartSelect_20240703_090928_Drive.jpg]]
 
 # De-Karbonisierung von Feuerungen
 - Nachgeschaltet (post-combustion)
