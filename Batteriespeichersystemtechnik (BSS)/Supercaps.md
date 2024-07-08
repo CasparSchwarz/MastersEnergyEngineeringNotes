@@ -24,3 +24,9 @@ Bei der Entsorgung von Supercaps muss darauf geachtet werden, dass die Elektroly
 | Energiedichte      | > 100 Wh/kg            | 5 Wh/kg         |
 | Leistungsdichte    | 1000 W/kg              | > 5000 W/kg     |
 # Eigenschaften & Bauformen
+Supercaps haben eine hohe Leistungsfähgikeit, können jedoch nur wenig Energie speichern. Die Zyklenlebensdauer liegt bei 10^5 bis 10^6. Auf der anderen Seite ist die temperaturbedingte Alterung sehr stark bei Supercaps (Halbierng der Lebensdauer mit 7 K Temperaturanstieg).
+
+Typischerweise werden Supercaps mit konstanter Leistung entladen. Dabei wird der Kondensator zwischen Nennspannung und halber Nennspannung betrieben. Das bedeutet, dass bei konstannter Leistung die Stromstärke im Betrieb verdoppelt wird, und somit die Wärmeverluste vervierfacht.
+
+Um Supercaps anwenden zu können, werden die Zellen zu Modulen zusammengebaut. Die Kapazität des Moduls sinkt linear mit der Zahl der Zellen. Die Spannung steigt jedoch linear mit der Anzahl der Zellen und die Energie quadratisch mit der Spannung.
+# Alterung
