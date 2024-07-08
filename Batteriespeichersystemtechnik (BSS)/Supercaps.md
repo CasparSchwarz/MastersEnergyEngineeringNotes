@@ -81,3 +81,58 @@ Dabei werden die Poren der Größe nach absteigend aufgeladen:
 3. Micro
 
 Da die Widerstände der großen Poren kleiner ist als die der kleinen.
+# Ladungsausgleichsysteme
+Warum ist ein Ladungsausgleich in Kondensatoren notwendig?
+- Unterschiedliche Selbstentladung
+- Unterschiedliche Kapazitäten
+- Schutz vor Übersüannung
+- Erhöhung der Lebensdauer
+
+Es gibt 3 Typen von Ausgleichsystemen:
+- Passive Ausgleichsysteme
+- Gesteuerte Passive Auslgeichsysteme
+- Aktive Ausgleichsysteme
+
+## Passive Ladungsausgleichsysteme
+In diesem System wird der Kondensator langsam entladen, bis alle Zellen komplett entladen sind. **AUF KEINEN FALL FÜR LI-ION BATTERIEN**
+
+Hierbei sorgen Zählerdioden dafür, dass ab einer Bestimmten Spannung nur Strom über die Dioden fließt und nicht mehr durch den Kondensator.
+
+- Topologien
+	- Parallel-Widerstände
+	- Z-Dioden
+- Vorteile
+	- Preisgüstig
+	- Einfache Herstellung
+- Nachteile
+	- Langsam
+	- Schlechter Wirkungsgrad
+	- Relativ große Verluste
+	- Temperaturabhängigkeit der Schwellspannung der Z-Dioden
+
+## Aktive Ladungsausgleichsysteme
+- Topologien
+	- Hoch-Tiefsetzsteller
+	- Multiplexer und Kondensator
+	- Galvanisch getrennten Spannungsquellen
+- Vorteile
+	- Umleitung der Energie
+	- Hoher Wirkungsgrad
+- Nachteile
+	- Komplizierte Steuerung
+	- Zusätzliche Bauteile nötig
+	- Relativ teuer
+
+## Gesteuerte Passive Ausgleichsysteme
+- Stand der Technik
+- Bestandteile
+	- Kompoarator
+	- Schalter
+	- Bypass-Widerstand
+- Vortiele
+	- Einfach
+	- Kostengünstig
+- Nachteile
+	- Langsamer Ausgleich
+	- Keine Temperaturkorrektur
+	- Schlechter Wirkungsgrad
