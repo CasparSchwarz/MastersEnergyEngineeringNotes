@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Pasted image 20240708171342.png",
+    "Pasted image 20240708170612.png",
+    "Pasted image 20240708170316.png",
+    "Pasted image 20240708170123.png",
+    "Pasted image 20240708163219.png",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "SmartSelect_20240703_162342_Drive.jpg",
@@ -157,10 +163,6 @@
     "SmartSelect_20240703_090928_Drive.jpg",
     "Pasted image 20240702175557.png",
     "Pasted image 20240702175330.png",
-    "Pasted image 20240702175311.png",
-    "Pasted image 20240702175238.png",
-    "Pasted image 20240702174950.png",
-    "Pasted image 20240702174718.png",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "test.csv",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
@@ -182,7 +184,6 @@
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
     "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
-    "Batteriespeichersystemtechnik (BSS)/Managementstrategien von Batteriepacks.md"
+    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
   ]
 }

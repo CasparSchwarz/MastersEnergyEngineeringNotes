@@ -39,3 +39,45 @@ Der wesentliche Alterungsprozess ist die **Zersetzung des Elektrolyten**. Die ch
 Temperaturerhöhungen können durch Spannungsabsenkung kompensiert werden. Das geht jedoch mit einem Energieverlust einher, sodass die Kapazität des Kondensators erhöht werden muss.
 
 Bei beschleunigten Alterungstest können andere Alterungseffekte auftreten, als es im Anwendungsfall der Fall ist. Bspw. ein Aufblähen des Zellgehäuses aufgrund der Zersetzung des Elektrolyten.
+## Selbstentladung
+- Spannungsabfall hängt stark von der Vorgeschichte ab
+	- Ladedauer, Lade/Entlade-Vorgeschichte, Temperatur, Anfangsspannung
+- Spannungsabnahme besteht aus mehreren Phasen:
+	- Exponentiell: Zeitkonstanten von Stunden und Tagen
+	- Lineare Abnahme nach mehreren Monaten
+- Ladungsgehalt hängt hauptsächlich von der Spannung ab
+- -> Erklärung für den schnellen Selbstentlademechanismus: Ionen-Umverteilung
+- Immer noch sind viele Fragen offen:
+	- Wie funktioniert der Ladungsverlust? -> Langsamer Mechanismus?
+	- Richtige Annahme, dass C=const?
+	- Warum verhalten sich die beiden untersuchten Zelltypen so unterschiedlich?
+
+# Modellierung
+Zur Modellierung von Kondensatoren wird ein elektrisches Ersatzschaltbild verwendet:
+![[Pasted image 20240708163219.png]]
+Wobei:
+- $R_S$: Serienwiderstand, Innenwiderstand
+- $R_P$: Parallelwiderstand, Selbstentladung
+- $L$: Induktivität (meist vernachlässigbar)
+- $C$: Kapazität
+
+Wird das Aktivmaterial betrachtet, besteht dieses aus vielen kleinen Poren, die durch das Graphit entstehen:
+![[Pasted image 20240708170123.png]]
+Es wird unterschieden zwischen
+- Makroporen (d > 500 Anstrom)
+- Mesoporen (20 < d < 500 A)
+- Mikroporen (d < 20 A)
+
+An jeder Pore liegen positive und negative Ladungsträger an, sodass jede Pore als eigener Kondensator modelliert werden kann.
+![[Pasted image 20240708170316.png]]
+![[Pasted image 20240708170612.png]]
+Während des Ladens ändert sich die Verteilung der Ionen in den Poren. Sind die Ionen gleichmäßig verteilt, ist ein Zustand geringster Energie und somit geringster Ladung erreicht.
+
+Ein solches System zu modellieren ist quasi unmöglich, da weder Informationen über die Geometrie bestehen, noch Rechenkapazität zur Verfügung steht um solche Modelle durchzurechnen. Dementsprechend werden die Makro, Meso und Mikroporen zusammengefasst betrachtet:
+![[Pasted image 20240708171342.png]]
+Dabei werden die Poren der Größe nach absteigend aufgeladen:
+1. Macro
+2. Meso
+3. Micro
+
+Da die Widerstände der großen Poren kleiner ist als die der kleinen.
