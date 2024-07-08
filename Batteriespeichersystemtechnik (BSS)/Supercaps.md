@@ -35,3 +35,7 @@ Die Lebensdauer eines Supercaps ist stark abhängig von der Betriebsspannung und
 Der wesentliche Alterungsprozess ist die **Zersetzung des Elektrolyten**. Die chemischen Prozesse zur Zersetzung des Elektrolyten laufen doppelt so schnell ab bei
 - Temperaturerhöhung um 10 K
 - Spannungserhöhung um 100 mV
+
+Temperaturerhöhungen können durch Spannungsabsenkung kompensiert werden. Das geht jedoch mit einem Energieverlust einher, sodass die Kapazität des Kondensators erhöht werden muss.
+
+Bei beschleunigten Alterungstest können andere Alterungseffekte auftreten, als es im Anwendungsfall der Fall ist. Bspw. ein Aufblähen des Zellgehäuses aufgrund der Zersetzung des Elektrolyten.
