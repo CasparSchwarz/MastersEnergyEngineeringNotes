@@ -30,3 +30,8 @@ Typischerweise werden Supercaps mit konstanter Leistung entladen. Dabei wird der
 
 Um Supercaps anwenden zu können, werden die Zellen zu Modulen zusammengebaut. Die Kapazität des Moduls sinkt linear mit der Zahl der Zellen. Die Spannung steigt jedoch linear mit der Anzahl der Zellen und die Energie quadratisch mit der Spannung.
 # Alterung
+Die Lebensdauer eines Supercaps ist stark abhängig von der Betriebsspannung und der Umgebungstemperatur. Dabei verkürzen hohe Spannungen und Temperaturen die Lebensdauer. Es ist zu beachten, dass hohe Spannungen jedoch in einigen Fällen genutzt werden können, solange es nicht im Dauerbetrieb geschieht.
+
+Der wesentliche Alterungsprozess ist die **Zersetzung des Elektrolyten**. Die chemischen Prozesse zur Zersetzung des Elektrolyten laufen doppelt so schnell ab bei
+- Temperaturerhöhung um 10 K
+- Spannungserhöhung um 100 mV
