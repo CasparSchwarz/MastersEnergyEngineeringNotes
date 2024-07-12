@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+                "file": "Alternative Energietechniken (AET)/Geothermie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+            "file": "Alternative Energietechniken (AET)/Geothermie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+            "file": "Alternative Energietechniken (AET)/Geothermie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md"
+            "file": "Alternative Energietechniken (AET)/Geothermie.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+    "Alternative Energietechniken (AET)/Geothermie.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "SmartSelect_20240703_162342_Drive.jpg",
     "SmartSelect_20240703_160854_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
@@ -168,7 +169,6 @@
     "Alternative Energietechniken (AET)/Windenergie.md",
     "Alternative Energietechniken (AET)/AET.md",
     "Alternative Energietechniken (AET)/Wasserkraft.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }
