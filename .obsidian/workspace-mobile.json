@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Geothermie.md",
+                "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Geothermie.md",
+            "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Geothermie.md",
+            "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Geothermie.md"
+            "file": "Alternative Energietechniken (AET)/Thermische Netze.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
-    "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Alternative Energietechniken (AET)/Geothermie.md",
+    "Alternative Energietechniken (AET)/Thermische Netze.md",
+    "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "SmartSelect_20240703_162342_Drive.jpg",
     "SmartSelect_20240703_160854_Drive.jpg",
@@ -168,7 +169,6 @@
     "Einbindung Regenerativer Energiesysteme/Speicher.md",
     "Alternative Energietechniken (AET)/Windenergie.md",
     "Alternative Energietechniken (AET)/AET.md",
-    "Alternative Energietechniken (AET)/Wasserkraft.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }
