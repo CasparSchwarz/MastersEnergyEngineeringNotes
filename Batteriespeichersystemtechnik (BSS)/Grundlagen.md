@@ -180,3 +180,13 @@ In Metall-Luft Batterien reagiert Metall mit Sauerstoff aus der Luft. Die Oxidat
 - Lithium-Luft
 - Aluminium-Luft
 
+# Impedanzspektroskopie (EIS)
+In der Impedanzspektroskopie werden Imaginärteil und Realteil der Impedanz auf Y- und X-Achse in einem Koordinatensystem aufgetragen.
+
+Im Folgenden wird gezeigt, wie der reelle Verlauf der Impedanz modelliert werden kann.
+## Ohmscher Widerstand
+Ein Ohmscher Widerstand hat nur einen Realteil -> Im(Z)=0
+## Kondensator
+Ein Kondensator verhält sich wie ein Kurzschluss, somit ist der Erste Punkt der Koordinatenursprung.
+
+Wird ein Ohmscher Widerstand zum Kondensator parallelgeschaltet, bildet sich ein nach oben gekrümmter Halbkreis zum Punkt des Ohmschen Widerstandes.
