@@ -14,6 +14,10 @@ Ebenso wie die Ladungsmenge:
 $$
 Q=CU
 $$
+Die Spannung von SuperCaps ist linear von der Ladungsmenge abhängig:
+$$
+U=\frac 1C\cdot\int Idt=\frac QC
+$$
 
 Energie wird dabei durch Verschiebung und Anlagerung der Ionen an das Aktivmaterial gespeichert. Somit findet keine Reaktion statt, sodass die Lebensdauer deutlich Oberhalb der von Batterien ist.
 
