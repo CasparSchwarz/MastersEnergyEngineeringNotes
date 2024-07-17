@@ -61,3 +61,9 @@ Der Wirkungsgradverlust durch CO2-Abscheidung liegt bei 5 % bis 15 %.
 - Durch hohe Flammentemperatur muss Rauchgas Rückgeführt werden, damit die Flammentemperatur absinkt
 ![[SmartSelect_20240717_083658_Firefox.jpg]]
 Dieser Prozess ist sehr einfach und benötigt wenig Energie. Der Prozessschritt größten Wirkungsgradverlustes ist die Luftzerlegung, welche sehr energieintensiv ist.
+## Chemical Looping Combustion (CLC)
+Die Idee ist, in zwei Wirbelschichtreaktoren die Luft zirkulieren zu lassen. Dabei nimmt ein Sauerstoffträger den Sauerstoff aus dem Luftstrom heraus. In einem Darauf folgenden Schritt kann der Stickstoff der Luft entnommen werden, da der Sauerstoff an den Träger gebunden ist. Im letzten Schritt wird in einer Brennkammer der Sauerstoff mit Brennstoff in Kontakt gebracht und es kommt zur Verbrennung. Der Träger wird wieder in den ersten Reaktor geleitet.
+![[SmartSelect_20240717_085852_Firefox.jpg]]
+Die Oxidation des Trägers ist dabei **exotherm**. Die Reduktion des Trägers ist **endotherm**.
+## Nachgeschaltete CO2-Abscheidung aus GuD
+In solchen Systeme muss das Wasser im Abgas kondensiert werden. Anschließend wird ein Teil des Abgases rückgeführt in die Brennkammer und ein anderer Teil in die CO2 Wäsche geleitet.
