@@ -4,8 +4,17 @@ Supercaps bestehen aus Kohlenstoff mit sehr hoher Oberfläche (2000 m^2/g). Zude
 
 Die Kapazität des Kondensators ist Abhängig von der Oberfläche und des Elektrodenabstands:
 $$
-C\sim\frac Ad
+C=\varepsilon_0\varepsilon_r\frac Ad
 $$
+Die Energiemenge ist von der Kapazität und der Spannung abhängig:
+$$
+E=\frac 12 CU^2
+$$
+Ebenso wie die Ladungsmenge:
+$$
+Q=CU
+$$
+
 Energie wird dabei durch Verschiebung und Anlagerung der Ionen an das Aktivmaterial gespeichert. Somit findet keine Reaktion statt, sodass die Lebensdauer deutlich Oberhalb der von Batterien ist.
 
 Es werden organische Elektrolyten verwendet. Diese bestehen aus einem Lösungsmittel (Acetonitrile, Propylene-Karbonat) und Leitsalzen (0,5 M bis 2 M). Typische Leitfähigkeiten solcher Elektrolyten liegen im Bereich von 10 bis 60 mS/cm.
