@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Grundlagen.md"
+                "file": "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "SmartSelect_20240717_085852_Firefox.jpg",
+    "SmartSelect_20240717_083658_Firefox.jpg",
+    "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
     "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Pasted image 20240708171342.png",
     "Pasted image 20240708170612.png",
@@ -162,7 +165,6 @@
     "Pasted image 20240703143749.png",
     "Alternative Energietechniken (AET)/Photovoltaik.md",
     "SmartSelect_20240703_090928_Drive.jpg",
-    "Pasted image 20240702175557.png",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "test.csv",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
@@ -182,8 +184,6 @@
     "Alternative Energietechniken (AET)/AET.md",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
-    "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
-    "Batteriespeichersystemtechnik (BSS)/Lithium-Ionen Batterien.md"
+    "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md"
   ]
 }
