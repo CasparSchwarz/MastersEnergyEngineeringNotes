@@ -54,3 +54,10 @@ Physikalische Waschmittel lösen das CO2 ohne Reaktion
 	- CO2/H2O-Mischung als Rauchgas
 
 Der Wirkungsgradverlust durch CO2-Abscheidung liegt bei 5 % bis 15 %.
+## Oxy-fuel Prozess
+- Verbrennungsluft wird durch Gemich aus Sauerstoff und rückgeführtem Ruachgas ersetzt
+- Im Ruachgas kann CO2 durch Kondensation von Wasserdampf angereichert werden
+- Sauerstoffbedarf ist sehr hoch
+- Durch hohe Flammentemperatur muss Rauchgas Rückgeführt werden, damit die Flammentemperatur absinkt
+![[SmartSelect_20240717_083658_Firefox.jpg]]
+Dieser Prozess ist sehr einfach und benötigt wenig Energie. Der Prozessschritt größten Wirkungsgradverlustes ist die Luftzerlegung, welche sehr energieintensiv ist.

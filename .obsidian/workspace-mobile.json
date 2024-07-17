@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Thermische Netze.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Alternative Energietechniken (AET)/Thermische Netze.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md"
           }
         }
       }
@@ -133,8 +133,11 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
-    "Alternative Energietechniken (AET)/Geothermie.md",
+    "SmartSelect_20240717_083658_Firefox.jpg",
+    "Alternative Energietechniken (AET)/Biomasse.md",
+    "Alternative Energietechniken (AET)/Energiespeicher.md",
     "Alternative Energietechniken (AET)/Thermische Netze.md",
+    "Alternative Energietechniken (AET)/Geothermie.md",
     "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "SmartSelect_20240703_162342_Drive.jpg",
@@ -166,9 +169,6 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
-    "Einbindung Regenerativer Energiesysteme/Speicher.md",
-    "Alternative Energietechniken (AET)/Windenergie.md",
-    "Alternative Energietechniken (AET)/AET.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }
