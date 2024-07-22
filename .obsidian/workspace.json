@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Geothermie.md",
+                "file": "Alternative Energietechniken (AET)/Windenergie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Geothermie.md",
+                "file": "Alternative Energietechniken (AET)/Windenergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Geothermie.md",
+                "file": "Alternative Energietechniken (AET)/Windenergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Geothermie.md"
+                "file": "Alternative Energietechniken (AET)/Windenergie.md"
               }
             }
           }
@@ -148,7 +148,14 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Alternative Energietechniken (AET)/Wasserkraft.md",
+    "Alternative Energietechniken (AET)/Thermische Netze.md",
+    "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
+    "Alternative Energietechniken (AET)/Solarkollektoren.md",
     "Alternative Energietechniken (AET)/Photovoltaik.md",
+    "Alternative Energietechniken (AET)/Geothermie.md",
+    "Alternative Energietechniken (AET)/Energiespeicher.md",
+    "Alternative Energietechniken (AET)/Biomasse.md",
     "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "SmartSelect_20240717_085852_Firefox.jpg",
@@ -177,12 +184,6 @@
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
     "Energy Conversion Technology (ECT)/Heat to Power Cycles/ECT.md",
     "Energiesystemtechnik (EST)/EST.md",
-    "Einbindung Regenerativer Energiesysteme/ERES.md",
-    "Chemische Energieumwandlung 2 (CE2)/CE2.md",
-    "Batteriespeichersystemtechnik (BSS)/BSS.md",
-    "Alternative Energietechniken (AET)/AET.md",
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
-    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
-    "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md"
+    "Einbindung Regenerativer Energiesysteme/ERES.md"
   ]
 }

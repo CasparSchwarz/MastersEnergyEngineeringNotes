@@ -48,7 +48,7 @@ Als Latente Wärme wird die Wärme bezeichnet, die bei Wärmezufuhr / -abfuhr ke
 
 $Q=m\cdot (c_{fe}\cdot\Delta T_{fe}+\Delta h_s + c_{fl}\cdot \Delta T_{fl})$
 
-# Thermochemische Speicher
+## Thermochemische Speicher
 In thermochemischen Speichern wird Rekationsenergie von reversiblen chemischen Prozessen oder von Oberflächenreaktionen genutzt, um Energie zu speichern.
 
 Vorteile:

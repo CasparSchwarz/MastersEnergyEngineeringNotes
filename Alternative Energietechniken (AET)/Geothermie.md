@@ -32,7 +32,7 @@ In hydrothermalen Systemen wird Grundwasser in Tiefen von 2 bis 4 km verwendet, 
 
 Hydrothermale Systeme sind prädestiniert für die Stromerzeugung in einem ORC oder Kalina-Prozess.
 ## Hot-Dry-Rock-Verfahren
-Das Grundprinzip des HDR-Verfahrens ist, das Erdreich als großen Wärmeübertrager zu Nutzen, indem tiefe Gesteinsschichten aufgebrochen werden damit Wasser durch die Risse fließen kann. Somit kann durch eine Bohrung, ähnlich der von hydrothermalen Systemen, ein Fluid zur Wärmeaufnahme durch die Risse im Boden geschickt werden.
+Das Grundprinzip des HDR-Verfahrens ist, das Erdreich als großen Wärmeübertrager zu Nutzen, indem tiefe Gesteinsschichten (bis 5 km Tiefe) aufgebrochen werden damit Wasser durch die Risse fließen kann. Somit kann durch eine Bohrung, ähnlich der von hydrothermalen Systemen, ein Fluid zur Wärmeaufnahme durch die Risse im Boden geschickt werden.
 
 Um die Risse im Erdboden zu erzeugen ist es notwendig, Wasser in den Erdboden unter hohem Druck (150 bar) einzupressen. Als Folge dessen kann es zu Mikroerdbeben an der Erdoberfläche kommen.
 ## Sicherheitsrisiken
