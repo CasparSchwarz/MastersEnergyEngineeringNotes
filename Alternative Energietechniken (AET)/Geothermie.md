@@ -17,13 +17,15 @@ Es wird unterschieden zwischen der Entnahmeart der Lagerstätte:
 
 Geothermische (vulkanische) Anomalien sind auf der gesamten Welt verbreitet, liegen im Großteil jedoch am Meeresgrund oder in Küstengebieten. Somit sind die meisten Hochenthalpie-Lagerstätten nach heutigem Stand nicht technisch nutzbar.
 # Niederenthalpie-Lagerstätten
-## Tiefe Erwärmesonden
+## Tiefe Erdwärmesonden
 Erdwärmesonden sind Rohre, die in einem geraden Loch in der Erde liegen und in ca. 2 bis 3 km Tiefe Wärme dem Boden entziehen. Das Wärmeträgerfluid ist dabei miestens eine Sole bestehend aus Wasser und Frostschutzmittel.
 
 Als Sondensysteme werden folgdende Varianten verwendet:
 - U-Rohr / Doppel-U-Rohr
 - Koaxialsonden
 - Kohlendioxid-Sonden (nach dem Pronzip einer Heatpipe)
+
+Um die Effektivität von Erdwärmesonden zu testen wird der sogenannte **Thermal Response Test** durchgeführt. Dabei wird Wasser bis zu 72 Stunden im Sondenkreislauf zirkuliert. Die sich ergebenden Vor- und Rücklauftemperaturen geben daraufhin Rückschluss auf Wärmeleitfähigkeit und Wärmewiderstand des Untergrunds.
 
 ## Hydrothermale Systeme
 In hydrothermalen Systemen wird Grundwasser in Tiefen von 2 bis 4 km verwendet, um Wärme dem Boden zu entziehen. Dabei müssen zwei Bohrungen durchgeführt werden, die mit zunehmender Tiefe auseinanderlaufen. Eine Tauchpumpe fördert dabei das warme Wasser von unten nach oben. Das kalte Wasser wird durch die andere Bohrung wieder ins Grundwasser gelassen.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+                "file": "Alternative Energietechniken (AET)/Geothermie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+                "file": "Alternative Energietechniken (AET)/Geothermie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
+                "file": "Alternative Energietechniken (AET)/Geothermie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Batteriespeichersystemtechnik (BSS)/Supercaps.md"
+                "file": "Alternative Energietechniken (AET)/Geothermie.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Alternative Energietechniken (AET)/Photovoltaik.md",
+    "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
     "SmartSelect_20240717_085852_Firefox.jpg",
     "SmartSelect_20240717_083658_Firefox.jpg",
     "Batteriespeichersystemtechnik (BSS)/Grundlagen.md",
-    "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
     "Pasted image 20240708171342.png",
     "Pasted image 20240708170612.png",
     "Pasted image 20240708170316.png",
@@ -164,7 +165,6 @@
     "SmartSelect_20240703_162342_Drive.jpg",
     "SmartSelect_20240703_160854_Drive.jpg",
     "Pasted image 20240703143749.png",
-    "Alternative Energietechniken (AET)/Photovoltaik.md",
     "test.csv",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
