@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Windenergie.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kontaktwärme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Windenergie.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kontaktwärme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Windenergie.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kontaktwärme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alternative Energietechniken (AET)/Windenergie.md"
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kontaktwärme.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a8231a33be6830e1",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/WSÜ2.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kontaktwärme.md",
+    "Alternative Energietechniken (AET)/Windenergie.md",
     "Alternative Energietechniken (AET)/Wasserkraft.md",
     "Alternative Energietechniken (AET)/Thermische Netze.md",
     "Alternative Energietechniken (AET)/Solarthermische Kraftwerke.md",
@@ -180,10 +183,7 @@
     "Wärme.md",
     "Wärmeübertrager & Dampferzeuger/WüDe.md",
     "Wärmepumpensystemtechnik (WPSys)/WPSys.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/WSÜ2.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
-    "Energy Conversion Technology (ECT)/Heat to Power Cycles/ECT.md",
-    "Energiesystemtechnik (EST)/EST.md",
-    "Einbindung Regenerativer Energiesysteme/ERES.md"
+    "Energy Conversion Technology (ECT)/Heat to Power Cycles/ECT.md"
   ]
 }
