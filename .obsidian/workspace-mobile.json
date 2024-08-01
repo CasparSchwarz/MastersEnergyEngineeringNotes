@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,6 +133,7 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "4913",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Infrarotthermographie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
@@ -168,7 +169,6 @@
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
-    "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
 }
