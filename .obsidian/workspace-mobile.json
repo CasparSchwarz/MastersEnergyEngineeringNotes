@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
+                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md"
+            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md"
           }
         }
       }
@@ -133,6 +133,10 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Infrarotthermographie.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "SmartSelect_20240717_085852_Firefox.jpg",
     "SmartSelect_20240717_083658_Firefox.jpg",
     "Alternative Energietechniken (AET)/Biomasse.md",
@@ -143,10 +147,8 @@
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
     "SmartSelect_20240703_162342_Drive.jpg",
     "SmartSelect_20240703_160854_Drive.jpg",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "SmartSelect_20240703_090928_Drive.jpg",
     "Alternative Energietechniken (AET)/Photovoltaik.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
@@ -163,11 +165,9 @@
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
-    "Pasted image 20240610153029.png",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
     "Batteriespeichersystemtechnik (BSS)/Ladeverfahren.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
