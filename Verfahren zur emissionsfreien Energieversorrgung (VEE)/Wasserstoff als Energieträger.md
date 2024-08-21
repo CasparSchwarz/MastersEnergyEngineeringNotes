@@ -26,7 +26,7 @@ Wasserstoff besitzt bei Ruamtemperatur eine sehr hohe mittlere Molekülgeschwind
 
 Zudem liegt die stöchiometrische adiabate Verbrennungstemperatur von Wasserstoff bei ca. 2.250 °C -> hohe $NO_x$ Produktion
 
-Wasserstoff liegt in 2 verschiedenen Formen vor: p-Wasserstroff und o-Wasserstoff. Beide haben unterschiedliche Eigenschaften und unterschiedliche Wärmekapazitäten. Bei der Abkühlung muss durch die Umwandlung von o-Wasserstoff zu p-Wasserstoff mehr Wärme abgeführt werden.
+Wasserstoff liegt in 2 verschiedenen Formen vor: p-Wasserstroff (Para) und o-Wasserstoff (ortho). P-H2 hat zwei antiparallele spins und O-H2 hat zwei parallele spins. Dabei besitzt O-H2 mehr Energie als P-H2. Bei 0K liegt ausschließlich p-H2 vor. Beide haben unterschiedliche Eigenschaften und unterschiedliche Wärmekapazitäten. Bei der Abkühlung muss durch die Umwandlung von o-Wasserstoff zu p-Wasserstoff mehr Wärme abgeführt werden. Da die Umwandlung von o-H2 zu p-H2 sehr langsam erfolgt, muss mit Katalysatoren nachgeholfen werden.
 
 ## Wasserstoffversprödung
 Bei erhöhter Wasserstoffkonzentration tritt Werkstoffversagen früher ein (bei geringeren Längenänderungen), aber Zugfestigkeit bleibt gleich.

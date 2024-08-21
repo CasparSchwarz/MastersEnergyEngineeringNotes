@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-                "mode": "preview",
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
+    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "4913",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Infrarotthermographie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
@@ -165,9 +167,7 @@
     "SmartSelect_20240612_094101_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
   ]
