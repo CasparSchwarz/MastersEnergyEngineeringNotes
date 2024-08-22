@@ -14,7 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+<<<<<<< HEAD
                 "mode": "preview",
+=======
+                "mode": "source",
+>>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
                 "source": false
               }
             }
@@ -133,11 +137,14 @@
   },
   "active": "93d1aa3b933928fb",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+=======
+>>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
     "4913",
@@ -167,6 +174,10 @@
     "SmartSelect_20240612_094241_Drive.jpg",
     "SmartSelect_20240612_094101_Drive.jpg",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
+<<<<<<< HEAD
+=======
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
+>>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
     "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
     "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
     "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
