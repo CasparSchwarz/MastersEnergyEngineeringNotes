@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "3b0334d6b7563d74",
+    "id": "75310d4b1bb732e9",
     "type": "split",
     "children": [
       {
-        "id": "b33687d0e48a0af4",
+        "id": "6e5c56c59f15ba98",
         "type": "tabs",
         "children": [
           {
-            "id": "93d1aa3b933928fb",
+            "id": "4984d4bc5bdf8ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
-<<<<<<< HEAD
-                "mode": "preview",
-=======
+                "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
                 "mode": "source",
->>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
                 "source": false
               }
             }
@@ -29,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0b131efcb00bcbbe",
+    "id": "dbb4e53be00b8beb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "85a07a0cc2946fe5",
+        "id": "3d9c0e77c062b3ad",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +39,7 @@
         }
       },
       {
-        "id": "45a7654ceabd24e3",
+        "id": "e016d932ab14a161",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -58,7 +54,7 @@
         }
       },
       {
-        "id": "e48dc0140e12a9c7",
+        "id": "979b895972f917ef",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -69,7 +65,7 @@
         }
       },
       {
-        "id": "8b407b7b7c660289",
+        "id": "5a7ba751f29cf2df",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -80,16 +76,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "178972b0814c6f05",
+    "id": "07766015a1f71ccb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4e1dc1474906167f",
+        "id": "44b08e241bcd5e2d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,24 +96,23 @@
         }
       },
       {
-        "id": "507498d532739dd2",
+        "id": "7009a6ce9b971728",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "477c4e78077ccb12",
+        "id": "f99b2a4028778595",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md"
+            "file": "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md"
           }
         }
       }
@@ -135,51 +129,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93d1aa3b933928fb",
+  "active": "3d9c0e77c062b3ad",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthesen mit Wasserstoff.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Synthese CO2-reduzierter Energieträger.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/CO2-Rückhaltung aus energietechnischen Anlagen.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Biofuels.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
-=======
->>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Phasengleichgewichte.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Kinetische Gastheorie.md",
-    "4913",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Infrarotthermographie.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdunstung an flüssiger Oberfläche.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Verdampfung und Kondensation.md",
-    "SmartSelect_20240717_085852_Firefox.jpg",
-    "SmartSelect_20240717_083658_Firefox.jpg",
-    "Alternative Energietechniken (AET)/Biomasse.md",
-    "Alternative Energietechniken (AET)/Energiespeicher.md",
-    "Alternative Energietechniken (AET)/Thermische Netze.md",
-    "Alternative Energietechniken (AET)/Geothermie.md",
-    "Batteriespeichersystemtechnik (BSS)/Supercaps.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Prallstrahlen.md",
-    "SmartSelect_20240703_162342_Drive.jpg",
-    "SmartSelect_20240703_160854_Drive.jpg",
-    "SmartSelect_20240703_090928_Drive.jpg",
-    "Alternative Energietechniken (AET)/Photovoltaik.md",
-    "SmartSelect_20240626_084838_Drive.jpg",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md",
-    "Batteriespeichersystemtechnik (BSS)/Blei-Säure-Batterien.md",
-    "Chemische Energieumwandlung 2 (CE2)/Reduktion von Schadstoffemissionen.md",
-    "Chemische Energieumwandlung 2 (CE2)/Reaktionskinetik.md",
-    "Batteriespeichersystemtechnik (BSS)/Sicherheit von Batteriepacks.md",
-    "SmartSelect_20240612_194516_Firefox.jpg",
-    "SmartSelect_20240612_184032_Drive.jpg",
-    "SmartSelect_20240612_094241_Drive.jpg",
-    "SmartSelect_20240612_094101_Drive.jpg",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Wasserstoff als Energieträger.md",
-<<<<<<< HEAD
-=======
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/Verfahrenstechnische Grundlagen.md",
->>>>>>> e521b581bbe8161fa6817d36e3813a30cc48e2a7
-    "Batteriespeichersystemtechnik (BSS)/Batteriepackdesign.md",
-    "Wärme- und Stoffübertragung 2 (WSÜ2)/Filmtheorie.md",
-    "Verfahren zur emissionsfreien Energieversorrgung (VEE)"
+    "Verfahren zur emissionsfreien Energieversorrgung (VEE)/VEE.md"
   ]
 }
