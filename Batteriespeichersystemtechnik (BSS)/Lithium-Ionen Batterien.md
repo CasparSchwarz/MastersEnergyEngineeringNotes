@@ -20,7 +20,7 @@ Li-Io Batterien werden nach Anodenmaterial und Elektrolyt unterschieden:
 # Funktionsweise
 Lithium-Ionen sind Lithium Atome, denen ein Elektron fehlt und somit positiv geladen sind. Die Lithium-Atome geben dabei an der Anode Elektronen ab und die Ionen wandern durch das Elektrolyt zu der Kathode.
 
-Die Anode besteht dabei im Regelfall aus Graphit, wobei auf ein Lithium-Atom 6 Grpahit Atome kommen. Somit existiert in einer Lithium-Ionen Batterie niemals metallisches Lithium, da die einzelnen Atome nicht mit einander zu einem Metall verbunden sind.
+Die Anode besteht dabei im Regelfall aus Graphit, wobei auf ein Lithium-Atom 6 Graphit Atome kommen. Somit existiert in einer Lithium-Ionen Batterie niemals metallisches Lithium, da die einzelnen Atome nicht mit einander zu einem Metall verbunden sind.
 
 Während des Ladens wird das Lithium aus dem Kathodenmaterial herausgelöst. Dabei kann nur maximal 70 % des Lithiums herausgelöst werden, da das Kathodenmaterial sonst instabil wird.
 $$
@@ -35,19 +35,19 @@ $$
 ![[SmartSelect_20240506_093354_Drive.jpg]]
 # Verwendete Materialien
 ## Elektrolyten
-Als Elektrolyt können flüssige oder feste Elektrolyte verwendet werden. Zu den flüssigen zählen unter anderem basische und sauer Lösungen. Diese haben eine hohe Leitfähigkeit, erzeugen jedoch während des Ladevorgangs Wasserstoff, was ein erhöhtes Sicherheitsrisiko zur Folge hat.
+Als Elektrolyt können flüssige oder feste Elektrolyte verwendet werden. Zu den flüssigen zählen unter anderem basische und saure Lösungen. Diese haben eine hohe Leitfähigkeit, erzeugen jedoch während des Ladevorgangs Wasserstoff, was ein erhöhtes Sicherheitsrisiko zur Folge hat.
 
 Sicherer sind Polymmerelektrolyte, die aus einer Membran bestehen. Diese haben jedoch eine deutlich niedrigere Leitfähigkeit als flüssige Elektrolyte und müssen dementsprechend sehr sehr dünn sein (<< 50 µm).
 ## Anoden & Kathoden
 
-| Kathodenmaterial                | Vorteile                                        | Nachteile                                        |
-| ------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
-| $LiCoO_2$                       | Gute Lebensdauer                                | Hohes Sicherheitsrisiko, geringe Vollzykleenzahl |
-| $LiNiO_2$                       | Gute Performance                                | Höchstes Sicherheitsrisiko                       |
-| $LiMn_2O_4$                     | Sicherheit beesser als Co & Ni                  | Schlechtere Lebensdauer                          |
-| $LiCo_{1/3}Ni_{1/3}Mn_{1/3}O_2$ | Populär und große Spezialisierungsmöglichkeiten |                                                  |
-| $LiCo_xNi_yMn_2Al_wO_2$         | Große Variabilität in Mischmaterialien          |                                                  |
-| $LiFePO_4$                      | Günstiges und sicheres Ausgangsmaterial         |                                                  |
+| Kathodenmaterial                | Vorteile                                        | Nachteile                                       |
+| ------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| $LiCoO_2$                       | Gute Lebensdauer                                | Hohes Sicherheitsrisiko, geringe Vollzyklenzahl |
+| $LiNiO_2$                       | Gute Performance                                | Höchstes Sicherheitsrisiko                      |
+| $LiMn_2O_4$                     | Sicherheit beesser als Co & Ni                  | Schlechtere Lebensdauer                         |
+| $LiCo_{1/3}Ni_{1/3}Mn_{1/3}O_2$ | Populär und große Spezialisierungsmöglichkeiten |                                                 |
+| $LiCo_xNi_yMn_2Al_wO_2$         | Große Variabilität in Mischmaterialien          |                                                 |
+| $LiFePO_4$                      | Günstiges und sicheres Ausgangsmaterial         |                                                 |
 
 | Anodenmaterial           | Spannung | Eigenschaften                                                                           |
 | ------------------------ | -------- | --------------------------------------------------------------------------------------- |

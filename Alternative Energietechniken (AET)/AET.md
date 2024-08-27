@@ -12,4 +12,7 @@ Das Fach Alternative Energietechniken beschäftigt sich mit dem  Einsatz  erneue
 [[Wasserkraft]]
 [[Alternative Energietechniken (AET)/Windenergie|Windenergie]]
 [[Solarkollektoren]]
+[[Photovoltaik]]
 [[Solarthermische Kraftwerke]]
+[[Thermische Netze]]
+[[Geothermie]]

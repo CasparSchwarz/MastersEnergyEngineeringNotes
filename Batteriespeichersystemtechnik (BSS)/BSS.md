@@ -7,3 +7,6 @@ Batteriespeichersystemtechnik beschäftigt sich mit dem chemischen Energiespeich
 [[Ladeverfahren]]
 [[Batteriepackdesign]]
 [[Blei-Säure-Batterien]]
+[[Managementstrategien von Batteriepacks]]
+[[Sicherheit von Batteriepacks]]
+[[Supercaps]]
