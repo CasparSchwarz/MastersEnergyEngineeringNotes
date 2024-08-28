@@ -9,7 +9,6 @@ Zur Synthetisierung der Energieträger werden so gut wie immer Kohlenstoff und W
 
 Als spezielle synthetisierte Energieträger zählen Wasserstoff und Biofuels. Siehe dazu weiterführend:
 [[Synthesen mit Wasserstoff]]
-[[Biofuels]]
 # Wirkungsgrade und Kenngrößen
 Gasausbeute:
 $$

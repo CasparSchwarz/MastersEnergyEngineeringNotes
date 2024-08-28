@@ -4,3 +4,4 @@ Die Vorlesung Einbindung Regenerativer Energiesysteme beschäftigt sich mit der 
 [[Wirtschaft & Politik]]
 [[Strom- und Gasnetze]]
 [[Life Cycle Analyse]]
+[[Speicher]]
