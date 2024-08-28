@@ -119,6 +119,6 @@ Das Raoult'sche Gesetz betrachtet eine Standarrdfugazität und vernachlässigt d
 
 Somit ist das Raoult'sche Gesetz nur für **ideale Gase** zu verwenden. Ebenso ist das Raoultsche Gesetz zu verwenden, wenn der Partialdruck einer Flüssigkeit in der Gasphase bestimmt werden soll.
 ## Henry-Koeffizient
-Um eine genauere Bestimmung des Gleichgewichts zu erreichen, wird der Henry-Koeffizient zur bestimmung der Standardfugazität verwendet. Der Henrry-Koeffizient beschreibt somit die Löslichkeit über einen einffachen linearen Zusammenhang zwischen dem Partialdruck in der Gasphase und der Stoffmengenkonzentration in der Flüssigphase. $H_{ij}$ ist für Stoffpaarungen tabelliert tund stark temperaturabhängig.
+Um eine genauere Bestimmung des Gleichgewichts zu erreichen, wird der Henry-Koeffizient zur bestimmung der Standardfugazität verwendet. Der Henry-Koeffizient beschreibt somit die Löslichkeit über einen einfachen linearen Zusammenhang zwischen dem Partialdruck in der Gasphase und der Stoffmengenkonzentration in der Flüssigphase. $H_{ij}$ ist für Stoffpaarungen tabelliert und stark temperaturabhängig.
 
 Das Herny'sche Gesetz wird verwendet, wenn die Konzentration einer Gasförmigen Komponente in einer Flüssigkeit bestimmt werden soll.
