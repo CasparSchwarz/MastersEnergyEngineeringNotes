@@ -75,6 +75,8 @@ Dieser Prozess eignet sich zur Müllvergasung in Müllverbrennungsanlagen, hat j
 Vergasung bei schnellem Vergasungsprozess
 ![[SmartSelect_20240612_094241_Drive.jpg]]
 Hierbei muss der Brennstoff fein aufgemahlen werden, damit die Reaktionen (Trocknung, Pyrolyse, Verbrennung, Vergasung) der Reihe nach stattfinden können.
+
+IGCC (Integrated gasification combined cycle) beschreibt den gesamten Prozess der Kohlevergasung mit Rohgaswäsche.
 # Synthesegasaufbereitung
 In Rohsynthesegas sind verschiedene Verunreinigungen und Begleitstoffe enthalten, die entfernt werden müssen:
 - Schwefelverbindungen
