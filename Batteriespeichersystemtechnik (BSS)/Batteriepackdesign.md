@@ -9,7 +9,7 @@ Die Lebensdauer einer Batterie ist dabei von folgenden Faktoren abhängig:
 Entscheidend für den Erfolg eines Batteriespeichers sind die Kosten für den jeweiligen Speicher.
 
 Zusammenfassung:
-- Gute Zellen sind eine notwendige Voraussetzung für eine lange Packlebensdauer, aber keine Gaantie
+- Gute Zellen sind eine notwendige Voraussetzung für eine lange Packlebensdauer, aber keine Garantie
 - Modulare Niedervoltsysteme und Parallelschaltungskonzepte müssen intensiv evaluiert werden in Bezug auf Kosten, Sicherheit und Lebensdauerzuwachs
 - Detaillierte Kenntnisse des Alterungsverhaltens als Funktion der Batriebszustände notwendig -> Umfangreiche Tests und Charakterisierungen für jeden Zelltyp notwendig
 - Verschaltungskonzepte, Batteriepacksdesign und Managementstrategien können bei gleicher Leistung, Kunde und Größe der Batterie einen Faktor 2 in der Lebensdauer ausmachen
