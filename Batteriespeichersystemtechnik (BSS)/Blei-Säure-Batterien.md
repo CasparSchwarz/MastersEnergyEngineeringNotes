@@ -25,15 +25,15 @@ Schematischer Aufbau einer Blei-Säure Batterie
 ![[Pasted image 20240625090545.png]]
 Das  poröse Gitter des Bleidioxid (positve Aktiv-Masse) muss porös genug sein, dass Schwefelsäure in die Hohlräume dringen kann.
 ## Reaktionen in der Blei-Batterie
-Durch die Reaktion korrodiert die positive Aktivmasse: Das Blei gibt Elektronen während des Ladevorgangs ab, wobei zum Ladungsausgleich ebenfalls  ein Blei-Iion abgegeben wird. In der Schwefelsäure sind Schwefeloxid-Ionen ab. Durch Diffusion Kommen Blei-Ionen und Schwefeloxid-Ionen zueinander und reagieren zu Bleisulfat-Kristallen.
+Durch die Reaktion korrodiert die positive Aktivmasse: Das Blei gibt Elektronen während des Ladevorgangs ab, wobei zum Ladungsausgleich ebenfalls  ein Blei-Iion abgegeben wird. In der Schwefelsäure sind Schwefeloxid-Ionen. Durch Diffusion Kommen Blei-Ionen und Schwefeloxid-Ionen zueinander und reagieren zu Bleisulfat-Kristallen.
 
 Während des  Entladevorgangs werden Elektronen in das Blei gedrückt und es müssen Blei-Ionen aus dem Elektrolyt entnommen werden, um die Ladung im  Blei auszugleichen. Dafür wird der Bleisulfat-Kristall genutzt, welcher sich während des  Ladevorgangs wieder auflöst.
 ![[Pasted image 20240625091804.png]]
 Der chemische Prozessschritt ist der langsamster Schritt in der Reaktion in Blei-Batterien. Bei hoher Lade-Entlade-Frequenz wird nur der elektrochemische Prozessschritt genutzt.
 ## Elektrolyt
-In Blei-Batterien nimmt die eSchwefelsäure an der Reaktion teil und bringt einige Nachteile  mit sich:
+In Blei-Batterien nimmt die Schwefelsäure an der Reaktion teil und bringt einige Nachteile  mit sich:
 - In unmittelbarer Elektroden Nähe muss ausreichend Säure vorhanden sein -> Mindestabstand der Elektroden notwendig und damit ergibt sich auch ein Mindest-Widerstand durch den Elektrolyten
-- Verbrauchund Freisetzung von Säure kann zu Säureschichtung führen
+- Verbrauch und Freisetzung von Säure kann zu Säureschichtung führen
 - Da Schwefelsäure beim Entladen verbraucht wird, sinkt die Zellenspannung mit fortschreitender Entladung und steigt beim Laden
 - Mit sinkender Schwefelsäurekonzentration (in erster Nähe linear proportional zur Säuredichte) steigt der Gefrierpunkt der Säure von ca. -45 °C zu 0 °C
 

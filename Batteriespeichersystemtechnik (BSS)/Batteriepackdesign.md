@@ -191,7 +191,7 @@ Die Spannung bestimmt die Anzahl seriell verschalteter Zellen. Typische Spannung
 - Mild-Hybridfahrzeuge - 150 V
 - Vollhybrid- & Elektrofahrzeuge - 400 V
 - Zum Ultra-Schnellladen: 800 V in Diskussion
-- In Bussen oder Straßenbahnen: 700 bis 80 V üblich (Oberleitungen)
+- In Bussen oder Straßenbahnen: 700 bis 800 V üblich (Oberleitungen)
 
 Dabei ist zu beachten, dass hohe DC-Batteriespannung einige Herausforderungen verursachen:
 - Hohe DC-Spannungen sind kritischer als AC-Spannungen
