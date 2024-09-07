@@ -60,6 +60,7 @@ $$
 \text{Mit }x_i\text{ als zeitlicher Anteil der jeweiligen Alterungsrate}
 \end{align}
 $$
+Somit ist die gesamte Alterungsrate die arithmetische Mittel aller einzelnen Alterungsraten.
 ## Selbstentladung
 - Spannungsabfall hängt stark von der Vorgeschichte ab
 	- Ladedauer, Lade/Entlade-Vorgeschichte, Temperatur, Anfangsspannung
