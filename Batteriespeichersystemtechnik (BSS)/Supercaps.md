@@ -52,6 +52,14 @@ Der wesentliche Alterungsprozess ist die **Zersetzung des Elektrolyten**. Die ch
 Temperaturerhöhungen können durch Spannungsabsenkung kompensiert werden. Das geht jedoch mit einem Energieverlust einher, sodass die Kapazität des Kondensators erhöht werden muss.
 
 Bei beschleunigten Alterungstest können andere Alterungseffekte auftreten, als es im Anwendungsfall der Fall ist. Bspw. ein Aufblähen des Zellgehäuses aufgrund der Zersetzung des Elektrolyten.
+
+Die Alterungsrate korreliert mit dem Kehrwert der Lebensdauer:
+$$
+\begin{align}
+\frac{1}{t_{life}}=\sum_i{x_i*\frac{1}{t_i}} \newline \newline
+\text{Mit }x_i\text{ als zeitlicher Anteil der jeweiligen Alterungsrate}
+\end{align}
+$$
 ## Selbstentladung
 - Spannungsabfall hängt stark von der Vorgeschichte ab
 	- Ladedauer, Lade/Entlade-Vorgeschichte, Temperatur, Anfangsspannung
